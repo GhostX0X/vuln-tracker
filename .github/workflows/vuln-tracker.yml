@@ -1,0 +1,39 @@
+name: Critical/High Vulnerability Tracker
+
+permissions:
+  contents: write
+
+on:
+  # NOTE: GitHub's practical floor for scheduled workflows is ~5 minutes,
+  # and runs can be delayed under platform load. Scheduled workflows are
+  # also auto-disabled after 60 days with no commits to the repo, so
+  # keep pushing *something* (even just this bot's own commits count).
+  schedule:
+    - cron: "*/15 * * * *"   # every 15 minutes — change to "0 * * * *" for hourly
+  workflow_dispatch:
+
+jobs:
+  check-vulns:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependency
+        run: pip install feedparser
+
+      - name: Run vuln feed check
+        run: python ./scripts/fetch_critical_high_vulns.py
+
+      - name: Commit results
+        run: |
+          git config user.name "security-bot"
+          git config user.email "security-bot@github.com"
+          git add vulnerabilities/*.md VULN-STATUS.md 2>/dev/null || true
+          git commit -m "Auto update: critical/high vulns ($(date -u +'%Y-%m-%d %H:%M UTC'))" || echo "No changes"
+          git pull --rebase || true
+          git push

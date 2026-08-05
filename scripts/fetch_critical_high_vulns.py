@@ -108,10 +108,16 @@ def save_day_data(date_str, records):
         json.dump(records, f, indent=2)
 
 
+def escape_cell(text):
+    """Keep a pipe character in a title from breaking the markdown table."""
+    return text.replace("|", "\\|")
+
+
 def render_day_markdown(date_str, records):
     """Regenerate the day's .md file grouped by severity (Critical
     section first, then High), sorted by CVSS score descending within
-    each group. Overwrites the file — JSON is the source of truth."""
+    each group, rendered as tables. Overwrites the file — JSON is the
+    source of truth."""
     critical = sorted(
         [r for r in records if r["severity"] == "critical"],
         key=lambda r: r["score"] or 0, reverse=True,
@@ -122,6 +128,7 @@ def render_day_markdown(date_str, records):
     )
     kev_count = sum(1 for r in records if r["is_kev"])
     watch_count = sum(1 for r in records if r["is_watch"])
+    sources = sorted({r["source"] for r in records})
 
     lines = [f"# Critical & High Severity Vulnerabilities — {date_str}", ""]
 
@@ -132,32 +139,32 @@ def render_day_markdown(date_str, records):
     lines.append(f'    "High" : {len(high)}')
     lines.append("```")
     lines.append("")
-    lines.append(f"🔥 Actively exploited (KEV): **{kev_count}**  |  ⭐ Watchlist matches: **{watch_count}**")
+    lines.append(f"**Source:** {', '.join(sources)}")
+    lines.append(f"**KEV (actively exploited):** {kev_count}  **Watchlist matches:** {watch_count}")
     lines.append("")
 
-    def render_group(title_emoji_label, group):
-        emoji, label = title_emoji_label
+    def render_group(label, group):
         if not group:
             return
-        lines.append(f"## {emoji} {label} ({len(group)})")
+        lines.append(f"## {label} ({len(group)})")
         lines.append("")
+        lines.append("| CVSS | Flags | CVE / Title | Reported |")
+        lines.append("|------|-------|-------------|----------|")
         for r in group:
-            score_str = f" (CVSS {r['score']})" if r["score"] is not None else ""
-            flags = ""
+            score_str = str(r["score"]) if r["score"] is not None else "—"
+            flags = []
             if r["is_kev"]:
-                flags += " 🔥 **ACTIVELY EXPLOITED (KEV)**"
+                flags.append("🔥 KEV")
             if r["is_watch"]:
-                flags += " ⭐ WATCHLIST"
-            ago_str = f" — _reported {r['reported_ago']}_" if r["reported_ago"] else ""
-            lines.append(
-                f"- **{score_str.strip() or 'CVSS n/a'}**{flags} "
-                f"[{r['title']}]({r['link']}) — _{r['source']}_ "
-                f"({r['pub']}){ago_str}"
-            )
+                flags.append("⭐")
+            flags_str = " ".join(flags) if flags else "—"
+            title_cell = f"[{escape_cell(r['title'])}]({r['link']})"
+            reported = r["reported_ago"] or r["pub"]
+            lines.append(f"| {score_str} | {flags_str} | {title_cell} | {reported} |")
         lines.append("")
 
-    render_group(("🔴", "Critical"), critical)
-    render_group(("🟠", "High"), high)
+    render_group("Critical", critical)
+    render_group("High", high)
 
     os.makedirs(BASE_DIR, exist_ok=True)
     with open(f"{BASE_DIR}/{date_str}.md", "w", encoding="utf-8") as f:

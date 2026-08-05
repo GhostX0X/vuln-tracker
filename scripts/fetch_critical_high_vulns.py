@@ -133,6 +133,11 @@ def render_day_markdown(date_str, records):
     lines = [f"# Critical & High Severity Vulnerabilities — {date_str}", ""]
 
     lines.append("```mermaid")
+    lines.append(
+        "%%{init: {'theme':'base', 'themeVariables': "
+        "{'pie1':'#e63946', 'pie2':'#f4a300', 'pieOpacity':'1', "
+        "'pieOuterStrokeWidth':'2px', 'pieSectionTextColor':'#ffffff'}}}%%"
+    )
     lines.append("pie showData")
     lines.append(f'    title {date_str} — {len(records)} vulnerabilities')
     lines.append(f'    "Critical" : {len(critical)}')
@@ -255,18 +260,22 @@ def main():
             if is_watch:
                 run_stats["watch"] += 1
 
-    touched_summary = {}
+    # Save new records into each touched day's JSON store first.
     for date_str, new_records in new_by_date.items():
         existing = load_day_data(date_str)
-        merged = existing + new_records
-        save_day_data(date_str, merged)
-        render_day_markdown(date_str, merged)
-        touched_summary[date_str] = {
-            "critical": sum(1 for r in merged if r["severity"] == "critical"),
-            "high": sum(1 for r in merged if r["severity"] == "high"),
-        }
+        save_day_data(date_str, existing + new_records)
 
-    render_status(touched_summary)
+    # Re-render EVERY day that has data, not just today's touched dates —
+    # this is what makes template/formatting updates (colors, layout,
+    # table vs. list, etc.) apply retroactively to old files instead of
+    # only showing up the next time that specific day happens to get a
+    # fresh entry.
+    for path in glob.glob(f"{DATA_DIR}/*.json"):
+        date_str = os.path.basename(path).replace(".json", "")
+        records = load_day_data(date_str)
+        render_day_markdown(date_str, records)
+
+    render_status({})
 
     print(f"New this run — critical: {run_stats['critical']}, high: {run_stats['high']}, "
           f"KEV: {run_stats['kev']}, watchlist: {run_stats['watch']}")

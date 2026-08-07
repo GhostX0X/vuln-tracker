@@ -1,6 +1,6 @@
 # 🚨 Vulnerability Feed Status
 
-Last checked: 2026-08-07T12:08:01.906391+00:00 UTC
+Last checked: 2026-08-07T13:38:23.721567+00:00 UTC
 
 ## 📅 Counts by date (latest first)
 

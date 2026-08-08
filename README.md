@@ -1,51 +1,87 @@
 # Vuln Tracker
 
-Automated GitHub Action that polls vulnerability RSS feeds every 15 minutes, filters for **Critical** and **High** severity CVEs only, cross-references each one against CISA's **Known Exploited Vulnerabilities (KEV)** catalog, and flags anything relevant to VAPT / bug bounty work (web API, mobile/Android, cloud/K8s) via a watchlist.
+An automated GitHub Action that continuously monitors vulnerability disclosure feeds, filters for **Critical**, **High**, and **Medium** severity CVEs, cross-references every finding against CISA's **Known Exploited Vulnerabilities (KEV)** catalog, and flags anything relevant to offensive security work — web/API, mobile (Android/APK), and cloud/Kubernetes — via a configurable watchlist.
 
-Built to stay on top of newly disclosed high-impact CVEs without manually checking feeds throughout the day.
+Built to eliminate manual feed-checking: new critical-impact CVEs are surfaced automatically, prioritized by real-world exploitation status rather than CVSS score alone.
 
-## What it does
+---
 
-- Pulls from [cvefeed.io](https://cvefeed.io)'s high/critical severity RSS feed on a schedule
-- Parses out CVE ID, CVSS score, and severity directly from the feed
-- Cross-checks every CVE against CISA's KEV catalog — flags anything **actively being exploited in the wild**, regardless of CVSS score
-- Flags anything matching a watchlist of keywords relevant to offensive security work (IDOR, CORS, XSS, SSRF, auth bypass, JWT/OAuth, GraphQL, RCE, Android/APK, Kubernetes/EKS, cloud, etc.)
-- Deduplicates by CVE ID so the same vulnerability never gets logged twice, even across different days or feeds
-- Groups results by severity (Critical, then High) sorted by CVSS score, rendered as tables with a per-day pie chart
-- Commits results back to this repo automatically — no manual steps after initial setup
+## Features
 
-## Repo structure
+- **Multi-source ingestion** — pulls from one or more configured vulnerability RSS feeds on a schedule (currently [cvefeed.io](https://cvefeed.io); more feeds can be added independently).
+- **CISA KEV cross-check** — every CVE is checked against the actively-exploited-in-the-wild catalog. A KEV match is flagged regardless of severity, since real-world exploitation is a stronger prioritization signal than CVSS alone.
+- **Offensive-security watchlist** — entries matching keywords relevant to VAPT/bug bounty work (IDOR, CORS, XSS, SSRF, auth bypass, JWT/OAuth, GraphQL, RCE, Android/APK, Kubernetes/EKS, cloud, etc.) are flagged separately.
+- **Cross-run, cross-feed deduplication** — every CVE ID is tracked in a persistent index, so the same vulnerability is never logged twice even if it reappears across different feeds or days.
+- **Severity-grouped, chart-backed reports** — each day's findings are rendered as Critical / High / Medium tables sorted by CVSS score, with a per-day distribution chart and a per-source contribution breakdown.
+- **Organized, browsable archive** — reports are structured into `year → month → day`, with an auto-generated index at each level sorted latest-first.
+- **Fully autonomous** — the Action commits its own results back to this repository on a schedule. No manual maintenance required after initial setup.
+
+---
+
+## Repository structure
 
 ```
-scripts/
-  fetch_critical_high_vulns.py   # the tracker script
-.github/workflows/
-  vuln-tracker.yml               # scheduled GitHub Action (runs every 15 min)
-vulnerabilities/
-  data/                          # structured JSON per day — source of truth, don't edit by hand
-  .seen-cves.txt                 # flat index of every CVE ID ever logged, for fast dedup
-  YYYY-MM-DD.md                  # rendered daily report (auto-generated from data/)
-VULN-STATUS.md                   # dashboard: date/count table + trend chart, check this first
+.
+├── VULN-STATUS.md              Dashboard — start here
+├── scripts/
+│   └── fetch_critical_high_vulns.py
+├── .github/workflows/
+│   └── vuln-tracker.yml        Scheduled GitHub Action
+└── vulnerabilities/
+    ├── README.md               Archive index (years, latest first)
+    ├── <year>/
+    │   ├── README.md           Year index (months, latest first)
+    │   └── <month>/
+    │       ├── README.md       Month index (days, latest first)
+    │       └── <date>.md       Daily report
+    └── data/<year>/<month>/    Structured JSON — source of truth
 ```
 
-## Where to look day-to-day
+---
 
-- **`VULN-STATUS.md`** — start here. Shows a count-by-date trend chart so you can see at a glance whether things have been quiet or spiking.
-- **`vulnerabilities/YYYY-MM-DD.md`** — full breakdown for a given day: pie chart, then a Critical table and a High table, each sorted by CVSS score. Entries flagged 🔥 are in CISA's KEV list (actively exploited); entries flagged ⭐ match the watchlist.
+## Where to look
 
-## Setup
+- **`VULN-STATUS.md`** — the dashboard. Lists every configured source and a count-by-date trend chart, so you can tell at a glance whether activity has been quiet or spiking.
+- **`vulnerabilities/<year>/<month>/<date>.md`** — full daily breakdown: severity distribution chart, per-source contribution table, then Critical/High/Medium tables sorted by CVSS. 🔥 marks a KEV (actively exploited) match; ⭐ marks a watchlist match.
+- **`vulnerabilities/<year>/<month>/README.md`** — browse an entire month at a glance, latest day first.
 
-1. In repo **Settings → Actions → General → Workflow permissions**, select **"Read and write permissions"** (needed so the Action can commit results back).
-2. Trigger a manual run from the **Actions** tab (`Critical/High Vulnerability Tracker` → `Run workflow`) to confirm it works before relying on the schedule.
-3. After that, the cron in `vuln-tracker.yml` runs automatically — no further action needed.
+---
 
-## Customizing
+## Configuration
 
-- **Add more feeds**: edit `RSS_SOURCES` in `scripts/fetch_critical_high_vulns.py`.
-- **Adjust the watchlist**: edit `WATCH_KEYWORDS` in the same file — add terms specific to whatever you're currently testing.
-- **Change the schedule**: edit the `cron` line in `.github/workflows/vuln-tracker.yml`.
+| To change... | Edit... |
+|---|---|
+| Feed sources | `RSS_SOURCES` in `scripts/fetch_critical_high_vulns.py` |
+| Watchlist keywords | `WATCH_KEYWORDS` in the same file |
+| Run frequency | the `cron` line in `.github/workflows/vuln-tracker.yml` |
 
-## Notes
+---
 
-- The KEV check fails soft — if CISA's feed is briefly unreachable, that run just skips KEV flagging and logs a warning instead of failing outright.
-- GitHub auto-disables scheduled workflows after 60 days with no commits to the repo. As long as the tracker is committing its own results regularly, this won't be an issue.
+## Notes & limitations
+
+- The KEV lookup fails soft — if CISA's catalog is briefly unreachable, that run logs a warning and continues without KEV flags rather than failing outright.
+- GitHub automatically disables scheduled workflows after 60 days with no commits to the repository. Since the tracker commits its own output regularly, this is a non-issue under normal operation.
+- Feed severity classification depends on each source's own formatting; entries are cross-checked but not independently re-verified against NVD.
+
+---
+
+## Roadmap
+
+Planned or under consideration:
+
+- **Webhook alerts** — push KEV matches and watchlist hits to Slack/Discord in real time, instead of relying on someone checking the repo.
+- **EPSS scoring** — sort findings by exploitation-probability score (FIRST.org) alongside CVSS and KEV status, for finer-grained prioritization.
+- **Additional feed sources** — expand beyond the current feed for broader coverage and cross-source confirmation.
+- **Configurable per-run digest** — an optional summary issue/comment posted once a day instead of relying solely on the file archive.
+
+Have a feature you'd want prioritized? Let us know.
+
+---
+
+## Contributing
+
+Suggestions and improvements are welcome — additional feed sources, watchlist tuning, report formatting, or general reliability fixes. Open an issue or submit a pull request with a clear description of the change and, where relevant, sample feed output that motivated it.
+
+## Feedback
+
+Found a bug, a feed that stopped working, or a false positive/negative in severity or KEV matching? Open an issue with the CVE ID and a link to the source entry — that's usually enough to reproduce and fix quickly.

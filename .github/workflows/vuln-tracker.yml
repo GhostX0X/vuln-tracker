@@ -33,7 +33,7 @@ jobs:
         run: |
           git config user.name "security-bot"
           git config user.email "security-bot@github.com"
-          git add vulnerabilities/*.md VULN-STATUS.md 2>/dev/null || true
+          git add vulnerabilities/ VULN-STATUS.md 2>/dev/null || true
           git commit -m "Auto update: critical/high vulns ($(date -u +'%Y-%m-%d %H:%M UTC'))" || echo "No changes"
           git pull --rebase || true
           git push

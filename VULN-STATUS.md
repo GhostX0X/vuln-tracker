@@ -1,6 +1,13 @@
 # 🚨 Vulnerability Feed Status
 
-Last checked: 2026-08-08T09:47:24.585939+00:00 UTC
+Last checked: 2026-08-08T10:19:35.853509+00:00 UTC
+
+## 📡 Configured sources
+
+| Source | Feed URL |
+|--------|----------|
+| cvefeed.io (High/Critical) | `https://cvefeed.io/rssfeed/severity/high.xml` |
+| cvefeed.io (Medium) | `https://cvefeed.io/rssfeed/severity/medium.xml` |
 
 ## 📅 Counts by date (latest first)
 
@@ -11,7 +18,7 @@ Last checked: 2026-08-08T09:47:24.585939+00:00 UTC
 
 | Date | Count |
 |------|------:|
-| 2026-08-08 | 3 |
-| 2026-08-07 | 22 |
+| [2026-08-08](vulnerabilities/2026/August/2026-08-08.md) | 3 |
+| [2026-08-07](vulnerabilities/2026/August/2026-08-07.md) | 22 |
 
-See each day's file in `vulnerabilities/` for the full Critical/High breakdown, KEV flags, and watchlist matches.
+Browse `vulnerabilities/<year>/<month>/` for the full archive — each folder has an index sorted latest-first.

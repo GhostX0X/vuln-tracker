@@ -1,15 +1,17 @@
 # 🚨 Vulnerability Feed Status
 
-Last checked: 2026-08-08T01:59:49.643096+00:00 UTC
+Last checked: 2026-08-08T03:40:25.367470+00:00 UTC
 
 ## 📅 Counts by date (latest first)
 
 ```
-2026-08-07 |  25 ██████████████████████████████
+2026-08-08 |   2 ███
+2026-08-07 |  23 ██████████████████████████████
 ```
 
 | Date | Count |
 |------|------:|
-| 2026-08-07 | 25 |
+| 2026-08-08 | 2 |
+| 2026-08-07 | 23 |
 
 See each day's file in `vulnerabilities/` for the full Critical/High breakdown, KEV flags, and watchlist matches.

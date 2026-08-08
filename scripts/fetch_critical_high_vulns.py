@@ -7,16 +7,30 @@ import urllib.request
 from datetime import datetime, timezone
 
 BASE_DIR = "vulnerabilities"
-DATA_DIR = "vulnerabilities/data"          # structured per-day JSON, source of truth
+DATA_DIR = "vulnerabilities/data"          # structured JSON, source of truth — mirrors year/month layout
 SEEN_CVE_FILE = "vulnerabilities/.seen-cves.txt"
 STATUS_FILE = "VULN-STATUS.md"
 MAX_ENTRIES_PER_FEED = 50
-TREND_DAYS = 14  # how many days to show in the STATUS.md trend chart
+TREND_DAYS = 14
 
 KEV_URL = "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json"
 
+# --------------------------------------------------------------------
+# IMPORTANT: I cannot reach these domains from my sandbox to verify
+# they're live/correctly formatted — test each one after your first
+# real GitHub Actions run (which has full internet access) and drop
+# any that don't parse cleanly.
+#   - cvefeed.io High/Critical: confirmed working from your pasted sample.
+#   - cvefeed.io Medium: same URL pattern as the high feed, UNVERIFIED.
+#   - Others below are well-known feeds from general knowledge, also
+#     UNVERIFIED — vendor feed URLs/formats do drift over time.
+# --------------------------------------------------------------------
 RSS_SOURCES = {
     "cvefeed.io (High/Critical)": "https://cvefeed.io/rssfeed/severity/high.xml",
+    "cvefeed.io (Medium)": "https://cvefeed.io/rssfeed/severity/medium.xml",  # UNVERIFIED — guessed URL pattern
+    # "CISA Advisories": "https://www.cisa.gov/cybersecurity-advisories/all.xml",   # UNVERIFIED
+    # "Vulners": "https://vulners.com/rss.xml",                                    # UNVERIFIED
+    # "Rapid7": "https://blog.rapid7.com/rss/",                                    # UNVERIFIED, blog not pure-CVE feed
 }
 
 WATCH_KEYWORDS = [
@@ -40,11 +54,18 @@ PUBLISHED_PATTERN = re.compile(
 CVSS_PATTERN = re.compile(r"CVSS[:\s]*([0-9]+(?:\.[0-9]+)?)", re.I)
 SEVERITY_WORD_PATTERN = re.compile(r"\b(critical|high|medium|low)\b", re.I)
 
+VALID_SEVERITIES = ("critical", "high", "medium")
+
 
 def classify(text):
+    """Return (severity, cvss_score). severity is one of
+    'critical'/'high'/'medium', or None to skip (low, or unclassifiable)."""
     m = STRUCTURED_SEVERITY_PATTERN.search(text)
     if m:
-        return m.group(2).lower(), float(m.group(1))
+        sev = m.group(2).lower()
+        score = float(m.group(1))
+        return (sev, score) if sev in VALID_SEVERITIES else (None, score)
+
     m = CVSS_PATTERN.search(text)
     if m:
         score = float(m.group(1))
@@ -52,9 +73,12 @@ def classify(text):
             return "critical", score
         if score >= 7.0:
             return "high", score
+        if score >= 4.0:
+            return "medium", score
         return None, score
+
     m = SEVERITY_WORD_PATTERN.search(text)
-    if m and m.group(1).lower() in ("critical", "high"):
+    if m and m.group(1).lower() in VALID_SEVERITIES:
         return m.group(1).lower(), None
     return None, None
 
@@ -94,8 +118,24 @@ def save_seen_cve_id(cve_id):
         f.write(cve_id + "\n")
 
 
+def date_parts(date_str):
+    """'2026-08-05' -> ('2026', 'August', '05')"""
+    dt = datetime.strptime(date_str, "%Y-%m-%d")
+    return dt.strftime("%Y"), dt.strftime("%B"), dt.strftime("%d")
+
+
+def day_json_path(date_str):
+    year, month, _ = date_parts(date_str)
+    return f"{DATA_DIR}/{year}/{month}/{date_str}.json"
+
+
+def day_md_path(date_str):
+    year, month, _ = date_parts(date_str)
+    return f"{BASE_DIR}/{year}/{month}/{date_str}.md"
+
+
 def load_day_data(date_str):
-    path = f"{DATA_DIR}/{date_str}.json"
+    path = day_json_path(date_str)
     if os.path.exists(path):
         with open(path, encoding="utf-8") as f:
             return json.load(f)
@@ -103,48 +143,63 @@ def load_day_data(date_str):
 
 
 def save_day_data(date_str, records):
-    os.makedirs(DATA_DIR, exist_ok=True)
-    with open(f"{DATA_DIR}/{date_str}.json", "w", encoding="utf-8") as f:
+    path = day_json_path(date_str)
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
         json.dump(records, f, indent=2)
 
 
 def escape_cell(text):
-    """Keep a pipe character in a title from breaking the markdown table."""
     return text.replace("|", "\\|")
 
 
 def render_day_markdown(date_str, records):
-    """Regenerate the day's .md file grouped by severity (Critical
-    section first, then High), sorted by CVSS score descending within
-    each group, rendered as tables. Overwrites the file — JSON is the
-    source of truth."""
-    critical = sorted(
-        [r for r in records if r["severity"] == "critical"],
-        key=lambda r: r["score"] or 0, reverse=True,
-    )
-    high = sorted(
-        [r for r in records if r["severity"] == "high"],
-        key=lambda r: r["score"] or 0, reverse=True,
-    )
+    """Regenerate one day's .md file: Critical / High / Medium tables,
+    sorted by CVSS descending, with a Source column per row (useful
+    once multiple feeds are configured)."""
+    groups = {
+        sev: sorted(
+            [r for r in records if r["severity"] == sev],
+            key=lambda r: r["score"] or 0, reverse=True,
+        )
+        for sev in VALID_SEVERITIES
+    }
     kev_count = sum(1 for r in records if r["is_kev"])
     watch_count = sum(1 for r in records if r["is_watch"])
     sources = sorted({r["source"] for r in records})
 
-    lines = [f"# Critical & High Severity Vulnerabilities — {date_str}", ""]
+    lines = [f"# Critical, High & Medium Severity Vulnerabilities — {date_str}", ""]
 
     lines.append("```mermaid")
     lines.append(
         "%%{init: {'theme':'base', 'themeVariables': "
-        "{'pie1':'#e63946', 'pie2':'#f4a300', 'pieOpacity':'1', "
-        "'pieOuterStrokeWidth':'2px', 'pieSectionTextColor':'#ffffff'}}}%%"
+        "{'pie1':'#e63946', 'pie2':'#f4a300', 'pie3':'#facc15', "
+        "'pieOpacity':'1', 'pieOuterStrokeWidth':'2px', "
+        "'pieSectionTextColor':'#ffffff'}}}%%"
     )
     lines.append("pie showData")
     lines.append(f'    title {date_str} — {len(records)} vulnerabilities')
-    lines.append(f'    "Critical" : {len(critical)}')
-    lines.append(f'    "High" : {len(high)}')
+    lines.append(f'    "Critical" : {len(groups["critical"])}')
+    lines.append(f'    "High" : {len(groups["high"])}')
+    lines.append(f'    "Medium" : {len(groups["medium"])}')
     lines.append("```")
     lines.append("")
-    lines.append(f"**Source:** {', '.join(sources)}")
+
+    # Per-source breakdown as a table (not a chart) — how much each
+    # configured feed actually contributed today, by severity.
+    if sources:
+        lines.append("**Source status for this day:**")
+        lines.append("")
+        lines.append("| Source | Critical | High | Medium | Total |")
+        lines.append("|--------|---------:|-----:|-------:|------:|")
+        for src in sources:
+            src_records = [r for r in records if r["source"] == src]
+            c = sum(1 for r in src_records if r["severity"] == "critical")
+            h = sum(1 for r in src_records if r["severity"] == "high")
+            m = sum(1 for r in src_records if r["severity"] == "medium")
+            lines.append(f"| {src} | {c} | {h} | {m} | {len(src_records)} |")
+        lines.append("")
+
     lines.append(f"**KEV (actively exploited):** {kev_count}  **Watchlist matches:** {watch_count}")
     lines.append("")
 
@@ -153,8 +208,8 @@ def render_day_markdown(date_str, records):
             return
         lines.append(f"## {label} ({len(group)})")
         lines.append("")
-        lines.append("| CVSS | Flags | CVE / Title | Reported |")
-        lines.append("|------|-------|-------------|----------|")
+        lines.append("| CVSS | Flags | Source | CVE / Title | Reported |")
+        lines.append("|------|-------|--------|-------------|----------|")
         for r in group:
             score_str = str(r["score"]) if r["score"] is not None else "—"
             flags = []
@@ -165,65 +220,133 @@ def render_day_markdown(date_str, records):
             flags_str = " ".join(flags) if flags else "—"
             title_cell = f"[{escape_cell(r['title'])}]({r['link']})"
             reported = r["reported_ago"] or r["pub"]
-            lines.append(f"| {score_str} | {flags_str} | {title_cell} | {reported} |")
+            lines.append(f"| {score_str} | {flags_str} | {r['source']} | {title_cell} | {reported} |")
         lines.append("")
 
-    render_group("Critical", critical)
-    render_group("High", high)
+    render_group("Critical", groups["critical"])
+    render_group("High", groups["high"])
+    render_group("Medium", groups["medium"])
 
-    os.makedirs(BASE_DIR, exist_ok=True)
-    with open(f"{BASE_DIR}/{date_str}.md", "w", encoding="utf-8") as f:
+    path = day_md_path(date_str)
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
 
 
-def render_status(touched_dates_summary):
-    """touched_dates_summary: {date_str: {"critical": n, "high": n}}"""
-    all_day_files = sorted(glob.glob(f"{DATA_DIR}/*.json"), reverse=True)
-    date_counts = {}
-    for path in all_day_files:
+def all_day_records():
+    """{date_str: records} for every day that has data, across all years/months."""
+    out = {}
+    for path in glob.glob(f"{DATA_DIR}/*/*/*.json"):
         date_str = os.path.basename(path).replace(".json", "")
         with open(path, encoding="utf-8") as f:
-            records = json.load(f)
-        date_counts[date_str] = len(records)
+            out[date_str] = json.load(f)
+    return out
+
+
+def render_month_index(year, month, day_records):
+    """README.md inside vulnerabilities/{year}/{month}/ — GitHub renders
+    this automatically when browsing the folder. Lists days latest-first,
+    which is how we get 'latest on top' since GitHub's raw file listing
+    is always alphabetical and can't be reordered."""
+    days = sorted(day_records.items(), reverse=True)  # descending date string
+    lines = [f"# {month} {year}", ""]
+    lines.append("| Date | Critical | High | Medium | Total |")
+    lines.append("|------|---------:|-----:|-------:|------:|")
+    for date_str, records in days:
+        c = sum(1 for r in records if r["severity"] == "critical")
+        h = sum(1 for r in records if r["severity"] == "high")
+        m = sum(1 for r in records if r["severity"] == "medium")
+        lines.append(f"| [{date_str}]({date_str}.md) | {c} | {h} | {m} | {len(records)} |")
+    path = f"{BASE_DIR}/{year}/{month}/README.md"
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines) + "\n")
+
+
+def render_year_index(year, months_data):
+    """README.md inside vulnerabilities/{year}/ — months latest-first."""
+    month_order = ["January", "February", "March", "April", "May", "June",
+                   "July", "August", "September", "October", "November", "December"]
+    present = [m for m in reversed(month_order) if m in months_data]
+    lines = [f"# {year}", ""]
+    lines.append("| Month | Critical | High | Medium | Total |")
+    lines.append("|-------|---------:|-----:|-------:|------:|")
+    for month in present:
+        records_by_day = months_data[month]
+        all_records = [r for day in records_by_day.values() for r in day]
+        c = sum(1 for r in all_records if r["severity"] == "critical")
+        h = sum(1 for r in all_records if r["severity"] == "high")
+        m = sum(1 for r in all_records if r["severity"] == "medium")
+        lines.append(f"| [{month}]({month}/) | {c} | {h} | {m} | {len(all_records)} |")
+    path = f"{BASE_DIR}/{year}/README.md"
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines) + "\n")
+
+
+def render_root_index(years_data):
+    """README.md inside vulnerabilities/ — years latest-first."""
+    lines = ["# Vulnerability Archive", "", "| Year | Total logged |", "|------|-------------:|"]
+    for year in sorted(years_data.keys(), reverse=True):
+        total = sum(len(recs) for recs in years_data[year].values())
+        lines.append(f"| [{year}]({year}/) | {total} |")
+    path = f"{BASE_DIR}/README.md"
+    with open(path, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines) + "\n")
+
+
+def render_status():
+    day_records = all_day_records()
+    date_counts = {d: len(r) for d, r in sorted(day_records.items(), reverse=True)}
 
     with open(STATUS_FILE, "w", encoding="utf-8") as f:
         f.write("# 🚨 Vulnerability Feed Status\n\n")
         f.write(f"Last checked: {datetime.now(timezone.utc).isoformat()} UTC\n\n")
+
+        f.write("## 📡 Configured sources\n\n")
+        f.write("| Source | Feed URL |\n|--------|----------|\n")
+        for name, url in RSS_SOURCES.items():
+            f.write(f"| {name} | `{url}` |\n")
+        f.write("\n")
 
         f.write("## 📅 Counts by date (latest first)\n\n")
         f.write("```\n")
         max_count = max(date_counts.values(), default=1) or 1
         for date_str, count in list(date_counts.items())[:TREND_DAYS]:
             bar_len = max(1, round((count / max_count) * 30)) if count else 0
-            bar = "█" * bar_len
-            f.write(f"{date_str} | {count:>3} {bar}\n")
+            f.write(f"{date_str} | {count:>3} {'█' * bar_len}\n")
         f.write("```\n\n")
 
         f.write("| Date | Count |\n|------|------:|\n")
         for date_str, count in list(date_counts.items())[:TREND_DAYS]:
-            f.write(f"| {date_str} | {count} |\n")
+            year, month, _ = date_parts(date_str)
+            f.write(f"| [{date_str}](vulnerabilities/{year}/{month}/{date_str}.md) | {count} |\n")
         f.write("\n")
 
-        f.write("See each day's file in `vulnerabilities/` for the full "
-                 "Critical/High breakdown, KEV flags, and watchlist matches.\n")
+        f.write("Browse `vulnerabilities/<year>/<month>/` for the full "
+                 "archive — each folder has an index sorted latest-first.\n")
 
 
 def main():
     seen_cve_ids = load_seen_cve_ids()
     kev_ids = fetch_kev_ids()
 
-    new_by_date = {}  # date_str -> list of new records this run
-    run_stats = {"critical": 0, "high": 0, "kev": 0, "watch": 0}
+    new_by_date = {}
+    run_stats = {"critical": 0, "high": 0, "medium": 0, "kev": 0, "watch": 0}
 
     for source, url in RSS_SOURCES.items():
         feed = feedparser.parse(url)
+        if getattr(feed, "bozo", False) and not feed.entries:
+            print(f"WARNING: feed '{source}' failed to parse or returned no entries — check the URL.")
+            continue
+
         for entry in feed.entries[:MAX_ENTRIES_PER_FEED]:
             title = entry.get("title", "")
             summary = entry.get("summary", "")
             full_text = f"{title} {summary}"
 
             severity, score = classify(full_text)
-            if severity not in ("critical", "high"):
+            if severity not in VALID_SEVERITIES:
                 continue
 
             cve_match = CVE_ID_PATTERN.search(title) or CVE_ID_PATTERN.search(summary)
@@ -253,32 +376,38 @@ def main():
                 "reported_ago": extract_reported_ago(full_text),
             }
             new_by_date.setdefault(date_str, []).append(record)
-
             run_stats[severity] += 1
             if is_kev:
                 run_stats["kev"] += 1
             if is_watch:
                 run_stats["watch"] += 1
 
-    # Save new records into each touched day's JSON store first.
     for date_str, new_records in new_by_date.items():
         existing = load_day_data(date_str)
         save_day_data(date_str, existing + new_records)
 
-    # Re-render EVERY day that has data, not just today's touched dates —
-    # this is what makes template/formatting updates (colors, layout,
-    # table vs. list, etc.) apply retroactively to old files instead of
-    # only showing up the next time that specific day happens to get a
-    # fresh entry.
-    for path in glob.glob(f"{DATA_DIR}/*.json"):
-        date_str = os.path.basename(path).replace(".json", "")
-        records = load_day_data(date_str)
+    # Re-render everything from JSON — keeps template changes retroactive
+    # and keeps the year/month index files in sync.
+    day_records = all_day_records()
+    for date_str, records in day_records.items():
         render_day_markdown(date_str, records)
 
-    render_status({})
+    # Build year -> month -> {date: records} structure for the index pages.
+    tree = {}
+    for date_str, records in day_records.items():
+        year, month, _ = date_parts(date_str)
+        tree.setdefault(year, {}).setdefault(month, {})[date_str] = records
+
+    for year, months in tree.items():
+        for month, days in months.items():
+            render_month_index(year, month, days)
+        render_year_index(year, months)
+    render_root_index(tree)
+
+    render_status()
 
     print(f"New this run — critical: {run_stats['critical']}, high: {run_stats['high']}, "
-          f"KEV: {run_stats['kev']}, watchlist: {run_stats['watch']}")
+          f"medium: {run_stats['medium']}, KEV: {run_stats['kev']}, watchlist: {run_stats['watch']}")
     if kev_ids is None:
         print("WARNING: KEV catalog unavailable this run — KEV flags may be incomplete.")
 

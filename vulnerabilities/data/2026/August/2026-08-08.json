@@ -214,5 +214,113 @@
     "is_watch": true,
     "pub": "2026-08-08 17:05 UTC",
     "reported_ago": "1\u00a0hour, 7\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-71991",
+    "title": "CVE-2026-71991 - MSI Radix AXE6600 v781521 Command Injection via TelnetSSH Function",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-71991",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-08 23:49 UTC",
+    "reported_ago": "23\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-71990",
+    "title": "CVE-2026-71990 - MSI Radix AXE6600 v781521 Command Injection via TelnetSSH Function",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-71990",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-08 23:37 UTC",
+    "reported_ago": "35\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-71989",
+    "title": "CVE-2026-71989 - MSI Radix AXE6600 v781521 Command Injection via porTrigger function",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-71989",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-08 23:33 UTC",
+    "reported_ago": "39\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-71988",
+    "title": "CVE-2026-71988 - MSI Radix AXE6600 v781521 Command Injection via portFw function",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-71988",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-08 23:31 UTC",
+    "reported_ago": "41\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-71987",
+    "title": "CVE-2026-71987 - MSI Radix AXE6600 v781521 Command Injection via alg function",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-71987",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-08 23:27 UTC",
+    "reported_ago": "45\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-71986",
+    "title": "CVE-2026-71986 - MSI Radix AXE6600 v781521 Command Injection via dmz Function",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-71986",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-08 23:24 UTC",
+    "reported_ago": "48\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-71985",
+    "title": "CVE-2026-71985 - MSI Radix AXE6600 v781521 Command Injection via accesscontrol Function",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-71985",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-08 23:21 UTC",
+    "reported_ago": "51\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-71983",
+    "title": "CVE-2026-71983 - MSI Radix AXE6600 v781521 Command Injection via wps.cgi",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-71983",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-08 23:16 UTC",
+    "reported_ago": "56\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-71984",
+    "title": "CVE-2026-71984 - MSI Radix AXE6600 v781521 Command Injection via urlfilter",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-71984",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-08 23:16 UTC",
+    "reported_ago": "56\u00a0minutes ago"
   }
 ]

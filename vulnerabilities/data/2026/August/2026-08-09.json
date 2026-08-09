@@ -22,5 +22,17 @@
     "is_watch": true,
     "pub": "2026-08-09 00:16 UTC",
     "reported_ago": "1\u00a0hour, 40\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-19341",
+    "title": "CVE-2026-19341 - UTT HiPER 1200GW pptpSrvGlobalConfig strcpy stack-based overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19341",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 9.0,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-09 07:17 UTC",
+    "reported_ago": "39\u00a0minutes ago"
   }
 ]

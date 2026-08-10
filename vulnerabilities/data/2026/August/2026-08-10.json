@@ -298,5 +298,29 @@
     "is_watch": false,
     "pub": "2026-08-10 13:17 UTC",
     "reported_ago": "56\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-63106",
+    "title": "CVE-2026-63106 - ReadyEcommerce < 4.5.2 Unauthenticated SQL Injection via ProductController.php",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-63106",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-10 14:17 UTC",
+    "reported_ago": "1\u00a0hour, 4\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-19433",
+    "title": "CVE-2026-19433 - Authorization Bypass Through User-Controlled Key in Prospero Flow CRM contact save and vCard export",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19433",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.6,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-10 14:04 UTC",
+    "reported_ago": "1\u00a0hour, 17\u00a0minutes ago"
   }
 ]

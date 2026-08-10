@@ -70,5 +70,17 @@
     "is_watch": false,
     "pub": "2026-08-10 07:41 UTC",
     "reported_ago": "1\u00a0hour, 35\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-66915",
+    "title": "CVE-2026-66915 - Joomla Extension - fabrikar.com - Unauthenticated remote code execution in Fabrik < 4.6.7",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-66915",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 10.0,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-10 10:17 UTC",
+    "reported_ago": "27\u00a0minutes ago"
   }
 ]

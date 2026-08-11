@@ -58,5 +58,17 @@
     "is_watch": true,
     "pub": "2026-08-11 01:56 UTC",
     "reported_ago": "49\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-19425",
+    "title": "CVE-2026-19425 - Win Men Intermational\uff5cTravel Agency Management System - SQL Injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19425",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-11 05:17 UTC",
+    "reported_ago": "40\u00a0minutes ago"
   }
 ]

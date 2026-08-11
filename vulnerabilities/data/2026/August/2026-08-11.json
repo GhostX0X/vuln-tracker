@@ -1570,5 +1570,65 @@
     "is_watch": false,
     "pub": "2026-08-11 20:17 UTC",
     "reported_ago": "1\u00a0hour, 15\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-5917",
+    "title": "CVE-2026-5917 - libgit2 v0.27.0-v1.9.0 Shell Command Injection via ssh_libssh2 Backend",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-5917",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-11 21:40 UTC",
+    "reported_ago": "34\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-66875",
+    "title": "CVE-2026-66875 - Mira Hormone Monitor, Mira Android App Missing authentication for critical function",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-66875",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-11 21:31 UTC",
+    "reported_ago": "42\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-29036",
+    "title": "CVE-2026-29036 - cJSON 1.7.19 Wrong-Key Modification via JSON Pointer Escape Decoding",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-29036",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-11 21:30 UTC",
+    "reported_ago": "44\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-67558",
+    "title": "CVE-2026-67558 - Mira Hormone Monitor, Mira Android App Authentication bypass by spoofing",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-67558",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.2,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-11 21:27 UTC",
+    "reported_ago": "47\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-67568",
+    "title": "CVE-2026-67568 - Mira Hormone Monitor, Mira Android App Use of Hard-coded Credentials",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-67568",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-11 21:25 UTC",
+    "reported_ago": "49\u00a0minutes ago"
   }
 ]

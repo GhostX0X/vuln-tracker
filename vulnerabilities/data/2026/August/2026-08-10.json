@@ -1054,5 +1054,77 @@
     "is_watch": true,
     "pub": "2026-08-10 20:17 UTC",
     "reported_ago": "1\u00a0hour, 6\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-8718",
+    "title": "CVE-2026-8718 - Out-of-bounds write in DTLS peer Connection ID getsockopt (`TLS_DTLS_PEER_CID_VALUE`) in Zephyr net sockets/TLS",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-8718",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.4,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-10 23:16 UTC",
+    "reported_ago": "3\u00a0hours, 3\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-48161",
+    "title": "CVE-2026-48161 - react18-use was vulnerable to malicious code execution via compromised commits",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-48161",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-10 23:16 UTC",
+    "reported_ago": "3\u00a0hours, 3\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2025-30241",
+    "title": "CVE-2025-30241 - OS Command Injection in Web Interface in Multiple TP-Link Aginet Devices",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2025-30241",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-10 23:16 UTC",
+    "reported_ago": "3\u00a0hours, 3\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2025-30239",
+    "title": "CVE-2025-30239 - Sensitive Data Exposure due to Hardcoded Cryptographic Keys in Multiple TP-Link Aginet Devices",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2025-30239",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.5,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-10 23:16 UTC",
+    "reported_ago": "3\u00a0hours, 3\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2025-30238",
+    "title": "CVE-2025-30238 - Privilege Escalation via Improper Authorization in User Management in multiple TP-Link Aginet Devices",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2025-30238",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-10 23:16 UTC",
+    "reported_ago": "3\u00a0hours, 3\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2025-30237",
+    "title": "CVE-2025-30237 - Authentication Bypass via Broken Access Control in Web Server in Multiple TP-Link Aginet Devices",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2025-30237",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-10 23:16 UTC",
+    "reported_ago": "3\u00a0hours, 4\u00a0minutes ago"
   }
 ]

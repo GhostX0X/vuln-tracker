@@ -106,5 +106,65 @@
     "is_watch": true,
     "pub": "2026-08-11 06:17 UTC",
     "reported_ago": "1\u00a0hour, 57\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-73160",
+    "title": "CVE-2026-73160 - cti-transmute Unauthenticated SSRF via Hostnames Resolving to Internal IP Addresses",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73160",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-11 09:17 UTC",
+    "reported_ago": "40\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-15560",
+    "title": "CVE-2026-15560 - Openjdk-orb: unauthed class loading via iiop in eap",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-15560",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-11 09:17 UTC",
+    "reported_ago": "40\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-15556",
+    "title": "CVE-2026-15556 - Picketlink-federation: picketlink saml 2.0 auth bypass via missing assertions",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-15556",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-11 09:17 UTC",
+    "reported_ago": "40\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-15555",
+    "title": "CVE-2026-15555 - Jboss-marshalling-river: wildfly-clustering-infinispan-marshalling: jboss deserialization rce via unfiltered river unmarshaller",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-15555",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-11 09:17 UTC",
+    "reported_ago": "40\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-10579",
+    "title": "CVE-2026-10579 - Picketlink-federation: auth bypass in picketlink saml unsolicited-response",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-10579",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-11 09:17 UTC",
+    "reported_ago": "40\u00a0minutes ago"
   }
 ]

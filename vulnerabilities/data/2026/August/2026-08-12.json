@@ -70,5 +70,29 @@
     "is_watch": true,
     "pub": "2026-08-12 05:19 UTC",
     "reported_ago": "55\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-19426",
+    "title": "CVE-2026-19426 - FitSoft\uff5cPOS Sytstem - Missing Authentication",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19426",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-12 07:07 UTC",
+    "reported_ago": "1\u00a0hour, 7\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-66659",
+    "title": "CVE-2026-66659 - WordPress Tablesome Table plugin <= 1.2.9 - SQL Injection vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-66659",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-12 06:22 UTC",
+    "reported_ago": "1\u00a0hour, 52\u00a0minutes ago"
   }
 ]

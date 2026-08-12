@@ -46,5 +46,29 @@
     "is_watch": true,
     "pub": "2026-08-12 03:16 UTC",
     "reported_ago": "1\u00a0hour, 29\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-19594",
+    "title": "CVE-2026-19594 - Path Traversal and HTTP Parameter Pollution in Snowflake Python API (snowflake.core) Allow Confused-Deputy Privilege Escalation",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19594",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-12 05:22 UTC",
+    "reported_ago": "52\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-64954",
+    "title": "CVE-2026-64954 - Velociraptor collect_client() Permissions Bypass",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-64954",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.2,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-12 05:19 UTC",
+    "reported_ago": "55\u00a0minutes ago"
   }
 ]

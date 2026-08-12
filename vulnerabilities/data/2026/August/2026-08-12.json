@@ -1,0 +1,38 @@
+[
+  {
+    "cve_id": "CVE-2026-6484",
+    "title": "CVE-2026-6484 - Lack of verified boot to certain FV may cause arbitrary code execution",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-6484",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.2,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-12 01:17 UTC",
+    "reported_ago": "57\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-70398",
+    "title": "CVE-2026-70398 - Multicloud-integrations: multicloud-integrations: gitopscluster.spec.argoserver.argonamespace writes spoke bearer tokens to attacker-chosen namespace",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-70398",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-12 01:10 UTC",
+    "reported_ago": "1\u00a0hour, 4\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-72526",
+    "title": "CVE-2026-72526 - Multicloud-integrations: multicloud-integrations: pull-model propagation allows hub tenant to target arbitrary spoke cluster via unvalidated ocm-managed-cluster annotation",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-72526",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-12 01:10 UTC",
+    "reported_ago": "1\u00a0hour, 4\u00a0minutes ago"
+  }
+]

@@ -1630,5 +1630,53 @@
     "is_watch": true,
     "pub": "2026-08-11 21:25 UTC",
     "reported_ago": "49\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-73248",
+    "title": "CVE-2026-73248 - calibre: Bypass of Python template restrictions via nested `template()` leading to RCE",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73248",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.5,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-11 22:19 UTC",
+    "reported_ago": "3\u00a0hours, 55\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-73247",
+    "title": "CVE-2026-73247 - Kestra: SSRF via Pebble http() function allows unauthenticated access to internal services & cloud metadata",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73247",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-11 22:19 UTC",
+    "reported_ago": "3\u00a0hours, 55\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-66154",
+    "title": "CVE-2026-66154 - GMS Insufficient Certificate Validation Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-66154",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.3,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-11 21:17 UTC",
+    "reported_ago": "4\u00a0hours, 56\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-66147",
+    "title": "CVE-2026-66147 - GMS Dispatcher Service Remote Code Execution Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-66147",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.4,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-11 21:17 UTC",
+    "reported_ago": "4\u00a0hours, 56\u00a0minutes ago"
   }
 ]

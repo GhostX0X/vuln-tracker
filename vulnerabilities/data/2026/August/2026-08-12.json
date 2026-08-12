@@ -550,5 +550,101 @@
     "is_watch": false,
     "pub": "2026-08-12 16:17 UTC",
     "reported_ago": "1\u00a0hour, 17\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-69106",
+    "title": "CVE-2026-69106 - Potential cache poisoning in JFrog Artifactory",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-69106",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-12 17:48 UTC",
+    "reported_ago": "26\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-17218",
+    "title": "CVE-2026-17218 - IBM i is Affected By Remote Code Execution Vulnerability in Line Printer Daemon []",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-17218",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-12 17:35 UTC",
+    "reported_ago": "39\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-18669",
+    "title": "CVE-2026-18669 - IBM i is Affected By A Privilege Escalation Vulnerability []",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-18669",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-12 17:32 UTC",
+    "reported_ago": "42\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-16956",
+    "title": "CVE-2026-16956 - IBM Db2 Mirror for i is vulnerable to OS command injection []",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-16956",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-12 17:30 UTC",
+    "reported_ago": "44\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-16860",
+    "title": "CVE-2026-16860 - IBM i is Affected By Remote Code Execution Vulnerability []",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-16860",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-12 17:30 UTC",
+    "reported_ago": "45\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-16906",
+    "title": "CVE-2026-16906 - IBM i is Affected By Multiple Vulnerabilities in Domain Name System",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-16906",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-12 17:29 UTC",
+    "reported_ago": "45\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-16856",
+    "title": "CVE-2026-16856 - IBM i is Affected By Multiple Vulnerabilities in Domain Name System",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-16856",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-12 17:28 UTC",
+    "reported_ago": "46\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-17110",
+    "title": "CVE-2026-17110 - IBM i is Affected By Multiple Vulnerabilities in SQL",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-17110",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-12 17:26 UTC",
+    "reported_ago": "48\u00a0minutes ago"
   }
 ]

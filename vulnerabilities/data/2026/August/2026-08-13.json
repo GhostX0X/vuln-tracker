@@ -34,5 +34,17 @@
     "is_watch": false,
     "pub": "2026-08-13 00:17 UTC",
     "reported_ago": "48\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-11840",
+    "title": "CVE-2026-11840 - SQL Injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-11840",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-13 07:35 UTC",
+    "reported_ago": "39\u00a0minutes ago"
   }
 ]

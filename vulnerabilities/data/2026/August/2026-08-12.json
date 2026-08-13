@@ -1258,5 +1258,77 @@
     "is_watch": false,
     "pub": "2026-08-12 21:23 UTC",
     "reported_ago": "35\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-71193",
+    "title": "CVE-2026-71193 - OpenStack Designate Cross-Tenant Zone Overlap Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-71193",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.6,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-12 23:17 UTC",
+    "reported_ago": "1\u00a0hour, 48\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-49481",
+    "title": "CVE-2026-49481 - UpSnap vulnerable to Remote Code Execution via IP Field Template Injection in wake_cmd/shutdown_cmd",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-49481",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-12 23:17 UTC",
+    "reported_ago": "1\u00a0hour, 48\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-73501",
+    "title": "CVE-2026-73501 - kin-openapi: ValidationHandler.Load() Fail-Open Authentication Bypass via NoopAuthenticationFunc Default",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73501",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-12 22:17 UTC",
+    "reported_ago": "2\u00a0hours, 48\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-73500",
+    "title": "CVE-2026-73500 - etcd: `tlsListener.acceptLoop` spawns unbounded handshake goroutines with no deadline",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73500",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-12 22:17 UTC",
+    "reported_ago": "2\u00a0hours, 48\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-71473",
+    "title": "CVE-2026-71473 - Acm-search-v2-rhel9: search-v2-operator: addonfactory.getvaluesfromaddonannotation enables arbitrary helm-values override per spoke",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-71473",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.5,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-12 22:17 UTC",
+    "reported_ago": "2\u00a0hours, 48\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-71471",
+    "title": "CVE-2026-71471 - Acm-search-v2-rhel9: search-v2-operator: hub search cr collector.imageoverride propagated to every spoke as arbitrary container image",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-71471",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.0,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-12 22:17 UTC",
+    "reported_ago": "2\u00a0hours, 48\u00a0minutes ago"
   }
 ]

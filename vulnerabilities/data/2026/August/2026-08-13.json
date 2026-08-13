@@ -994,5 +994,65 @@
     "is_watch": false,
     "pub": "2026-08-13 16:16 UTC",
     "reported_ago": "30\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2024-58374",
+    "title": "CVE-2024-58374 - Hongjing e-HR Unauthenticated SQL Injection via getSdutyTree",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2024-58374",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-13 17:21 UTC",
+    "reported_ago": "37\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-59109",
+    "title": "CVE-2026-59109 - Zalktis: SQL injection via partner-controlled fields in imported e-invoices",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-59109",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-13 17:17 UTC",
+    "reported_ago": "41\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-67614",
+    "title": "CVE-2026-67614 - CyberPanel < 3.0.0 Hard-coded JWT Secret Authentication Bypass via WebTerminal",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-67614",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-13 17:08 UTC",
+    "reported_ago": "50\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-19291",
+    "title": "CVE-2026-19291 - Bluetooth re-pairing can use a lower security level than previous",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19291",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-13 15:19 UTC",
+    "reported_ago": "2\u00a0hours, 39\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-16101",
+    "title": "CVE-2026-16101 - forced re-pairing with already bonded device",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-16101",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-13 15:19 UTC",
+    "reported_ago": "2\u00a0hours, 39\u00a0minutes ago"
   }
 ]

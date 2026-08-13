@@ -1054,5 +1054,41 @@
     "is_watch": true,
     "pub": "2026-08-13 15:19 UTC",
     "reported_ago": "2\u00a0hours, 39\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-72741",
+    "title": "CVE-2026-72741 - Rainbond 6.9.7 Region API Cross-Enterprise IDOR via Tenant Access",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-72741",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-13 17:59 UTC",
+    "reported_ago": "16\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-18428",
+    "title": "CVE-2026-18428 - SQL Query Validation Bypass in OpenSearch Direct Query",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-18428",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-13 17:32 UTC",
+    "reported_ago": "42\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2019-25765",
+    "title": "CVE-2019-25765 - ASP-CMS SQL Injection via commentList.asp id Parameter",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2019-25765",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-13 17:21 UTC",
+    "reported_ago": "53\u00a0minutes ago"
   }
 ]

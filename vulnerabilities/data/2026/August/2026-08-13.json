@@ -910,5 +910,89 @@
     "is_watch": false,
     "pub": "2026-08-13 15:19 UTC",
     "reported_ago": "16\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-73670",
+    "title": "CVE-2026-73670 - CMS Admin SQL Injection via db_data.php table_name Parameter",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73670",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-13 16:19 UTC",
+    "reported_ago": "27\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-73570",
+    "title": "CVE-2026-73570 - Zimbra Collaboration Remote Code Execution Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73570",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.9,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-13 16:19 UTC",
+    "reported_ago": "27\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-73533",
+    "title": "CVE-2026-73533 - Ninja Tables Pro 5.2.11 Embedded Malicious Code via Tampered Plugin Build",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73533",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-13 16:19 UTC",
+    "reported_ago": "27\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-73532",
+    "title": "CVE-2026-73532 - Fluent Forms Pro 6.2.7 Embedded Malicious Code via Tampered Plugin Build",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73532",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-13 16:19 UTC",
+    "reported_ago": "27\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-73515",
+    "title": "CVE-2026-73515 - PostGIS < 3.7.0beta2 Out-of-Bounds Read via FlatGeobuf Buffer",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73515",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-13 16:19 UTC",
+    "reported_ago": "27\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-73514",
+    "title": "CVE-2026-73514 - PostGIS address_standardizer Out-of-Bounds Write via standardize_address()",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73514",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-13 16:19 UTC",
+    "reported_ago": "27\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-55402",
+    "title": "CVE-2026-55402 - Secure Access Out-of-Bounds Read Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-55402",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-13 16:16 UTC",
+    "reported_ago": "30\u00a0minutes ago"
   }
 ]

@@ -334,5 +334,41 @@
     "is_watch": false,
     "pub": "2026-08-14 11:16 UTC",
     "reported_ago": "42\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-73673",
+    "title": "CVE-2026-73673 - Netis NC63 V3.0.0.3327 Unauthenticated Firmware Update with Missing Cryptographic Firmware Authentication",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73673",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-14 12:21 UTC",
+    "reported_ago": "25\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-19822",
+    "title": "CVE-2026-19822 - Tenda W20E QoS Edit editQos lstAdd stack-based overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19822",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 9.0,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-14 12:16 UTC",
+    "reported_ago": "30\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-19870",
+    "title": "CVE-2026-19870 - IDOR in Prospero Flow CRM allows cross-tenant payroll disclosure and creation",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19870",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-14 12:08 UTC",
+    "reported_ago": "38\u00a0minutes ago"
   }
 ]

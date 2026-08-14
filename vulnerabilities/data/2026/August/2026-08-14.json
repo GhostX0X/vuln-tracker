@@ -862,5 +862,29 @@
     "is_watch": true,
     "pub": "2026-08-14 19:17 UTC",
     "reported_ago": "1\u00a0hour, 29\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-73683",
+    "title": "CVE-2026-73683 - Laravel Socialite Facebook Provider Authentication Bypass via Nonce Replay",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73683",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.2,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-14 21:32 UTC",
+    "reported_ago": "26\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-73682",
+    "title": "CVE-2026-73682 - Semaphore prior to version 2.18.20 OS Command Injection via git_url Repository Handling",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73682",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-14 21:17 UTC",
+    "reported_ago": "41\u00a0minutes ago"
   }
 ]

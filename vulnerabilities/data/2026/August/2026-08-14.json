@@ -94,5 +94,53 @@
     "is_watch": true,
     "pub": "2026-08-14 06:16 UTC",
     "reported_ago": "1\u00a0hour, 42\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-19815",
+    "title": "CVE-2026-19815 - TOTOLINK A800R firewall.so cstecgi.cgi setParentalRules stack-based overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19815",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 9.0,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-14 09:16 UTC",
+    "reported_ago": "1\u00a0hour, 20\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-19814",
+    "title": "CVE-2026-19814 - TOTOLINK A800R firewall.so cstecgi.cgi setMacQos stack-based overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19814",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 9.0,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-14 09:16 UTC",
+    "reported_ago": "1\u00a0hour, 20\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-19813",
+    "title": "CVE-2026-19813 - TOTOLINK A800R firewall.so cstecgi.cgi setMacFilterRules stack-based overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19813",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 9.0,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-14 08:17 UTC",
+    "reported_ago": "2\u00a0hours, 19\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-19812",
+    "title": "CVE-2026-19812 - TOTOLINK A800R product.so cstecgi.cgi UploadCustomModule stack-based overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19812",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 9.0,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-14 08:17 UTC",
+    "reported_ago": "2\u00a0hours, 19\u00a0minutes ago"
   }
 ]

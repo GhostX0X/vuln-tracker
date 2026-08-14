@@ -10,5 +10,65 @@
     "is_watch": true,
     "pub": "2026-08-14 02:16 UTC",
     "reported_ago": "1\u00a0hour, 42\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-19792",
+    "title": "CVE-2026-19792 - Tenda G0 httpd web management interface module setPortMapping buffer overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19792",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 9.0,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-14 05:16 UTC",
+    "reported_ago": "38\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-19791",
+    "title": "CVE-2026-19791 - Tenda G0 httpd web management interface module addStaticRoute stack-based overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19791",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 9.0,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-14 05:16 UTC",
+    "reported_ago": "38\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-19790",
+    "title": "CVE-2026-19790 - Tenda G0 httpd Web Management module formSetPortMirror stack-based overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19790",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 9.0,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-14 04:16 UTC",
+    "reported_ago": "1\u00a0hour, 38\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-19789",
+    "title": "CVE-2026-19789 - Tenda AC1206 httpd web management interface WifiGuestSet set_wl_guest_iplist stack-based overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19789",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 9.0,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-14 04:16 UTC",
+    "reported_ago": "1\u00a0hour, 38\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-19788",
+    "title": "CVE-2026-19788 - Tenda AC1206 httpd web management interface SetOnlineDevName set_device_name stack-based overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19788",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 9.0,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-14 04:16 UTC",
+    "reported_ago": "1\u00a0hour, 38\u00a0minutes ago"
   }
 ]

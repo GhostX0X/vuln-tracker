@@ -1,0 +1,14 @@
+[
+  {
+    "cve_id": "CVE-2026-19771",
+    "title": "CVE-2026-19771 - Baicells EG3661M LuCI Web luci os command injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19771",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-14 02:16 UTC",
+    "reported_ago": "1\u00a0hour, 42\u00a0minutes ago"
+  }
+]

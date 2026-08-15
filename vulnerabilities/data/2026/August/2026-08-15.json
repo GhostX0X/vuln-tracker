@@ -142,5 +142,29 @@
     "is_watch": false,
     "pub": "2026-08-15 17:16 UTC",
     "reported_ago": "1\u00a0hour ago"
+  },
+  {
+    "cve_id": "CVE-2026-18855",
+    "title": "CVE-2026-18855 - The Link Library plugin for WordPress is vulnerabl",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-18855",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-15 20:11 UTC",
+    "reported_ago": "1\u00a0hour, 35\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-19598",
+    "title": "CVE-2026-19598 - Pods <= 3.3.9 - Unauthenticated Privilege Escalation via Authorization Bypass to Admin Methods via 'pods_admin' AJAX Router",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19598",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-15 17:25 UTC",
+    "reported_ago": "4\u00a0hours, 22\u00a0minutes ago"
   }
 ]

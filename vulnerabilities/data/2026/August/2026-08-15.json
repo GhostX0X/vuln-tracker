@@ -1,0 +1,74 @@
+[
+  {
+    "cve_id": "CVE-2026-15965",
+    "title": "CVE-2026-15965 - MaxUpload <= 1.4.0 - Unauthenticated Arbitrary File Upload via 'resumableFilename' Parameter",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-15965",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-15 03:16 UTC",
+    "reported_ago": "42\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-15341",
+    "title": "CVE-2026-15341 - User Session Synchronizer <= 1.4.0 - Unauthenticated Authentication Bypass to Account Takeover via 'ussync-key', 'ussync-token', and 'ussync-ref' Parameters",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-15341",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-15 03:16 UTC",
+    "reported_ago": "42\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-15312",
+    "title": "CVE-2026-15312 - Propovoice: All-in-One Client Management System <= 1.7.8 - Authenticated (ndpv_manager+) Privilege Escalation via 'role' Parameter",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-15312",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-15 03:16 UTC",
+    "reported_ago": "42\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-15303",
+    "title": "CVE-2026-15303 - 6Storage Rentals <= 2.27.0 - Unauthenticated Account Takeover via 'email' Parameter",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-15303",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-15 03:16 UTC",
+    "reported_ago": "42\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-15001",
+    "title": "CVE-2026-15001 - bLoyal: Loyalty & Promotions by bLoyal <= 3.1.611.78 - Authenticated (Subscriber+) Privilege Escalation via Unprotected AJAX API URL Settings",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-15001",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-15 03:16 UTC",
+    "reported_ago": "42\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-14484",
+    "title": "CVE-2026-14484 - RapiSafe <= 1.0.4 - Unauthenticated Arbitrary File Deletion via 'rsmfcf7_session' and 'file_name' Parameters",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-14484",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-15 03:16 UTC",
+    "reported_ago": "42\u00a0minutes ago"
+  }
+]

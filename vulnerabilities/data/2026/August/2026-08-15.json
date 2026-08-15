@@ -118,5 +118,17 @@
     "is_watch": true,
     "pub": "2026-08-15 10:16 UTC",
     "reported_ago": "1\u00a0hour, 42\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-18500",
+    "title": "CVE-2026-18500 - @fastify/jwt vulnerable to authorization bypass via global secret overriding the per-request key",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-18500",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-15 14:17 UTC",
+    "reported_ago": "1\u00a0hour, 59\u00a0minutes ago"
   }
 ]

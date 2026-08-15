@@ -70,5 +70,29 @@
     "is_watch": true,
     "pub": "2026-08-15 03:16 UTC",
     "reported_ago": "42\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-15826",
+    "title": "CVE-2026-15826 - User Profile Builder <= 3.16.4 - Unauthenticated Authentication Bypass via Type Confusion to Administrator Account Takeover via 'username' Parameter",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-15826",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-15 07:16 UTC",
+    "reported_ago": "42\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-14279",
+    "title": "CVE-2026-14279 - Wholesale Market <= 2.2.2 - Authenticated (Subscriber+) Privilege Escalation via 'role_required' Parameter",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-14279",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-15 07:16 UTC",
+    "reported_ago": "42\u00a0minutes ago"
   }
 ]

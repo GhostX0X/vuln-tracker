@@ -10,5 +10,77 @@
     "is_watch": false,
     "pub": "2026-08-16 02:16 UTC",
     "reported_ago": "22\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-18432",
+    "title": "CVE-2026-18432 - Frontend Admin by DynamiApps <= 3.29.9 - Unauthenticated Privilege Escalation via 'item_id' Parameter",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-18432",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-16 05:16 UTC",
+    "reported_ago": "42\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-17123",
+    "title": "CVE-2026-17123 - Royal Addons for Elementor <= 1.7.1064 - Authenticated (Contributor+) Server-Side Request Forgery via Form Builder Widget 'webhook_url' Setting",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-17123",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-16 05:16 UTC",
+    "reported_ago": "42\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-16099",
+    "title": "CVE-2026-16099 - Podlove Podcast Publisher <= 4.5.3 - Authenticated (Contributor+) PHP Object Injection to Arbitrary File Deletion via 'unfurl_data' Parameter",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-16099",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-16 05:16 UTC",
+    "reported_ago": "42\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-16098",
+    "title": "CVE-2026-16098 - ProSolution WP Client <= 2.0.10 - Unauthenticated Arbitrary File Upload via Content-Disposition Header Filename Override",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-16098",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-16 05:16 UTC",
+    "reported_ago": "42\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-14524",
+    "title": "CVE-2026-14524 - ProSolution WP Client <= 2.0.8 - Unauthenticated Arbitrary File Deletion via 'newfilename' and 'filename' Parameters",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-14524",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-16 05:16 UTC",
+    "reported_ago": "42\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-14498",
+    "title": "CVE-2026-14498 - Query Wrangler <= 1.5.57 - Authenticated (Subscriber+) Remote Code Execution via 'options' Parameter",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-14498",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-16 05:16 UTC",
+    "reported_ago": "42\u00a0minutes ago"
   }
 ]

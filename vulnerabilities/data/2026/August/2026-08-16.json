@@ -82,5 +82,17 @@
     "is_watch": true,
     "pub": "2026-08-16 05:16 UTC",
     "reported_ago": "42\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-18316",
+    "title": "CVE-2026-18316 - Solace Extra <= 1.6.0 - Missing Authorization to Unauthenticated Site Content Deletion and Unauthorized Demo Import via action-import-zip AJAX Action",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-18316",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-16 06:16 UTC",
+    "reported_ago": "24\u00a0minutes ago"
   }
 ]

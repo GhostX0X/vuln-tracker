@@ -94,5 +94,17 @@
     "is_watch": false,
     "pub": "2026-08-16 06:16 UTC",
     "reported_ago": "24\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2024-13784",
+    "title": "CVE-2024-13784 - Contact Form, Survey, Quiz & Popup Form Builder \u2013 ARForms <= 1.8.5 - Unauthenticated PHP Object Injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2024-13784",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-16 09:16 UTC",
+    "reported_ago": "43\u00a0minutes ago"
   }
 ]

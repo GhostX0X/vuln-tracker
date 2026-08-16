@@ -1,0 +1,14 @@
+[
+  {
+    "cve_id": "CVE-2026-19924",
+    "title": "CVE-2026-19924 - Tenda AC10 httpd R7WebsSecurityHandler improper authentication",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19924",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 10.0,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-16 02:16 UTC",
+    "reported_ago": "22\u00a0minutes ago"
+  }
+]

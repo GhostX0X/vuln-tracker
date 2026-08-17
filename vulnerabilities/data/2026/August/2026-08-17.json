@@ -814,5 +814,89 @@
     "is_watch": true,
     "pub": "2026-08-17 18:12 UTC",
     "reported_ago": "1\u00a0hour, 15\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-71472",
+    "title": "CVE-2026-71472 - Acm-search-v2-rhel9: search-v2-operator: shell-command and sql injection in postgresql-start.sh via cr-supplied work_mem",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-71472",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-17 20:16 UTC",
+    "reported_ago": "13\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-70495",
+    "title": "CVE-2026-70495 - Search-v2-operator: search-v2-operator: cluster-wide impersonate on users/groups shared across 4 pods grants hub system:masters",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-70495",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-17 20:16 UTC",
+    "reported_ago": "13\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-57485",
+    "title": "CVE-2026-57485 - Stirling-PDF: Internal Service Account API Key Disclosure via Pipeline Endpoint",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-57485",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.5,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-17 20:16 UTC",
+    "reported_ago": "14\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-57233",
+    "title": "CVE-2026-57233 - Notepad++: Path Traversal (Zip Slip) in WinGup Plugin Extraction",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-57233",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-17 20:16 UTC",
+    "reported_ago": "14\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-19478",
+    "title": "CVE-2026-19478 - Improper Control of Generation of Code ('Code Injection') in GitLab",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19478",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.4,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-17 20:16 UTC",
+    "reported_ago": "14\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-51346",
+    "title": "CVE-2026-51346 - Stud.IP SQL Injection Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-51346",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-17 18:17 UTC",
+    "reported_ago": "2\u00a0hours, 13\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-50768",
+    "title": "CVE-2026-50768 - T-Systems International GmbH ImageMaster Arbitrary Code Execution via File Upload",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-50768",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-17 18:17 UTC",
+    "reported_ago": "2\u00a0hours, 13\u00a0minutes ago"
   }
 ]

@@ -682,5 +682,41 @@
     "is_watch": true,
     "pub": "2026-08-17 16:16 UTC",
     "reported_ago": "1\u00a0hour, 43\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-73523",
+    "title": "CVE-2026-73523 - COVESA Open1722 0.9.2 Stack Memory Disclosure via acf-can-listener.c Integer Truncation",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73523",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-17 18:00 UTC",
+    "reported_ago": "17\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-73522",
+    "title": "CVE-2026-73522 - COVESA Open1722 0.9.2 Stack Buffer Overflow via avtp_to_can() in acf-can-listener",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73522",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-17 17:53 UTC",
+    "reported_ago": "24\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-71980",
+    "title": "CVE-2026-71980 - Belledonne Communications bcg729 1.1.2 Out-of-Bounds Read via decodeSIDframe()",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-71980",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-17 17:50 UTC",
+    "reported_ago": "27\u00a0minutes ago"
   }
 ]

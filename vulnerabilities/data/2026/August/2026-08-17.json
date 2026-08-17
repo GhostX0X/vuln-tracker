@@ -1,0 +1,26 @@
+[
+  {
+    "cve_id": "CVE-2026-50602",
+    "title": "CVE-2026-50602 - Planet9 Incorrect Permission Assignment Vulnerability Information",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-50602",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.5,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-17 03:16 UTC",
+    "reported_ago": "1\u00a0hour, 8\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-19977",
+    "title": "CVE-2026-19977 - EFM ipTIME A3004T Session Validation httpcon_check_session_url improper authentication",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19977",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 10.0,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-17 03:16 UTC",
+    "reported_ago": "1\u00a0hour, 8\u00a0minutes ago"
+  }
+]

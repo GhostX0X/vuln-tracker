@@ -718,5 +718,101 @@
     "is_watch": false,
     "pub": "2026-08-17 17:50 UTC",
     "reported_ago": "27\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-71491",
+    "title": "CVE-2026-71491 - sqlparse: Quadratic O(n\u00b2) DoS in group_comments",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-71491",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-17 18:18 UTC",
+    "reported_ago": "1\u00a0hour, 10\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-62982",
+    "title": "CVE-2026-62982 - Glances: Incomplete fix of CVE-2026-32608: action-template sanitizer is bypassed by nested stat values (process 'cmdline') \u2192 OS command injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-62982",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-17 18:17 UTC",
+    "reported_ago": "1\u00a0hour, 10\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-54284",
+    "title": "CVE-2026-54284 - sqlparse: TokenList.__init__ materializes O(subtree) value per group, causing CPU DoS before depth/token caps trigger",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-54284",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-17 18:17 UTC",
+    "reported_ago": "1\u00a0hour, 11\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-46345",
+    "title": "CVE-2026-46345 - compliance-trestle - jinja has an Arbitrary File Write via Path Traversal",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-46345",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.4,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-17 18:16 UTC",
+    "reported_ago": "1\u00a0hour, 11\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-33437",
+    "title": "CVE-2026-33437 - Stirling PDF: Stored XSS in Info Summary",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-33437",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-17 18:16 UTC",
+    "reported_ago": "1\u00a0hour, 11\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-12553",
+    "title": "CVE-2026-12553 - HP Web Jetadmin (WJA) - Potential Arbitrary File Read/Write",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-12553",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.9,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-17 18:13 UTC",
+    "reported_ago": "1\u00a0hour, 14\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-74238",
+    "title": "CVE-2026-74238 - TIER IV Nebula 1.2.0 Heap Out-of-Bounds Read via VLP32 UDP Decoder",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-74238",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-17 18:12 UTC",
+    "reported_ago": "1\u00a0hour, 15\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-66792",
+    "title": "CVE-2026-66792 - Multicloud-operators-subscription: multicloud-operators-subscription: isclusteradmin() trusts user-settable annotations on managed clusters",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-66792",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-17 18:12 UTC",
+    "reported_ago": "1\u00a0hour, 15\u00a0minutes ago"
   }
 ]

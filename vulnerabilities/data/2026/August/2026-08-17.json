@@ -1138,5 +1138,53 @@
     "is_watch": true,
     "pub": "2026-08-17 21:16 UTC",
     "reported_ago": "1\u00a0hour, 1\u00a0minute ago"
+  },
+  {
+    "cve_id": "CVE-2026-71424",
+    "title": "CVE-2026-71424 - Onyx: Cross-user OAuth-token leak via /api/mcp/servers* for per-user MCP servers",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-71424",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-17 22:17 UTC",
+    "reported_ago": "1\u00a0hour, 17\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-64849",
+    "title": "CVE-2026-64849 - MLflow: Unauthenticated full-read SSRF in webhook delivery: _validate_webhook_url bypassed via unvalidated HTTP redirects (and DNS rebinding)",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-64849",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-17 22:17 UTC",
+    "reported_ago": "1\u00a0hour, 17\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-56677",
+    "title": "CVE-2026-56677 - 9Router: Authenticated Server-Side Request Forgery (SSRF) via OIDC Provider Test Endpoint",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-56677",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-17 22:17 UTC",
+    "reported_ago": "1\u00a0hour, 17\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-45790",
+    "title": "CVE-2026-45790 - Dokploy: Invitation Role Escalation Allows Organization Takeover",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-45790",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.0,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-17 22:17 UTC",
+    "reported_ago": "1\u00a0hour, 17\u00a0minutes ago"
   }
 ]

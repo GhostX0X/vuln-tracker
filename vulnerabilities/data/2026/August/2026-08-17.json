@@ -46,5 +46,29 @@
     "is_watch": true,
     "pub": "2026-08-17 05:17 UTC",
     "reported_ago": "42\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-15623",
+    "title": "CVE-2026-15623 - Authenticated Blind SQL Injection in Google Cloud SecOps SOAR Dashboard Widget Query Service",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-15623",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.4,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-17 06:27 UTC",
+    "reported_ago": "34\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-22072",
+    "title": "CVE-2026-22072 - Arbitrary URL Loading in WebView Leading to Token Leakage Risk",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-22072",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.3,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-17 06:13 UTC",
+    "reported_ago": "48\u00a0minutes ago"
   }
 ]

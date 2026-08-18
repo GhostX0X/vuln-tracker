@@ -1162,5 +1162,77 @@
     "is_watch": true,
     "pub": "2026-08-18 19:16 UTC",
     "reported_ago": "1\u00a0hour, 1\u00a0minute ago"
+  },
+  {
+    "cve_id": "CVE-2026-75877",
+    "title": "CVE-2026-75877 - TRENDnet TV-IP751WIC alphapd FUN_0043372C stack-based overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-75877",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-18 20:17 UTC",
+    "reported_ago": "23\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-71308",
+    "title": "CVE-2026-71308 - Lemur: Unchecked `replaces[]` lets any user silence notifications and hijack auto-rotation for arbitrary certificates",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-71308",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-18 20:17 UTC",
+    "reported_ago": "23\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-67443",
+    "title": "CVE-2026-67443 - FUXA: Unauthenticated guest JWT bypasses Node-RED secure-mode authorization gate (Remote Script Execution)",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-67443",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.2,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-18 20:17 UTC",
+    "reported_ago": "23\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-52736",
+    "title": "CVE-2026-52736 - ZEBRA: Block suppression via NU5 same-header body poisoning of sent-hash cache",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-52736",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-18 20:17 UTC",
+    "reported_ago": "23\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-52735",
+    "title": "CVE-2026-52735 - ZEBRA: Consensus divergence via P2SH sigop undercount in pure-Rust disabled-opcode parser",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-52735",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.3,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-18 20:17 UTC",
+    "reported_ago": "23\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-47719",
+    "title": "CVE-2026-47719 - FUXA: Unauthenticated SSRF via Socket.IO DEVICE_WEBAPI_REQUEST and DEVICE_PROPERTY with response reading",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-47719",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.2,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-18 20:17 UTC",
+    "reported_ago": "23\u00a0minutes ago"
   }
 ]

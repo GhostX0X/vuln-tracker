@@ -1054,5 +1054,65 @@
     "is_watch": true,
     "pub": "2026-08-18 17:16 UTC",
     "reported_ago": "1\u00a0hour, 1\u00a0minute ago"
+  },
+  {
+    "cve_id": "CVE-2026-47627",
+    "title": "CVE-2026-47627 - NVIDIA Triton Inference Server Path Traversal Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-47627",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-18 18:23 UTC",
+    "reported_ago": "17\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-50161",
+    "title": "CVE-2026-50161 - libre: Integer overflow in websock_decode() masked frame length check leads to heap buffer overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-50161",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.3,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-18 18:17 UTC",
+    "reported_ago": "23\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-50143",
+    "title": "CVE-2026-50143 - Actor MCP path authority injection leaks Apify token",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-50143",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-18 18:17 UTC",
+    "reported_ago": "23\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-48508",
+    "title": "CVE-2026-48508 - Lemur: Authorization bypass in StrictRolePermission / AuthorityCreatorPermission",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-48508",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-18 18:17 UTC",
+    "reported_ago": "23\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-44472",
+    "title": "CVE-2026-44472 - Saleor: Account pre-hijacking vulnerability due to unverified anonymous order merge",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-44472",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-18 18:17 UTC",
+    "reported_ago": "23\u00a0minutes ago"
   }
 ]

@@ -1114,5 +1114,53 @@
     "is_watch": true,
     "pub": "2026-08-18 18:17 UTC",
     "reported_ago": "23\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-75936",
+    "title": "CVE-2026-75936 - Memory-amplification denial of service via GZIP decompression bomb in Amazon ion-java",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-75936",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-18 19:34 UTC",
+    "reported_ago": "44\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-75935",
+    "title": "CVE-2026-75935 - Memory-amplification denial of service via declared-length preallocation in Amazon ion-java",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-75935",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-18 19:33 UTC",
+    "reported_ago": "44\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-55166",
+    "title": "CVE-2026-55166 - Lemur: any SSO-authenticated user achieves AWS IAM compromise and permanent PKI key access via ACME acme_url SSRF and creator-equality IDOR",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-55166",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-18 19:16 UTC",
+    "reported_ago": "1\u00a0hour, 1\u00a0minute ago"
+  },
+  {
+    "cve_id": "CVE-2025-9210",
+    "title": "CVE-2025-9210 - Missing JSON Web Token signature validation in Otalio Ship Property Management System",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2025-9210",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-18 19:16 UTC",
+    "reported_ago": "1\u00a0hour, 1\u00a0minute ago"
   }
 ]

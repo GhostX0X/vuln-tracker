@@ -1,0 +1,14 @@
+[
+  {
+    "cve_id": "CVE-2026-75094",
+    "title": "CVE-2026-75094 - COMFAST CF-N1-S CGI mbox-config sub_44B438 os command injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-75094",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-18 02:17 UTC",
+    "reported_ago": "16\u00a0minutes ago"
+  }
+]

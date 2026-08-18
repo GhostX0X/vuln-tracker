@@ -742,5 +742,65 @@
     "is_watch": true,
     "pub": "2026-08-18 15:17 UTC",
     "reported_ago": "23\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-73337",
+    "title": "CVE-2026-73337 - Joomla! Core - [20260807] - MFA Authentication Bypass in Joomla 4.0.0-5.4.7 and 6.0.0-6.1.2",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73337",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.2,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-18 16:04 UTC",
+    "reported_ago": "12\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-73373",
+    "title": "CVE-2026-73373 - Joomla! Core - [20260810] - Unrestricted uploads of SHTML files in Joomla 1.0.0-5.4.7, 6.0.0-6.1.2",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73373",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.9,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-18 16:03 UTC",
+    "reported_ago": "13\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-71574",
+    "title": "CVE-2026-71574 - Joomla! Core - [20260803] - Inconsistent ACL checks for mutating webservice endpoints in Joomla 4.0.0-5.4.7, 6.0.0-6.1.2",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-71574",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.5,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-18 16:02 UTC",
+    "reported_ago": "14\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-12564",
+    "title": "CVE-2026-12564 - Automation-controller: automation-controller: kubernetes service account token exfiltration via hashicorp vault credential ssrf",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-12564",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-18 15:50 UTC",
+    "reported_ago": "26\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-75926",
+    "title": "CVE-2026-75926 - Hugo 0.162.0 to 0.164.x - Node Permission Model Bypass via Default TailwindCSS Child-Process Grant",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-75926",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-18 15:47 UTC",
+    "reported_ago": "29\u00a0minutes ago"
   }
 ]

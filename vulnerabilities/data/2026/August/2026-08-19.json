@@ -910,5 +910,17 @@
     "is_watch": false,
     "pub": "2026-08-19 17:18 UTC",
     "reported_ago": "1\u00a0hour, 11\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-20318",
+    "title": "CVE-2026-20318 - Cisco Secure Workload Software Security Hardening Release August 2026 - Improper Input Validation Vulnerabilities",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-20318",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.6,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-19 17:18 UTC",
+    "reported_ago": "44\u00a0minutes ago"
   }
 ]

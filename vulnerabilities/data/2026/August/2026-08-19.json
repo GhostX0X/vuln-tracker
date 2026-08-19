@@ -22,5 +22,41 @@
     "is_watch": false,
     "pub": "2026-08-19 02:16 UTC",
     "reported_ago": "26\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-76008",
+    "title": "CVE-2026-76008 - Comfast CF-N1-S URI Parameter Parsing mbox-config get_para_from_uri stack-based overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-76008",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 10.0,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-19 03:16 UTC",
+    "reported_ago": "44\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-76004",
+    "title": "CVE-2026-76004 - UTT HiPER 1250GW HTTP aspApBasicConfigUrcp strcpy stack-based overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-76004",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-19 03:16 UTC",
+    "reported_ago": "44\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-76003",
+    "title": "CVE-2026-76003 - UTT HiPER 1200GW formGroupConfig strcpy stack-based overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-76003",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-19 03:16 UTC",
+    "reported_ago": "44\u00a0minutes ago"
   }
 ]

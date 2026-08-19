@@ -1654,5 +1654,65 @@
     "is_watch": true,
     "pub": "2026-08-18 22:16 UTC",
     "reported_ago": "24\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-76047",
+    "title": "CVE-2026-76047 - Google Chrome V8 Type Confusion Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-76047",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-18 21:18 UTC",
+    "reported_ago": "15\u00a0hours, 31\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-76046",
+    "title": "CVE-2026-76046 - Google Chrome ANGLE Buffer Overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-76046",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-18 21:18 UTC",
+    "reported_ago": "15\u00a0hours, 31\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-76045",
+    "title": "CVE-2026-76045 - Google Chrome WebGL Use-After-Free Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-76045",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-18 21:18 UTC",
+    "reported_ago": "15\u00a0hours, 31\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-76044",
+    "title": "CVE-2026-76044 - Google Chrome USB Race Condition Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-76044",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.3,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-18 21:18 UTC",
+    "reported_ago": "15\u00a0hours, 31\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-76043",
+    "title": "CVE-2026-76043 - Google Chrome V8 Incorrect Calculation Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-76043",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-18 21:18 UTC",
+    "reported_ago": "15\u00a0hours, 31\u00a0minutes ago"
   }
 ]

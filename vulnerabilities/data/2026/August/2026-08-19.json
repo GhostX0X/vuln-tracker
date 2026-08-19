@@ -82,5 +82,17 @@
     "is_watch": true,
     "pub": "2026-08-19 05:17 UTC",
     "reported_ago": "44\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-58083",
+    "title": "CVE-2026-58083 - Use-after-free in kqueue copy-on-fork",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-58083",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.4,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-19 08:17 UTC",
+    "reported_ago": "4\u00a0hours, 33\u00a0minutes ago"
   }
 ]

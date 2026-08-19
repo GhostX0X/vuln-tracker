@@ -1,0 +1,14 @@
+[
+  {
+    "cve_id": "CVE-2026-75976",
+    "title": "CVE-2026-75976 - TRENDnet TEW-823DRU NVRAM wan.cgi strcpy stack-based overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-75976",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-19 00:16 UTC",
+    "reported_ago": "2\u00a0hours, 5\u00a0minutes ago"
+  }
+]

@@ -10,5 +10,17 @@
     "is_watch": false,
     "pub": "2026-08-19 00:16 UTC",
     "reported_ago": "2\u00a0hours, 5\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-11751",
+    "title": "CVE-2026-11751 - Armeria xDS TLS Peer Verification Bypass Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-11751",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-19 02:16 UTC",
+    "reported_ago": "26\u00a0minutes ago"
   }
 ]

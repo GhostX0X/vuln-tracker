@@ -1030,5 +1030,41 @@
     "is_watch": true,
     "pub": "2026-08-20 19:16 UTC",
     "reported_ago": "57\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-18420",
+    "title": "CVE-2026-18420 - RCE via Prototype Pollution in OpenSearch Dashboards",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-18420",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-20 20:40 UTC",
+    "reported_ago": "22\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-67567",
+    "title": "CVE-2026-67567 - Multicloud-operators-subscription: multicloud-operators-subscription: helmrelease chart applied with controller sa without gvk or namespace restriction",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-67567",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-20 20:34 UTC",
+    "reported_ago": "29\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-73040",
+    "title": "CVE-2026-73040 - Dockge Path Traversal via Unvalidated Stack Name Allows Arbitrary Compose and .env Disclosure and Arbitrary Directory Deletion",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73040",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-20 20:29 UTC",
+    "reported_ago": "34\u00a0minutes ago"
   }
 ]

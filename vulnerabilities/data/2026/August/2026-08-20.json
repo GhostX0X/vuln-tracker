@@ -430,5 +430,53 @@
     "is_watch": true,
     "pub": "2026-08-20 11:21 UTC",
     "reported_ago": "58\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-77072",
+    "title": "CVE-2026-77072 - n8n before 1.123.69 Stored XSS via Form Completion Page",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-77072",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.4,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-20 11:21 UTC",
+    "reported_ago": "40\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-77068",
+    "title": "CVE-2026-77068 - n8n before 2.34.1 Remote Code Execution via Path Traversal",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-77068",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-20 11:21 UTC",
+    "reported_ago": "40\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-13097",
+    "title": "CVE-2026-13097 - Ipa: privilege escalation via krbcanonicalname manipulation due to realm-unaware uniqueness enforcement in freeipa ldap datastore",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-13097",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-20 11:16 UTC",
+    "reported_ago": "45\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-11861",
+    "title": "CVE-2026-11861 - Freeipa: idm: ipa: freeipa: obtaining tgs with impersonating cname through trust relationships",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-11861",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.6,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-20 11:16 UTC",
+    "reported_ago": "45\u00a0minutes ago"
   }
 ]

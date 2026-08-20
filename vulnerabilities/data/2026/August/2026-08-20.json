@@ -34,5 +34,89 @@
     "is_watch": true,
     "pub": "2026-08-20 07:21 UTC",
     "reported_ago": "40\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-14952",
+    "title": "CVE-2026-14952 - Frauscher Sensortechnik: FDS102 for FAdC/FAdCi R2 is offering files with sensitive information for download without requiring authentication",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-14952",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-20 09:16 UTC",
+    "reported_ago": "44\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-14951",
+    "title": "CVE-2026-14951 - Frauscher Sensortechnik: FDS102 for FAdC/FAdCi R2 is vulnerable to Cross-Site Request Forgery due to missing CSFR protection headers",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-14951",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.6,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-20 09:16 UTC",
+    "reported_ago": "44\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-14950",
+    "title": "CVE-2026-14950 - Frauscher Sensortechnik: FDS102 for FAdC/FAdCi R2 is vulnerable to Insufficient Session Expiration due to flawed session expiration logic",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-14950",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-20 09:16 UTC",
+    "reported_ago": "44\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-14949",
+    "title": "CVE-2026-14949 - Frauscher Sensortechnik: FDS102 for FAdC/FAdCi R2 is vulnerable to Incorrect Authorization due to improper enforcement of role-based access control",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-14949",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.5,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-20 09:16 UTC",
+    "reported_ago": "44\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-14948",
+    "title": "CVE-2026-14948 - Frauscher Sensortechnik: FDS102 for FAdC/FAdCi R2 is vulnerable to Insertion of Sensitive Information into Log File via error log archives",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-14948",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-20 09:16 UTC",
+    "reported_ago": "44\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-14947",
+    "title": "CVE-2026-14947 - Frauscher Sensortechnik: FDS102 for FAdC/FAdCi R2 is vulnerable to Remote Code Execution via malicious ZIP file",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-14947",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-20 09:16 UTC",
+    "reported_ago": "44\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-14946",
+    "title": "CVE-2026-14946 - Frauscher Sensortechnik: FDS102 for FAdC/FAdCi R2 is vulnerable to Remote Code Execution via malicious configuration file.",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-14946",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-20 09:16 UTC",
+    "reported_ago": "44\u00a0minutes ago"
   }
 ]

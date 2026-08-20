@@ -478,5 +478,65 @@
     "is_watch": false,
     "pub": "2026-08-20 11:16 UTC",
     "reported_ago": "45\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-76633",
+    "title": "CVE-2026-76633 - WeGIA < 3.9.2 Authorization Bypass Password Change via alterarSenha",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-76633",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.6,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-20 13:46 UTC",
+    "reported_ago": "15\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-76833",
+    "title": "CVE-2026-76833 - @cgauge/yaml npm Package Arbitrary Code Execution via eval() YAML Tag",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-76833",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.4,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-20 13:33 UTC",
+    "reported_ago": "28\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-15706",
+    "title": "CVE-2026-15706 - Missing Authentication for Critical Function in Management API in Baylan Water Meters's BMS",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-15706",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-20 13:27 UTC",
+    "reported_ago": "33\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-77118",
+    "title": "CVE-2026-77118 - Out-of-bounds write in GraphicsMagick PCD decoder",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-77118",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.4,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-20 13:19 UTC",
+    "reported_ago": "42\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-28164",
+    "title": "CVE-2026-28164 - WordPress Easy Elementor Addons plugin <= 2.3.7 - Cross Site Request Forgery (CSRF) vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-28164",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-20 13:17 UTC",
+    "reported_ago": "44\u00a0minutes ago"
   }
 ]

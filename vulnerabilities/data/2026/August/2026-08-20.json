@@ -1666,5 +1666,29 @@
     "is_watch": false,
     "pub": "2026-08-20 21:53 UTC",
     "reported_ago": "26\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-55769",
+    "title": "CVE-2026-55769 - CloudNativePG: Overriding operators can lead to privilege escalation in CloudNativePG for SQL queries without a fixed `search_path`",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-55769",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.4,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-20 22:17 UTC",
+    "reported_ago": "25\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-55765",
+    "title": "CVE-2026-55765 - CloudNativePG: Cleartext role passwords recorded in pg_stat_statements allow privileged tenant  roles to recover the PostgreSQL superuser credential and achieve RCE in the database pod",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-55765",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.5,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-20 22:17 UTC",
+    "reported_ago": "25\u00a0minutes ago"
   }
 ]

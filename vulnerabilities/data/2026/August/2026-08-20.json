@@ -118,5 +118,17 @@
     "is_watch": true,
     "pub": "2026-08-20 09:16 UTC",
     "reported_ago": "44\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-75860",
+    "title": "CVE-2026-75860 - JSON Options <= 0.0.4 - Unauthenticated Arbitrary Options Update",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-75860",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-20 06:17 UTC",
+    "reported_ago": "4\u00a0hours, 28\u00a0minutes ago"
   }
 ]

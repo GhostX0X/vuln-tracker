@@ -538,5 +538,101 @@
     "is_watch": true,
     "pub": "2026-08-20 13:17 UTC",
     "reported_ago": "44\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-73220",
+    "title": "CVE-2026-73220 - CVAT: Stored XSS via annotation guides in audio tasks",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73220",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.5,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-20 15:18 UTC",
+    "reported_ago": "43\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-49825",
+    "title": "CVE-2026-49825 - lxml: javascript: URL bypass in Cleaner via xlink:href",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-49825",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.2,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-20 15:17 UTC",
+    "reported_ago": "44\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-16932",
+    "title": "CVE-2026-16932 - Vulnerabilities in IBM AIX and PowerVM VIOS",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-16932",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-20 15:17 UTC",
+    "reported_ago": "44\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-16926",
+    "title": "CVE-2026-16926 - Vulnerabilities in IBM AIX and PowerVM VIOS",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-16926",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-20 15:17 UTC",
+    "reported_ago": "44\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-76635",
+    "title": "CVE-2026-76635 - baserCMS < 5.3.0 SQL Injection and Code Injection via BcDatabaseService.php",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-76635",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-20 14:17 UTC",
+    "reported_ago": "1\u00a0hour, 43\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-70383",
+    "title": "CVE-2026-70383 - Arbitrary file overwrite vulnerability in DigiDoc4 client",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-70383",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.4,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-20 14:17 UTC",
+    "reported_ago": "1\u00a0hour, 43\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-64966",
+    "title": "CVE-2026-64966 - Path Traversal leading to Remote Code Execution in ATutor",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-64966",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-20 14:17 UTC",
+    "reported_ago": "1\u00a0hour, 43\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-64960",
+    "title": "CVE-2026-64960 - Remote Code Execution via Unrestricted File Upload in ATutor",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-64960",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-20 14:17 UTC",
+    "reported_ago": "1\u00a0hour, 43\u00a0minutes ago"
   }
 ]

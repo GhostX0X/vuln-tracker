@@ -1,0 +1,38 @@
+[
+  {
+    "cve_id": "CVE-2026-75948",
+    "title": "CVE-2026-75948 - Joomla Extension - icagenda.com -  Authenticated Stored XSS in iCagenda 4.0.8 to 4.0.12",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-75948",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-20 07:29 UTC",
+    "reported_ago": "31\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-76564",
+    "title": "CVE-2026-76564 - Joomla Extension - phoca.cz -  Stored XSS via User-Agent header in Admin Order View in Phoca Cart 5.0.0-6.1.7",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-76564",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-20 07:29 UTC",
+    "reported_ago": "31\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2025-14601",
+    "title": "CVE-2025-14601 - vsDesk Task Scheduler OS Command Injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2025-14601",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-20 07:21 UTC",
+    "reported_ago": "40\u00a0minutes ago"
+  }
+]

@@ -634,5 +634,41 @@
     "is_watch": true,
     "pub": "2026-08-20 14:17 UTC",
     "reported_ago": "1\u00a0hour, 43\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-75140",
+    "title": "CVE-2026-75140 - jsoup Uncontrolled Resource Consumption in XmlTreeBuilder",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-75140",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-20 16:18 UTC",
+    "reported_ago": "24\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-18265",
+    "title": "CVE-2026-18265 - OSNEXUS QuantaStor Missing Authentication Remote Code Execution Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-18265",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-20 16:13 UTC",
+    "reported_ago": "29\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-18264",
+    "title": "CVE-2026-18264 - NoMachine getstat Command Injection Remote Code Execution Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-18264",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-20 16:13 UTC",
+    "reported_ago": "29\u00a0minutes ago"
   }
 ]

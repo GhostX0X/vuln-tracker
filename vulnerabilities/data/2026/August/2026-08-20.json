@@ -994,5 +994,41 @@
     "is_watch": false,
     "pub": "2026-08-20 18:15 UTC",
     "reported_ago": "48\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-77148",
+    "title": "CVE-2026-77148 - Comfast CF-N1-S Web Management mbox-config sub_44B50C stack-based overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-77148",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-20 19:17 UTC",
+    "reported_ago": "57\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-66001",
+    "title": "CVE-2026-66001 - Frappe: Improper Authorization in OAuth2 Consent Endpoint",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-66001",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.5,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-20 19:16 UTC",
+    "reported_ago": "57\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-50190",
+    "title": "CVE-2026-50190 - Shaarli vulnerable to stored XSS via raw bookmark title in document <title> element on public permalink page",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-50190",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-20 19:16 UTC",
+    "reported_ago": "57\u00a0minutes ago"
   }
 ]

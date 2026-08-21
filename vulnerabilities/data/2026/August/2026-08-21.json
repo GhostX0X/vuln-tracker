@@ -610,5 +610,41 @@
     "is_watch": true,
     "pub": "2026-08-21 16:18 UTC",
     "reported_ago": "2\u00a0hours, 1\u00a0minute ago"
+  },
+  {
+    "cve_id": "CVE-2026-62677",
+    "title": "CVE-2026-62677 - Omnigent: Unvalidated os_env.cwd in agent bundle yields arbitrary host filesystem access on runners without OMNIGENT_RUNNER_WORKSPACE",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-62677",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-21 18:16 UTC",
+    "reported_ago": "1\u00a0hour, 5\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-62675",
+    "title": "CVE-2026-62675 - Omnigent: Uploaded Agent Bundle Allows Authenticated Runner RCE via Python Callable Tools",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-62675",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-21 18:16 UTC",
+    "reported_ago": "1\u00a0hour, 5\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-62674",
+    "title": "CVE-2026-62674 - Omnigent: Shared Agent Bundle Overwrite Leads to Authenticated Runner RCE",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-62674",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.0,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-21 18:16 UTC",
+    "reported_ago": "1\u00a0hour, 5\u00a0minutes ago"
   }
 ]

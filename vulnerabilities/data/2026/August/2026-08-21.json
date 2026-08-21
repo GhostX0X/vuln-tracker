@@ -202,5 +202,65 @@
     "is_watch": true,
     "pub": "2026-08-21 11:17 UTC",
     "reported_ago": "1\u00a0hour, 2\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-75946",
+    "title": "CVE-2026-75946 - OMEN Gaming Hub \u2013 Potential Escalation of Privilege & Information Disclosure",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-75946",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.2,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-21 13:50 UTC",
+    "reported_ago": "29\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-77806",
+    "title": "CVE-2026-77806 - SPIP Remote Code Execution Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-77806",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-21 13:37 UTC",
+    "reported_ago": "42\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-76613",
+    "title": "CVE-2026-76613 - Joomla Extension - yootheme.com - Authenticated, privileged SQL injection in YOOtheme Pro 1.0.0-5.0.40",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-76613",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.2,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-21 13:18 UTC",
+    "reported_ago": "1\u00a0hour, 1\u00a0minute ago"
+  },
+  {
+    "cve_id": "CVE-2026-76612",
+    "title": "CVE-2026-76612 - Joomla Extension - yootheme.com - Unauthenticated stored XSS via user-controlled fields in Zoo < 4.1.66",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-76612",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-21 13:18 UTC",
+    "reported_ago": "1\u00a0hour, 1\u00a0minute ago"
+  },
+  {
+    "cve_id": "CVE-2026-18781",
+    "title": "CVE-2026-18781 - Drag and Drop Multiple File Upload for Contact Form 7 < 1.3.9.9 - Unauthenticated RCE via Control Character Filename Bypass",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-18781",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-21 07:16 UTC",
+    "reported_ago": "7\u00a0hours, 3\u00a0minutes ago"
   }
 ]

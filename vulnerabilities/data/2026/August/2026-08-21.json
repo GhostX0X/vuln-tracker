@@ -706,5 +706,29 @@
     "is_watch": true,
     "pub": "2026-08-21 19:17 UTC",
     "reported_ago": "1\u00a0hour, 3\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-50288",
+    "title": "CVE-2026-50288 - @asymmetric-effort/specifyjs: URL parse failure silently allows request",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-50288",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-21 20:16 UTC",
+    "reported_ago": "27\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-77811",
+    "title": "CVE-2026-77811 - Stored Cross-Site Scripting via Integration Template Asset in OpenSearch Dashboards",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-77811",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-21 20:09 UTC",
+    "reported_ago": "35\u00a0minutes ago"
   }
 ]

@@ -46,5 +46,41 @@
     "is_watch": true,
     "pub": "2026-08-21 00:16 UTC",
     "reported_ago": "48\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-76157",
+    "title": "CVE-2026-76157 - Datiphy Data Management Center - Missing Authentication for Critical Function",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-76157",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-21 01:47 UTC",
+    "reported_ago": "32\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-76156",
+    "title": "CVE-2026-76156 - Datiphy Data Management Center - Improper Neutralization of Special Elements used in an OS Command",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-76156",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.4,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-21 01:44 UTC",
+    "reported_ago": "35\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-76155",
+    "title": "CVE-2026-76155 - Datiphy Data Management Center - Use of Default Credentials",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-76155",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.3,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-21 01:40 UTC",
+    "reported_ago": "39\u00a0minutes ago"
   }
 ]

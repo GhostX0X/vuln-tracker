@@ -1690,5 +1690,17 @@
     "is_watch": true,
     "pub": "2026-08-20 22:17 UTC",
     "reported_ago": "25\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-77647",
+    "title": "CVE-2026-77647 - SPIP Remote Code Execution Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-77647",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-20 23:16 UTC",
+    "reported_ago": "1\u00a0hour, 48\u00a0minutes ago"
   }
 ]

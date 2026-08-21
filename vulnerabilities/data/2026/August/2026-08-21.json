@@ -646,5 +646,65 @@
     "is_watch": true,
     "pub": "2026-08-21 18:16 UTC",
     "reported_ago": "1\u00a0hour, 5\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-76876",
+    "title": "CVE-2026-76876 - Craftplan < 0.5.1 Broken Access Control Information Disclosure via Settings API",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-76876",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.2,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-21 19:38 UTC",
+    "reported_ago": "41\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-77810",
+    "title": "CVE-2026-77810 - Code Injection via Gremlin Query Passthrough in Amazon Athena Neptune Connector",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-77810",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-21 19:34 UTC",
+    "reported_ago": "46\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-74252",
+    "title": "CVE-2026-74252 - Joomla Extension - j2commerce.com - Stored XSS in Guest checkout in J2Store 1.0.0-3.3.20, 4.0.0-4.0.20, 4.1.0-4.1.5",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-74252",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-21 19:21 UTC",
+    "reported_ago": "59\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-67359",
+    "title": "CVE-2026-67359 - Joomla Extension - j2commerce.com - Order content disclosure J2Store 1.0.0-3.3.20, 4.0.0-4.0.20, 4.1.0-4.1.5",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-67359",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-21 19:18 UTC",
+    "reported_ago": "1\u00a0hour, 1\u00a0minute ago"
+  },
+  {
+    "cve_id": "CVE-2026-54682",
+    "title": "CVE-2026-54682 - DiscordChatExporter: Stored XSS in HTML export when markdown formatting is disabled",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-54682",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.2,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-21 19:17 UTC",
+    "reported_ago": "1\u00a0hour, 3\u00a0minutes ago"
   }
 ]

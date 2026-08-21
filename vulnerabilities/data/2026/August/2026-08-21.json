@@ -106,5 +106,29 @@
     "is_watch": true,
     "pub": "2026-08-21 08:16 UTC",
     "reported_ago": "26\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-77755",
+    "title": "CVE-2026-77755 - Denial of Service in MISP-STIX Import via Malformed or Oversized STIX Documents in misp-stix library",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-77755",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-21 09:55 UTC",
+    "reported_ago": "33\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-77751",
+    "title": "CVE-2026-77751 - Path Traversal in MISP Object Template Resolution During STIX Import and Export in misp-stix library",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-77751",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-21 09:48 UTC",
+    "reported_ago": "40\u00a0minutes ago"
   }
 ]

@@ -934,5 +934,89 @@
     "is_watch": true,
     "pub": "2026-08-21 21:16 UTC",
     "reported_ago": "45\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-53530",
+    "title": "CVE-2026-53530 - ratex-parser panics on `\\verb` with a multibyte delimiter (UTF-8 byte-boundary slice)",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-53530",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-21 22:16 UTC",
+    "reported_ago": "1\u00a0hour, 11\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-53528",
+    "title": "CVE-2026-53528 - FileWiki has path traversal in RenameAsset via unsanitized oldFilename parameter",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-53528",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-21 22:16 UTC",
+    "reported_ago": "1\u00a0hour, 11\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-53527",
+    "title": "CVE-2026-53527 - LeafWiki Vulnerable to Privilege Escalation via User Self-Service Update",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-53527",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-21 22:16 UTC",
+    "reported_ago": "1\u00a0hour, 11\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-49849",
+    "title": "CVE-2026-49849 - xShop: Unrestricted File Upload in File Attachment Module in Admin panel leads to Arbitrary Code Execution",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-49849",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-21 22:16 UTC",
+    "reported_ago": "1\u00a0hour, 11\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-34741",
+    "title": "CVE-2026-34741 - Combodo iTop: Authentication bypass in exec.php allows PHP file execution",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-34741",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-21 22:16 UTC",
+    "reported_ago": "1\u00a0hour, 11\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-33240",
+    "title": "CVE-2026-33240 - Combodo iTop: Reflected XSS in foreign key search criteria",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-33240",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-21 22:16 UTC",
+    "reported_ago": "1\u00a0hour, 11\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-31936",
+    "title": "CVE-2026-31936 - Combodo iTop: Unauthorized access to object information via search operation",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-31936",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-21 22:16 UTC",
+    "reported_ago": "1\u00a0hour, 11\u00a0minutes ago"
   }
 ]

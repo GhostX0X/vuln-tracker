@@ -1,0 +1,14 @@
+[
+  {
+    "cve_id": "CVE-2026-19883",
+    "title": "CVE-2026-19883 - WPeMatico RSS Feed Fetcher <= 2.8.24 - Authenticated (Subscriber+) Privilege Escalation via Arbitrary Option Update to wpematico_import_settings admin_action",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19883",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-22 03:16 UTC",
+    "reported_ago": "45\u00a0minutes ago"
+  }
+]

@@ -22,5 +22,17 @@
     "is_watch": true,
     "pub": "2026-08-22 08:13 UTC",
     "reported_ago": "1\u00a0hour, 10\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-78003",
+    "title": "CVE-2026-78003 - Mailgun for WordPress <= 2.2.0 - Unauthenticated Server-Side Request Forgery (SSRF) via 'addresses' Array Keys",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78003",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-22 09:16 UTC",
+    "reported_ago": "45\u00a0minutes ago"
   }
 ]

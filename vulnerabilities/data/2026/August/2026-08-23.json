@@ -1,0 +1,38 @@
+[
+  {
+    "cve_id": "CVE-2026-78050",
+    "title": "CVE-2026-78050 - Comfast CF-N1-S Web Management mbox-config sub_41AD7C stack-based overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78050",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-23 00:16 UTC",
+    "reported_ago": "1\u00a0hour, 35\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-16149",
+    "title": "CVE-2026-16149 - Security Hardener <= 2.4.4 - Authenticated (Subscriber+) Privilege Escalation via REST API '/wp/v2/users' permission_callback Overwrite",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-16149",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-23 00:16 UTC",
+    "reported_ago": "1\u00a0hour, 35\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-0551",
+    "title": "CVE-2026-0551 - PPWP \u2013 Password Protect Pages <= 1.9.18 - Authenticated (Contributor+) PHP Object Injection via post_protection_roles",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-0551",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-23 00:16 UTC",
+    "reported_ago": "1\u00a0hour, 35\u00a0minutes ago"
+  }
+]

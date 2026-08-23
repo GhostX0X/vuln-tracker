@@ -382,5 +382,17 @@
     "is_watch": true,
     "pub": "2026-08-22 16:16 UTC",
     "reported_ago": "2\u00a0hours, 4\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-78122",
+    "title": "CVE-2026-78122 - docker-socket-proxy through 0.5.0 Insufficient Access Control Granularity Exposes Container Filesystems",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78122",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-22 23:16 UTC",
+    "reported_ago": "46\u00a0minutes ago"
   }
 ]

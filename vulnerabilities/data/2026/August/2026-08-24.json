@@ -1294,5 +1294,17 @@
     "is_watch": true,
     "pub": "2026-08-24 18:17 UTC",
     "reported_ago": "2\u00a0hours, 4\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-75542",
+    "title": "CVE-2026-75542 - OAuth token exchange grants repository scopes for organizations the principal cannot access",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-75542",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-24 20:14 UTC",
+    "reported_ago": "31\u00a0minutes ago"
   }
 ]

@@ -262,5 +262,17 @@
     "is_watch": true,
     "pub": "2026-08-24 09:08 UTC",
     "reported_ago": "1\u00a0hour, 13\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-10582",
+    "title": "CVE-2026-10582 - Hugo 0.91.0 through 0.165.0 Server-Side Request Forgery via security.http.urls Lacking Destination Address Validation",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-10582",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-24 10:29 UTC",
+    "reported_ago": "18\u00a0minutes ago"
   }
 ]

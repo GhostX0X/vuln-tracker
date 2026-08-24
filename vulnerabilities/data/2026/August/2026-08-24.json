@@ -154,5 +154,53 @@
     "is_watch": true,
     "pub": "2026-08-24 05:16 UTC",
     "reported_ago": "1\u00a0hour, 15\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-78255",
+    "title": "CVE-2026-78255 - DJI Drone HTTP Media Server Allows Unauthenticated Access to Stored Media",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78255",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-24 08:16 UTC",
+    "reported_ago": "15\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-77994",
+    "title": "CVE-2026-77994 - Joomla Extension - joomlack.fr - Second order SQL injection in Page Builder CK < 3.6.5",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-77994",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-24 08:16 UTC",
+    "reported_ago": "15\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-78306",
+    "title": "CVE-2026-78306 - DJI Drone Bluetooth Interface Unauthenticated DUML Command Execution",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78306",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.5,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-24 08:08 UTC",
+    "reported_ago": "24\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-78251",
+    "title": "CVE-2026-78251 - DJI Drone FTP Service Allows Unrestricted Storage Consumption of the /blackbox Directory",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78251",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.3,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-24 07:04 UTC",
+    "reported_ago": "1\u00a0hour, 27\u00a0minutes ago"
   }
 ]

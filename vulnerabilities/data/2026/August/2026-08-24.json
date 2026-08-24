@@ -202,5 +202,65 @@
     "is_watch": false,
     "pub": "2026-08-24 07:04 UTC",
     "reported_ago": "1\u00a0hour, 27\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-78317",
+    "title": "CVE-2026-78317 - DIAEnergie - SQL Injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78317",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-24 09:34 UTC",
+    "reported_ago": "46\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-78316",
+    "title": "CVE-2026-78316 - DIAEnergie - SQL Injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78316",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-24 09:34 UTC",
+    "reported_ago": "46\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-78315",
+    "title": "CVE-2026-78315 - DIAEnergie - SQL Injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78315",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-24 09:34 UTC",
+    "reported_ago": "47\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-78314",
+    "title": "CVE-2026-78314 - DIAEnergie - SQL Injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78314",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-24 09:33 UTC",
+    "reported_ago": "47\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-66897",
+    "title": "CVE-2026-66897 - Instance template path traversal allows arbitrary host file write as root",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-66897",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-24 09:08 UTC",
+    "reported_ago": "1\u00a0hour, 13\u00a0minutes ago"
   }
 ]

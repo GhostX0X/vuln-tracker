@@ -1618,5 +1618,53 @@
     "is_watch": false,
     "pub": "2026-08-25 21:17 UTC",
     "reported_ago": "1\u00a0hour, 4\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-63403",
+    "title": "CVE-2026-63403 - Faktory: Unrecovered panic in command handlers allows full-server denial of service",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-63403",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-25 22:17 UTC",
+    "reported_ago": "32\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-62865",
+    "title": "CVE-2026-62865 - TypeBot: Arbitrary server file read via Send Email block attachment path",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-62865",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-25 22:17 UTC",
+    "reported_ago": "32\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-62862",
+    "title": "CVE-2026-62862 - TypeBot: Account takeover via brute-forceable 6-digit magic-link code",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-62862",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-25 22:17 UTC",
+    "reported_ago": "32\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-80138",
+    "title": "CVE-2026-80138 - ClipBucket V5 5.5.1 through 5.5.3-#153 OS Command Injection via Installer php_cli_filepath Parameter",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-80138",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-25 22:12 UTC",
+    "reported_ago": "37\u00a0minutes ago"
   }
 ]

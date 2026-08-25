@@ -634,5 +634,113 @@
     "is_watch": true,
     "pub": "2026-08-25 10:18 UTC",
     "reported_ago": "27\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-79673",
+    "title": "CVE-2026-79673 - Ech0 before 4.4.3 Scope Bypass via profile:read Token",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-79673",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.5,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-25 11:33 UTC",
+    "reported_ago": "13\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-79665",
+    "title": "CVE-2026-79665 - Ech0 before 4.5.1 Authorization Bypass via Session Tokens",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-79665",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-25 11:33 UTC",
+    "reported_ago": "13\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-79664",
+    "title": "CVE-2026-79664 - Ech0 before 4.7.3 Access Token Revocation Bypass",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-79664",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-25 11:33 UTC",
+    "reported_ago": "13\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-79662",
+    "title": "CVE-2026-79662 - Ech0 before 4.7.3 OAuth Redirect URI Validation Bypass",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-79662",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-25 11:33 UTC",
+    "reported_ago": "13\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-79659",
+    "title": "CVE-2026-79659 - Ech0 before 4.7.3 Server-Side Request Forgery via fetchPeerConnectInfo",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-79659",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-25 11:33 UTC",
+    "reported_ago": "13\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-79658",
+    "title": "CVE-2026-79658 - Ech0 before 5.0.1 Denial of Service via Accept-Language",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-79658",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-25 11:33 UTC",
+    "reported_ago": "13\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-79657",
+    "title": "CVE-2026-79657 - NLTK before 3.10.3 Remote Code Execution via Unsafe Pickle Deserialization",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-79657",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-25 11:33 UTC",
+    "reported_ago": "14\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-59335",
+    "title": "CVE-2026-59335 - Case-Sensitive Authorization Check Bypass via Identity Zone ID Case Manipulation Leads to Full UAA Compromise",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-59335",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-25 11:16 UTC",
+    "reported_ago": "30\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-12600",
+    "title": "CVE-2026-12600 - Uncontrolled memory usage in Innodata Labs\u2019 Poppler JPX decoderUncontrolled memory usage in Innodata Labs\u2019 Poppler JPX decoder",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-12600",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-25 11:16 UTC",
+    "reported_ago": "30\u00a0minutes ago"
   }
 ]

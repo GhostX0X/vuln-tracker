@@ -2,4 +2,4 @@
 
 | Month | Critical | High | Medium | Total |
 |-------|---------:|-----:|-------:|------:|
-| [August](August/) | 626 | 921 | 0 | 1547 |
+| [August](August/) | 628 | 928 | 0 | 1556 |

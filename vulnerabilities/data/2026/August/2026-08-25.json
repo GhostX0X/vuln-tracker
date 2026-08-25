@@ -1474,5 +1474,17 @@
     "is_watch": false,
     "pub": "2026-08-25 17:17 UTC",
     "reported_ago": "1\u00a0hour, 30\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-78379",
+    "title": "CVE-2026-78379 - Consent bypass in python_repl tool via batch kwargs forwarding in Amazon Strands Agents Tools",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78379",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.2,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-25 19:16 UTC",
+    "reported_ago": "46\u00a0minutes ago"
   }
 ]

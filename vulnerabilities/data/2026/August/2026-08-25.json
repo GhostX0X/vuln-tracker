@@ -598,5 +598,41 @@
     "is_watch": true,
     "pub": "2026-08-25 08:18 UTC",
     "reported_ago": "1\u00a0hour, 45\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-78572",
+    "title": "CVE-2026-78572 - Kalles Addons <= 1.0.6 - Unauthenticated PHP Object Injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78572",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-25 10:18 UTC",
+    "reported_ago": "27\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-78570",
+    "title": "CVE-2026-78570 - Total Donations <= 2.0.5 - Unauthenticated Privilege Escalation",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78570",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-25 10:18 UTC",
+    "reported_ago": "27\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-16231",
+    "title": "CVE-2026-16231 - hbs vulnerable to XSS via registerAsyncHelper output-escaping bypass",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-16231",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-25 10:18 UTC",
+    "reported_ago": "27\u00a0minutes ago"
   }
 ]

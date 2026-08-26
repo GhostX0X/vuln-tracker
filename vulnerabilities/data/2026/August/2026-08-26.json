@@ -790,5 +790,77 @@
     "is_watch": true,
     "pub": "2026-08-26 12:16 UTC",
     "reported_ago": "3\u00a0hours, 47\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-58474",
+    "title": "CVE-2026-58474 - whichllm < 0.5.16 Code Injection via run and snippet commands",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-58474",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-26 17:49 UTC",
+    "reported_ago": "33\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-76784",
+    "title": "CVE-2026-76784 - Insufficient Cryptographic Protections in Local Device Communication Protocol on Multiple TP-Link Kasa Smart Home Devices",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-76784",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-26 17:47 UTC",
+    "reported_ago": "34\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-32258",
+    "title": "CVE-2026-32258 - Winter: Stored XSS through Editor Settings custom styles",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-32258",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-26 17:16 UTC",
+    "reported_ago": "1\u00a0hour, 5\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-32257",
+    "title": "CVE-2026-32257 - Winter: Stored XSS through Brand Settings custom styles",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-32257",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-26 17:16 UTC",
+    "reported_ago": "1\u00a0hour, 5\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-54606",
+    "title": "CVE-2026-54606 - SunEditor: DOM XSS in SunEditor Embed Plugin via External Script Element After Iframe Embed",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-54606",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.5,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-26 16:16 UTC",
+    "reported_ago": "2\u00a0hours, 6\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-54569",
+    "title": "CVE-2026-54569 - SENAITE.CORE: Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection') and Missing Authorization in senaite.core",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-54569",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-26 16:16 UTC",
+    "reported_ago": "2\u00a0hours, 6\u00a0minutes ago"
   }
 ]

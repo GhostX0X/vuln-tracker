@@ -550,5 +550,77 @@
     "is_watch": true,
     "pub": "2026-08-26 10:45 UTC",
     "reported_ago": "1\u00a0hour, 18\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-75896",
+    "title": "CVE-2026-75896 - Use of Hard-coded LDAP Credentials in T\u00dcB\u0130TAK B\u0130LGEM's Liderahenk",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-75896",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-26 13:35 UTC",
+    "reported_ago": "11\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-75960",
+    "title": "CVE-2026-75960 - Insufficiently Protected Credentials in Rently Smart Home",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-75960",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-26 13:20 UTC",
+    "reported_ago": "26\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-73108",
+    "title": "CVE-2026-73108 - RustDesk < 1.4.7 Uncontrolled Memory Allocation DoS via BytesCodec",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73108",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-26 13:00 UTC",
+    "reported_ago": "46\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-12717",
+    "title": "CVE-2026-12717 - Remote Code Execution in BigQuery Data Transfer Service via JDBC Connection String Injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-12717",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.4,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-26 12:59 UTC",
+    "reported_ago": "47\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-12587",
+    "title": "CVE-2026-12587 - Embedded credentials in Virtuagym",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-12587",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-26 12:20 UTC",
+    "reported_ago": "1\u00a0hour, 26\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-18080",
+    "title": "CVE-2026-18080 - ERP: Complete HR, Accounting & CRM Suite Built for WooCommerce <= 1.17.8 - Unauthenticated Arbitrary File Upload via CRM Email Connect IMAP Attachment",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-18080",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-26 11:05 UTC",
+    "reported_ago": "2\u00a0hours, 41\u00a0minutes ago"
   }
 ]

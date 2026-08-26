@@ -58,5 +58,17 @@
     "is_watch": false,
     "pub": "2026-08-26 04:55 UTC",
     "reported_ago": "55\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-78236",
+    "title": "CVE-2026-78236 - Insecure PIN derivation mechanism in Admin By Request (ABR)",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78236",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-26 07:20 UTC",
+    "reported_ago": "42\u00a0minutes ago"
   }
 ]

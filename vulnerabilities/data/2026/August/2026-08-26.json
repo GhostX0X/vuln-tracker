@@ -514,5 +514,41 @@
     "is_watch": true,
     "pub": "2026-08-26 10:16 UTC",
     "reported_ago": "44\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-77532",
+    "title": "CVE-2026-77532 - Ubiquiti EdgeMAX EdgeSwitch Buffer Overflow Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-77532",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-26 11:01 UTC",
+    "reported_ago": "1\u00a0hour, 2\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-77557",
+    "title": "CVE-2026-77557 - UniFi Protect AI Key Improper Access Control Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-77557",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-26 10:53 UTC",
+    "reported_ago": "1\u00a0hour, 10\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-77554",
+    "title": "CVE-2026-77554 - UniFi Talk Application Command Injection Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-77554",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 10.0,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-26 10:45 UTC",
+    "reported_ago": "1\u00a0hour, 18\u00a0minutes ago"
   }
 ]

@@ -862,5 +862,77 @@
     "is_watch": true,
     "pub": "2026-08-26 16:16 UTC",
     "reported_ago": "2\u00a0hours, 6\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-15973",
+    "title": "CVE-2026-15973 - LimeSurvey 7.0.5 - Stored XSS in Survey Menu Entries",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-15973",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.4,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-26 20:42 UTC",
+    "reported_ago": "20\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-74770",
+    "title": "CVE-2026-74770 - Dell PowerProtect One OS Command Injection Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-74770",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-26 20:17 UTC",
+    "reported_ago": "45\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-68861",
+    "title": "CVE-2026-68861 - Dell PowerProtect One OS Command Injection Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-68861",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-26 20:17 UTC",
+    "reported_ago": "45\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-60004",
+    "title": "CVE-2026-60004 - Gitea Code Injection Vulnerability - [Actively Exploited]",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-60004",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": true,
+    "is_watch": true,
+    "pub": "2026-08-26 20:17 UTC",
+    "reported_ago": "45\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-70419",
+    "title": "CVE-2026-70419 - Dell Cloud Disaster Recovery OS Command Injection Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-70419",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-26 19:16 UTC",
+    "reported_ago": "1\u00a0hour, 46\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-19485",
+    "title": "CVE-2026-19485 - Bucket Squatting in Vertex AI Search for Commerce",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19485",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-26 19:16 UTC",
+    "reported_ago": "1\u00a0hour, 46\u00a0minutes ago"
   }
 ]

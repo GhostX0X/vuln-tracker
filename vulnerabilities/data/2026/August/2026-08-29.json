@@ -166,5 +166,17 @@
     "is_watch": true,
     "pub": "2026-08-29 17:17 UTC",
     "reported_ago": "2\u00a0hours, 50\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-15369",
+    "title": "CVE-2026-15369 - Custom User Registration Fields for WooCommerce <= 2.2.3 - Unauthenticated Privilege Escalation via 'afreg_select_user_role' Parameter in Store API Checkout",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-15369",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-29 20:16 UTC",
+    "reported_ago": "1\u00a0hour, 23\u00a0minutes ago"
   }
 ]

@@ -34,5 +34,65 @@
     "is_watch": true,
     "pub": "2026-08-29 12:16 UTC",
     "reported_ago": "1\u00a0hour, 14\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-82481",
+    "title": "CVE-2026-82481 - cohttp Directory Traversal Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82481",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-29 15:17 UTC",
+    "reported_ago": "50\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-82456",
+    "title": "CVE-2026-82456 - argocd-mcp 0.8.0 Authentication Bypass via Unauthenticated HTTP",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82456",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 10.0,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-29 14:16 UTC",
+    "reported_ago": "1\u00a0hour, 52\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-82454",
+    "title": "CVE-2026-82454 - Omnivore before android-0.227.0 Authentication Bypass via Apple Sign-in",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82454",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-29 14:16 UTC",
+    "reported_ago": "1\u00a0hour, 52\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-82452",
+    "title": "CVE-2026-82452 - rust-iot-platform Authentication Bypass via Missing Request Guards",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82452",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-29 14:16 UTC",
+    "reported_ago": "1\u00a0hour, 52\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-82450",
+    "title": "CVE-2026-82450 - BookStack before 26.05.4 Remote Code Execution via Book Cover",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82450",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-29 14:16 UTC",
+    "reported_ago": "1\u00a0hour, 52\u00a0minutes ago"
   }
 ]

@@ -94,5 +94,77 @@
     "is_watch": true,
     "pub": "2026-08-29 14:16 UTC",
     "reported_ago": "1\u00a0hour, 52\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-82475",
+    "title": "CVE-2026-82475 - iFlytek astron-agent through 1.1.1 Workflow Hijacking via Missing Ownership Check",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82475",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-29 17:18 UTC",
+    "reported_ago": "2\u00a0hours, 50\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-82473",
+    "title": "CVE-2026-82473 - KubeEdge CloudCore through 1.23.1 Missing Authentication on Node Task Endpoints",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82473",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.2,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-29 17:17 UTC",
+    "reported_ago": "2\u00a0hours, 50\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-82466",
+    "title": "CVE-2026-82466 - Rodauth before 2.46.0 Authentication Bypass via webauthn_login",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82466",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-29 17:17 UTC",
+    "reported_ago": "2\u00a0hours, 50\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-82463",
+    "title": "CVE-2026-82463 - pac4j-core before 6.5.6 Authorization Bypass via Reversed Profile Type Check",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82463",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-29 17:17 UTC",
+    "reported_ago": "2\u00a0hours, 50\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-82461",
+    "title": "CVE-2026-82461 - pac4j-oidc before 6.5.6 Privilege Escalation via Unverified Keycloak Access Token",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82461",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-29 17:17 UTC",
+    "reported_ago": "2\u00a0hours, 50\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-82460",
+    "title": "CVE-2026-82460 - Cloud Commander before 19.20.2 Directory Traversal via REST and Markdown",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82460",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-29 17:17 UTC",
+    "reported_ago": "2\u00a0hours, 50\u00a0minutes ago"
   }
 ]

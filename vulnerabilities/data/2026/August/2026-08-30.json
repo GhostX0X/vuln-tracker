@@ -166,5 +166,17 @@
     "is_watch": false,
     "pub": "2026-08-30 16:16 UTC",
     "reported_ago": "2\u00a0hours, 8\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-81636",
+    "title": "CVE-2026-81636 - Query-complexity limit bypass via first/last pagination arguments in AshGraphql enables denial of service",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-81636",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-30 19:17 UTC",
+    "reported_ago": "1\u00a0hour, 7\u00a0minutes ago"
   }
 ]

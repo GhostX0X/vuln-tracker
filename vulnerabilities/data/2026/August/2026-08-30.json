@@ -154,5 +154,17 @@
     "is_watch": false,
     "pub": "2026-08-30 11:17 UTC",
     "reported_ago": "3\u00a0hours, 36\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-82549",
+    "title": "CVE-2026-82549 - Linux Foundation Magma SecurityModeComplete integrity check",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82549",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.3,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-30 16:16 UTC",
+    "reported_ago": "2\u00a0hours, 8\u00a0minutes ago"
   }
 ]

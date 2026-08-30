@@ -1,0 +1,14 @@
+[
+  {
+    "cve_id": "CVE-2026-15980",
+    "title": "CVE-2026-15980 - MyHome Core <= 4.4.5 - Authentication Bypass to Account Takeover via Activation Token",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-15980",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-30 05:16 UTC",
+    "reported_ago": "5\u00a0hours, 7\u00a0minutes ago"
+  }
+]

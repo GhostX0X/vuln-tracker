@@ -1,0 +1,26 @@
+[
+  {
+    "cve_id": "CVE-2026-77956",
+    "title": "CVE-2026-77956 - EEx template evaluation of prompt content in AshAi enables remote code execution",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-77956",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 10.0,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-31 01:16 UTC",
+    "reported_ago": "1\u00a0hour, 8\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-82593",
+    "title": "CVE-2026-82593 - D-Link DIR-825M LTE Module Firmware Upgrade formLtefotaUpgradeFibocom sub_41802C stack-based overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82593",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-31 00:16 UTC",
+    "reported_ago": "2\u00a0hours, 8\u00a0minutes ago"
+  }
+]

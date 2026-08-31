@@ -22,5 +22,89 @@
     "is_watch": false,
     "pub": "2026-08-31 00:16 UTC",
     "reported_ago": "2\u00a0hours, 8\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-82628",
+    "title": "CVE-2026-82628 - Colorful iGameCenter IOCTL Dispatch WinRing0x64.sys sub_11504 privileges management",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82628",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.3,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-31 07:17 UTC",
+    "reported_ago": "1\u00a0hour, 7\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-58574",
+    "title": "CVE-2026-58574 - Dell PowerStore Missing Authentication for Critical Function Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-58574",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-31 07:17 UTC",
+    "reported_ago": "1\u00a0hour, 7\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-82616",
+    "title": "CVE-2026-82616 - TOTOLINK NR1800X cstecgi.cgi setUploadSetting stack-based overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82616",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-08-31 05:17 UTC",
+    "reported_ago": "3\u00a0hours, 8\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-82722",
+    "title": "CVE-2026-82722 - AshAdmin LiveView events intern atoms from client input, exhausting the atom table (node DoS)",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82722",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-31 03:16 UTC",
+    "reported_ago": "5\u00a0hours, 8\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-82673",
+    "title": "CVE-2026-82673 - Path traversal in AshAdmin file uploads via unsanitized client filename",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82673",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-31 03:16 UTC",
+    "reported_ago": "5\u00a0hours, 8\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-77850",
+    "title": "CVE-2026-77850 - Stored XSS in AshAdmin relationship typeahead via unescaped label_field content",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-77850",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.4,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-31 03:16 UTC",
+    "reported_ago": "5\u00a0hours, 8\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-75757",
+    "title": "CVE-2026-75757 - AshAdmin cookie reader matches names by substring, enabling actor/session shadowing from a sibling subdomain",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-75757",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-08-31 03:16 UTC",
+    "reported_ago": "5\u00a0hours, 8\u00a0minutes ago"
   }
 ]

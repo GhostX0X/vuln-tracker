@@ -790,5 +790,53 @@
     "is_watch": true,
     "pub": "2026-09-02 16:17 UTC",
     "reported_ago": "2\u00a0hours, 42\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-84452",
+    "title": "CVE-2026-84452 - Windows ML CLI Remote Code Execution Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-84452",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-02 20:17 UTC",
+    "reported_ago": "28\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-82524",
+    "title": "CVE-2026-82524 - UnoPim Arbitrary File Upload Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82524",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-02 20:17 UTC",
+    "reported_ago": "28\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-84381",
+    "title": "CVE-2026-84381 - HTTPX2 SOCKS5 Proxy TLS Upgrade Failure Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-84381",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-02 19:18 UTC",
+    "reported_ago": "1\u00a0hour, 28\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-19117",
+    "title": "CVE-2026-19117 - FIDO2 Authentication Bypass Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19117",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-02 19:17 UTC",
+    "reported_ago": "1\u00a0hour, 29\u00a0minutes ago"
   }
 ]

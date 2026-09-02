@@ -826,5 +826,113 @@
     "is_watch": true,
     "pub": "2026-09-01 20:17 UTC",
     "reported_ago": "1\u00a0hour, 18\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-84482",
+    "title": "CVE-2026-84482 - WWBN AVideo Cross-Site Request Forgery via get_domain() validation",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-84482",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-01 23:17 UTC",
+    "reported_ago": "18\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-84480",
+    "title": "CVE-2026-84480 - WWBN AVideo Password Recovery Token Expiration Bypass",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-84480",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-01 23:17 UTC",
+    "reported_ago": "18\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-84479",
+    "title": "CVE-2026-84479 - WWBN AVideo Authentication Bypass via User-Agent Header",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-84479",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-01 23:17 UTC",
+    "reported_ago": "18\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-84476",
+    "title": "CVE-2026-84476 - WWBN AVideo Authentication Bypass via X-Real-IP Header",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-84476",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-01 23:17 UTC",
+    "reported_ago": "18\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-84208",
+    "title": "CVE-2026-84208 - AVideo User_Location Plugin Unauthenticated SQL Injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-84208",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-01 23:17 UTC",
+    "reported_ago": "18\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-84372",
+    "title": "CVE-2026-84372 - Predis: Redis command injection and denial of service via CRLF smuggling in pipelined commands on aggregate connections",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-84372",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-01 22:17 UTC",
+    "reported_ago": "1\u00a0hour, 18\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-75604",
+    "title": "CVE-2026-75604 - Next.js: Unauthenticated Remote Code Execution on windows-hosted servers",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-75604",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.0,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-01 22:17 UTC",
+    "reported_ago": "1\u00a0hour, 18\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-18730",
+    "title": "CVE-2026-18730 - Server-side request forgery vulnerability in GitHub Enterprise Server Manage API leaked a replayable gateway-agent bearer token",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-18730",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.2,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-01 22:17 UTC",
+    "reported_ago": "1\u00a0hour, 18\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2023-54391",
+    "title": "CVE-2023-54391 - Proxmox VE 7.0-8.0 Authentication Bypass via tfa-challenge Parameter",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2023-54391",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-01 22:17 UTC",
+    "reported_ago": "1\u00a0hour, 18\u00a0minutes ago"
   }
 ]

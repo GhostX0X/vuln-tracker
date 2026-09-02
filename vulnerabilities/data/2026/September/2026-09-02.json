@@ -130,5 +130,65 @@
     "is_watch": true,
     "pub": "2026-09-02 01:17 UTC",
     "reported_ago": "2\u00a0hours, 53\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-14828",
+    "title": "CVE-2026-14828 - ManageEngine Password Manager Pro, PAM360, and Access Manager Plus SQL Injection Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-14828",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-02 08:16 UTC",
+    "reported_ago": "24\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-78657",
+    "title": "CVE-2026-78657 - SigmaForms Pro <= 1.4.11 - Unauthenticated Arbitrary File Deletion via Path Traversal in File Upload Field",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78657",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-02 06:17 UTC",
+    "reported_ago": "2\u00a0hours, 24\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-14357",
+    "title": "CVE-2026-14357 - DevKit Pro <= 2.3.0 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Theme Installation / Remote Code Execution via 'qqfile' Parameter",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-14357",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-02 06:17 UTC",
+    "reported_ago": "2\u00a0hours, 24\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-9055",
+    "title": "CVE-2026-9055 - Booking for Appointments and Events Calendar \u2013 Amelia (Premium) 8.0 - 9.6.2 - Unauthenticated Privilege Escalation to Administrator via 'externalId'",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-9055",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-02 05:17 UTC",
+    "reported_ago": "3\u00a0hours, 24\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2024-35585",
+    "title": "CVE-2024-35585 - Oxford Nanopore MinKNOW Authentication Bypass",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2024-35585",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-02 05:17 UTC",
+    "reported_ago": "3\u00a0hours, 24\u00a0minutes ago"
   }
 ]

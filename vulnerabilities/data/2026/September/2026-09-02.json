@@ -406,5 +406,89 @@
     "is_watch": false,
     "pub": "2026-09-02 06:17 UTC",
     "reported_ago": "6\u00a0hours, 24\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-82955",
+    "title": "CVE-2026-82955 - Eclipse aeriOS KrakenD JWT Validation Security Bypass",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82955",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.0,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-02 15:17 UTC",
+    "reported_ago": "18\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-79990",
+    "title": "CVE-2026-79990 - GQL entry mutation `siteId` bypasses schema site scope, enabling cross-site content read/write/delete",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-79990",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-02 15:17 UTC",
+    "reported_ago": "18\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-79989",
+    "title": "CVE-2026-79989 - Arbitrary user password reset leading to administrator account takeover",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-79989",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-02 15:17 UTC",
+    "reported_ago": "18\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-77009",
+    "title": "CVE-2026-77009 - WatchMan-Site7 3.1.1 - 4.2.0 - Subscriber+ RCE via Debug Console",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-77009",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-02 15:17 UTC",
+    "reported_ago": "18\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-4357",
+    "title": "CVE-2026-4357 - Embed HTML5 Game <= 1.3 - Unauthenticated Arbitrary File Upload",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-4357",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 10.0,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-02 15:17 UTC",
+    "reported_ago": "18\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2025-9314",
+    "title": "CVE-2025-9314 - Developer Tools <= 1.1.3 \u2013 Unauthenticated Arbitrary File Upload",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2025-9314",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-02 15:17 UTC",
+    "reported_ago": "18\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2025-15485",
+    "title": "CVE-2025-15485 - Auto x LINE <= 1.0.0 \u2013 Unauthenticated REST API Endpoints Call",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2025-15485",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.2,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-02 15:17 UTC",
+    "reported_ago": "18\u00a0minutes ago"
   }
 ]

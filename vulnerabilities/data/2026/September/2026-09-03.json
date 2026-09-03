@@ -526,5 +526,41 @@
     "is_watch": true,
     "pub": "2026-09-03 15:17 UTC",
     "reported_ago": "2\u00a0hours, 18\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-63219",
+    "title": "CVE-2026-63219 - Unauthenticated file upload via missing authorization on formatter upload endpoint",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-63219",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-03 18:17 UTC",
+    "reported_ago": "27\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-58400",
+    "title": "CVE-2026-58400 - GeoNetwork vulnerable to Remote Code Execution via unsafe Saxon XSLT processor configuration in formatter",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-58400",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-03 18:17 UTC",
+    "reported_ago": "27\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-82526",
+    "title": "CVE-2026-82526 - R2R 3.6.6 SQL Injection via Vector Index Creation Endpoint",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82526",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-03 18:12 UTC",
+    "reported_ago": "32\u00a0minutes ago"
   }
 ]

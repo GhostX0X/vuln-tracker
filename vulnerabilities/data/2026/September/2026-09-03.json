@@ -1,0 +1,14 @@
+[
+  {
+    "cve_id": "CVE-2021-38489",
+    "title": "CVE-2021-38489 - UEFI Firmware HDD Password Plaintext Exposure",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2021-38489",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.2,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-03 03:35 UTC",
+    "reported_ago": "1\u00a0hour, 7\u00a0minutes ago"
+  }
+]

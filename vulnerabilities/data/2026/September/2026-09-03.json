@@ -10,5 +10,41 @@
     "is_watch": false,
     "pub": "2026-09-03 03:35 UTC",
     "reported_ago": "1\u00a0hour, 7\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-9854",
+    "title": "CVE-2026-9854 - SYS600 Privilege Escalation Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-9854",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.5,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-03 07:55 UTC",
+    "reported_ago": "48\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-9853",
+    "title": "CVE-2026-9853 - SYS600 Improper Access Control",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-9853",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.5,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-03 07:53 UTC",
+    "reported_ago": "50\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-84851",
+    "title": "CVE-2026-84851 - Uncontrolled recursion in the Ion reader in Amazon Ion-C before 1.1.6",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-84851",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-03 05:16 UTC",
+    "reported_ago": "3\u00a0hours, 26\u00a0minutes ago"
   }
 ]

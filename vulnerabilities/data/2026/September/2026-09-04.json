@@ -142,5 +142,101 @@
     "is_watch": true,
     "pub": "2026-09-04 00:17 UTC",
     "reported_ago": "4\u00a0hours, 28\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-85094",
+    "title": "CVE-2026-85094 - Canva Android App WebView Cross-Origin Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-85094",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-04 07:17 UTC",
+    "reported_ago": "1\u00a0hour, 28\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-85085",
+    "title": "CVE-2026-85085 - Canva Android App WebView Cross-Origin Resource Access Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-85085",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-04 07:17 UTC",
+    "reported_ago": "1\u00a0hour, 28\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-70403",
+    "title": "CVE-2026-70403 - XING CPTrans-ME-X Use of Hard-coded Password",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-70403",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-04 07:17 UTC",
+    "reported_ago": "1\u00a0hour, 28\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-69657",
+    "title": "CVE-2026-69657 - XING CPTrans-ME-X Use of Default Password",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-69657",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-04 07:17 UTC",
+    "reported_ago": "1\u00a0hour, 28\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-66840",
+    "title": "CVE-2026-66840 - XING CPTrans-ME-X Exposure of Sensitive System Information",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-66840",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-04 07:17 UTC",
+    "reported_ago": "1\u00a0hour, 28\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-62928",
+    "title": "CVE-2026-62928 - XING CPTrans-ME-X OS Command Injection Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-62928",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-04 07:17 UTC",
+    "reported_ago": "1\u00a0hour, 28\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-15354",
+    "title": "CVE-2026-15354 - ACPT (Premium) <= 2.0.66 - Unauthenticated Privilege Escalation via 'acpt_form_post_id' Parameter",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-15354",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-04 07:17 UTC",
+    "reported_ago": "1\u00a0hour, 28\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-11613",
+    "title": "CVE-2026-11613 - Divi Ajax Filter <= 5.1.2 - Unauthenticated Local File Inclusion via 'custom_loop_template' Parameter",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-11613",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-04 05:17 UTC",
+    "reported_ago": "3\u00a0hours, 28\u00a0minutes ago"
   }
 ]

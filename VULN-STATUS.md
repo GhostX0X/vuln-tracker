@@ -1,6 +1,6 @@
 # 🚨 Vulnerability Feed Status
 
-Last checked: 2026-09-04T09:53:17.561217+00:00 UTC
+Last checked: 2026-09-04T13:59:37.431647+00:00 UTC
 
 ## 📡 Configured sources
 
@@ -12,7 +12,7 @@ Last checked: 2026-09-04T09:53:17.561217+00:00 UTC
 ## 📅 Counts by date (latest first)
 
 ```
-2026-09-04 |  20 ████
+2026-09-04 |  44 ████████
 2026-09-03 |  97 █████████████████
 2026-09-02 |  70 █████████████
 2026-09-01 |  78 ██████████████
@@ -30,7 +30,7 @@ Last checked: 2026-09-04T09:53:17.561217+00:00 UTC
 
 | Date | Count |
 |------|------:|
-| [2026-09-04](vulnerabilities/2026/September/2026-09-04.md) | 20 |
+| [2026-09-04](vulnerabilities/2026/September/2026-09-04.md) | 44 |
 | [2026-09-03](vulnerabilities/2026/September/2026-09-03.md) | 97 |
 | [2026-09-02](vulnerabilities/2026/September/2026-09-02.md) | 70 |
 | [2026-09-01](vulnerabilities/2026/September/2026-09-01.md) | 78 |

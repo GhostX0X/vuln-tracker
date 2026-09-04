@@ -1066,5 +1066,113 @@
     "is_watch": true,
     "pub": "2026-09-04 17:16 UTC",
     "reported_ago": "2\u00a0hours, 19\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-75925",
+    "title": "CVE-2026-75925 - IXON VPN Client CRLF Injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-75925",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.6,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-04 21:19 UTC",
+    "reported_ago": "44\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-82712",
+    "title": "CVE-2026-82712 - Tycon Systems TPDIN-Monitor-WEB3 Cross-Site Request Forgery",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82712",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-04 21:17 UTC",
+    "reported_ago": "46\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-77393",
+    "title": "CVE-2026-77393 - Inductive Automation Ignition Incorrect Default Permissions",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-77393",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-04 21:10 UTC",
+    "reported_ago": "53\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-82684",
+    "title": "CVE-2026-82684 - Tycon Systems TPDIN-Monitor-WEB3 Missing Authorization",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82684",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.6,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-04 21:01 UTC",
+    "reported_ago": "1\u00a0hour, 2\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-61699",
+    "title": "CVE-2026-61699 - nebula-mesh: Certificate revocation is never enforced at the mesh",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-61699",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-04 20:17 UTC",
+    "reported_ago": "1\u00a0hour, 46\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-53932",
+    "title": "CVE-2026-53932 - wnx/laravel-backup-restore: Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') and Improper Neutralization of Special Elements used in a Command ('Command Injection')",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-53932",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.0,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-04 20:17 UTC",
+    "reported_ago": "1\u00a0hour, 46\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-81939",
+    "title": "CVE-2026-81939 - SonicWall Network Security Manager Path Traversal Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-81939",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-04 19:17 UTC",
+    "reported_ago": "2\u00a0hours, 46\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-78328",
+    "title": "CVE-2026-78328 - SonicWall Network Security Manager Privilege Escalation Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78328",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-04 19:17 UTC",
+    "reported_ago": "2\u00a0hours, 46\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-78327",
+    "title": "CVE-2026-78327 - SonicWall Network Security Manager OS Command Injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78327",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-04 19:17 UTC",
+    "reported_ago": "2\u00a0hours, 46\u00a0minutes ago"
   }
 ]

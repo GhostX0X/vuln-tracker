@@ -70,5 +70,65 @@
     "is_watch": false,
     "pub": "2026-09-05 00:17 UTC",
     "reported_ago": "3\u00a0hours, 50\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-19887",
+    "title": "CVE-2026-19887 - Welcart e-Commerce <= 2.12.1 - Unauthenticated Arbitrary File Deletion via PHP Object Injection via 'reserve' Checkout Parameter and 'option' EDY Callback",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19887",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-05 07:17 UTC",
+    "reported_ago": "1\u00a0hour, 8\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-86145",
+    "title": "CVE-2026-86145 - PCRE2 Out-of-Bounds Write Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86145",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.2,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-05 06:17 UTC",
+    "reported_ago": "2\u00a0hours, 8\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-83627",
+    "title": "CVE-2026-83627 - Hummingbird \u2013 Speed Optimization, Caching, Minify, Compress & CDN <= 3.21.0 - Unauthenticated Remote Code Execution via Cookie Name in Page Cache Debug Log",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-83627",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-05 06:17 UTC",
+    "reported_ago": "2\u00a0hours, 8\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-13447",
+    "title": "CVE-2026-13447 - MStore API <= 4.20.0 - Unauthenticated Authentication Bypass via 'id_token' Parameter JWT Forgery",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-13447",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-05 06:17 UTC",
+    "reported_ago": "2\u00a0hours, 8\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-86140",
+    "title": "CVE-2026-86140 - libxml2 Stack-Based Buffer Overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86140",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.0,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-05 05:17 UTC",
+    "reported_ago": "3\u00a0hours, 8\u00a0minutes ago"
   }
 ]

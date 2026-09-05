@@ -130,5 +130,89 @@
     "is_watch": false,
     "pub": "2026-09-05 05:17 UTC",
     "reported_ago": "3\u00a0hours, 8\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-86124",
+    "title": "CVE-2026-86124 - AutoAgent Unauthenticated Remote Code Execution via the Sandbox TCP Command Server",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86124",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-05 09:59 UTC",
+    "reported_ago": "30\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-86123",
+    "title": "CVE-2026-86123 - SQL Chat Unauthenticated Database-Connection Proxy in the /api/connection Endpoints",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86123",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.4,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-05 09:59 UTC",
+    "reported_ago": "30\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-86121",
+    "title": "CVE-2026-86121 - Cua computer-server before 0.3.42 Unauthenticated RCE via Desktop Control",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86121",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-05 09:59 UTC",
+    "reported_ago": "30\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-86119",
+    "title": "CVE-2026-86119 - Webstudio through 0.296.0 SSRF via /cgi proxy routes",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86119",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.2,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-05 09:59 UTC",
+    "reported_ago": "30\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-86117",
+    "title": "CVE-2026-86117 - Coolify through 4.3.17 OAuth Account Takeover via Unverified Email Matching",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86117",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.2,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-05 09:59 UTC",
+    "reported_ago": "30\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2024-11080",
+    "title": "CVE-2024-11080 - Post Grid and Gutenberg Blocks \u2013 ComboBlocks 2.2.85 - 2.3.32 - Unauthenticated Hook Injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2024-11080",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-05 09:16 UTC",
+    "reported_ago": "1\u00a0hour, 12\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-81543",
+    "title": "CVE-2026-81543 - Abandoned Cart Pro for WooCommerce <= 10.7.1 - Missing Authorization to Authenticated (Subscriber+) Privilege Escalation",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-81543",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-05 08:16 UTC",
+    "reported_ago": "2\u00a0hours, 12\u00a0minutes ago"
   }
 ]

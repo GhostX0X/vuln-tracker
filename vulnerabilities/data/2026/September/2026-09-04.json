@@ -1174,5 +1174,53 @@
     "is_watch": true,
     "pub": "2026-09-04 19:17 UTC",
     "reported_ago": "2\u00a0hours, 46\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-86098",
+    "title": "CVE-2026-86098 - ntop nDPI before 6.0 Heap Buffer Overflow via ndpi_json_string_escape",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86098",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.3,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-04 23:18 UTC",
+    "reported_ago": "4\u00a0hours, 50\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-86095",
+    "title": "CVE-2026-86095 - Unidata netcdf-c through 4.10.1 Out-of-bounds Write via Oversized HDF5 Attribute Name",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86095",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.5,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-04 23:18 UTC",
+    "reported_ago": "4\u00a0hours, 50\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-48019",
+    "title": "CVE-2026-48019 - CRLF injection in Laravel's default email rule enables SMTP smuggling and spoofed-mail relay",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-48019",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.9,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-04 23:17 UTC",
+    "reported_ago": "4\u00a0hours, 51\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-46636",
+    "title": "CVE-2026-46636 - Twig: Sandbox method allowlist bypass via `Markup` subclass",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-46636",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-04 22:17 UTC",
+    "reported_ago": "5\u00a0hours, 50\u00a0minutes ago"
   }
 ]

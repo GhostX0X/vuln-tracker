@@ -1,0 +1,110 @@
+[
+  {
+    "cve_id": "CVE-2026-86167",
+    "title": "CVE-2026-86167 - Tenda HG10 Boa formgponConf os command injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86167",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-06 05:16 UTC",
+    "reported_ago": "14\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-86166",
+    "title": "CVE-2026-86166 - Tenda HG10 Boa Web Server formWanRedirect buffer overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86166",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 9.0,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-06 04:18 UTC",
+    "reported_ago": "1\u00a0hour, 12\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-86165",
+    "title": "CVE-2026-86165 - Tenda HG10 formURL buffer overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86165",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 10.0,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-06 04:18 UTC",
+    "reported_ago": "1\u00a0hour, 12\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-86218",
+    "title": "CVE-2026-86218 - pre-authentication remote code execution",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86218",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 10.0,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-06 03:17 UTC",
+    "reported_ago": "2\u00a0hours, 14\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-75816",
+    "title": "CVE-2026-75816 - Frontend Admin by DynamiApps <= 3.29.12 - Unauthenticated Account Takeover via '_acf_objects' Object Identifier",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-75816",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-06 03:17 UTC",
+    "reported_ago": "2\u00a0hours, 14\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-16310",
+    "title": "CVE-2026-16310 - MemberDash <= 1.8.5 - Unauthenticated Account Takeover via Insecure Direct Object Reference via 'id' Parameter",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-16310",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-06 03:17 UTC",
+    "reported_ago": "2\u00a0hours, 14\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-86153",
+    "title": "CVE-2026-86153 - Tenda CP3 Redirect.cpp SetRedirectEnable privileges management",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86153",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.4,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-06 02:17 UTC",
+    "reported_ago": "3\u00a0hours, 14\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-86152",
+    "title": "CVE-2026-86152 - Tenda CP3 Kylin AutoAddWifi.cpp ThreadProc os command injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86152",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 10.0,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-06 02:17 UTC",
+    "reported_ago": "3\u00a0hours, 14\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-86151",
+    "title": "CVE-2026-86151 - Tenda CP3 Network Configuration Management system.c sub_2F77E8 os command injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86151",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.4,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-06 00:16 UTC",
+    "reported_ago": "5\u00a0hours, 14\u00a0minutes ago"
+  }
+]

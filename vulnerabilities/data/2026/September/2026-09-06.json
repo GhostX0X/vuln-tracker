@@ -202,5 +202,41 @@
     "is_watch": false,
     "pub": "2026-09-06 07:16 UTC",
     "reported_ago": "5\u00a0hours, 32\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-19633",
+    "title": "CVE-2026-19633 - PostgreSQL Anonymizer: unprivileged masked users can execute code via operators, domain casts and view subqueries",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19633",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-06 16:16 UTC",
+    "reported_ago": "32\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-82750",
+    "title": "CVE-2026-82750 - Unbounded EIP-7702 authorization list in mpp Tempo fee-payer sponsorship inflates gas cost and sponsors account delegation",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82750",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.3,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-06 16:08 UTC",
+    "reported_ago": "40\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-82751",
+    "title": "CVE-2026-82751 - Unbounded key authorization in mpp Tempo fee-payer sponsorship inflates gas cost and sponsors access-key provisioning",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82751",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.3,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-06 16:07 UTC",
+    "reported_ago": "41\u00a0minutes ago"
   }
 ]

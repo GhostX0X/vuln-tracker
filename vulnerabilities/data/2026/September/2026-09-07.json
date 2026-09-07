@@ -370,5 +370,77 @@
     "is_watch": true,
     "pub": "2026-09-07 11:17 UTC",
     "reported_ago": "3\u00a0hours, 33\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-86502",
+    "title": "CVE-2026-86502 - JetBrains IntelliJ IDEA IJent gRPC Server Remote Code Execution",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86502",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.4,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-07 17:17 UTC",
+    "reported_ago": "2\u00a0hours, 20\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-86492",
+    "title": "CVE-2026-86492 - JetBrains YouTrack Cross-Tenant GitHub App Token Disclosure",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86492",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.5,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-07 17:17 UTC",
+    "reported_ago": "2\u00a0hours, 20\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-86482",
+    "title": "CVE-2026-86482 - JetBrains YouTrack Privilege Escalation via Group Membership Modification",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86482",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-07 17:17 UTC",
+    "reported_ago": "2\u00a0hours, 20\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-86480",
+    "title": "CVE-2026-86480 - JetBrains Hub Improper Authorization Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86480",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-07 17:17 UTC",
+    "reported_ago": "2\u00a0hours, 20\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-86479",
+    "title": "CVE-2026-86479 - JetBrains YouTrack Insecure Direct Object Reference Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86479",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-07 17:17 UTC",
+    "reported_ago": "2\u00a0hours, 20\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-86478",
+    "title": "CVE-2026-86478 - JetBrains YouTrack Improper Authentication Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86478",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-07 17:17 UTC",
+    "reported_ago": "2\u00a0hours, 20\u00a0minutes ago"
   }
 ]

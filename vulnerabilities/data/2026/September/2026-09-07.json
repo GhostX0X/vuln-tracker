@@ -502,5 +502,89 @@
     "is_watch": true,
     "pub": "2026-09-07 22:17 UTC",
     "reported_ago": "33\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-86544",
+    "title": "CVE-2026-86544 - knowns before 0.30.0 Authorization Bypass via Misclassified Code Actions",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86544",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-07 23:16 UTC",
+    "reported_ago": "5\u00a0hours, 34\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-86543",
+    "title": "CVE-2026-86543 - knowns before 0.30.0 Unauthenticated Management API Exposure",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86543",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-07 23:16 UTC",
+    "reported_ago": "5\u00a0hours, 34\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-86542",
+    "title": "CVE-2026-86542 - knowns before 0.30.0 Path Traversal via Import Name",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86542",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-07 23:16 UTC",
+    "reported_ago": "5\u00a0hours, 34\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-86541",
+    "title": "CVE-2026-86541 - knowns before 0.30.0 Path Traversal via code.replace MCP action",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86541",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-07 23:16 UTC",
+    "reported_ago": "5\u00a0hours, 34\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-86540",
+    "title": "CVE-2026-86540 - knowns before 0.30.0 Arbitrary Code Execution via LSP Binary",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86540",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.5,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-07 23:16 UTC",
+    "reported_ago": "5\u00a0hours, 34\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-86538",
+    "title": "CVE-2026-86538 - knowns before 0.30.0 Path Traversal via templateFile parameter",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86538",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-07 23:16 UTC",
+    "reported_ago": "5\u00a0hours, 34\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-86439",
+    "title": "CVE-2026-86439 - knowns before 0.30.0 Path Traversal via MCP doc and memory tools",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86439",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-07 23:16 UTC",
+    "reported_ago": "5\u00a0hours, 34\u00a0minutes ago"
   }
 ]

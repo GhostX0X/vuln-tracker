@@ -1,6 +1,6 @@
 # 🚨 Vulnerability Feed Status
 
-Last checked: 2026-09-08T00:38:12.114416+00:00 UTC
+Last checked: 2026-09-08T05:15:19.511327+00:00 UTC
 
 ## 📡 Configured sources
 
@@ -12,7 +12,8 @@ Last checked: 2026-09-08T00:38:12.114416+00:00 UTC
 ## 📅 Counts by date (latest first)
 
 ```
-2026-09-07 |  42 ████████
+2026-09-08 |   7 █
+2026-09-07 |  49 █████████
 2026-09-06 |  20 ████
 2026-09-05 |  37 ███████
 2026-09-04 | 102 ██████████████████
@@ -25,12 +26,12 @@ Last checked: 2026-09-08T00:38:12.114416+00:00 UTC
 2026-08-28 |  75 █████████████
 2026-08-27 |  49 █████████
 2026-08-26 |  90 ████████████████
-2026-08-25 | 150 ███████████████████████████
 ```
 
 | Date | Count |
 |------|------:|
-| [2026-09-07](vulnerabilities/2026/September/2026-09-07.md) | 42 |
+| [2026-09-08](vulnerabilities/2026/September/2026-09-08.md) | 7 |
+| [2026-09-07](vulnerabilities/2026/September/2026-09-07.md) | 49 |
 | [2026-09-06](vulnerabilities/2026/September/2026-09-06.md) | 20 |
 | [2026-09-05](vulnerabilities/2026/September/2026-09-05.md) | 37 |
 | [2026-09-04](vulnerabilities/2026/September/2026-09-04.md) | 102 |
@@ -43,6 +44,5 @@ Last checked: 2026-09-08T00:38:12.114416+00:00 UTC
 | [2026-08-28](vulnerabilities/2026/August/2026-08-28.md) | 75 |
 | [2026-08-27](vulnerabilities/2026/August/2026-08-27.md) | 49 |
 | [2026-08-26](vulnerabilities/2026/August/2026-08-26.md) | 90 |
-| [2026-08-25](vulnerabilities/2026/August/2026-08-25.md) | 150 |
 
 Browse `vulnerabilities/<year>/<month>/` for the full archive — each folder has an index sorted latest-first.

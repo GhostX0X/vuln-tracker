@@ -82,5 +82,41 @@
     "is_watch": false,
     "pub": "2026-09-08 01:17 UTC",
     "reported_ago": "3\u00a0hours, 33\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-71374",
+    "title": "CVE-2026-71374 - Deserialization of Untrusted Data Vulnerability in Cosminexus Component Container",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-71374",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-08 08:17 UTC",
+    "reported_ago": "39\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-71377",
+    "title": "CVE-2026-71377 - Command Argument Injection Vulnerability in Cosminexus Component Container",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-71377",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-08 08:15 UTC",
+    "reported_ago": "41\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-71376",
+    "title": "CVE-2026-71376 - OS Command Injection Vulnerability in Cosminexus Component Container",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-71376",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-08 08:02 UTC",
+    "reported_ago": "54\u00a0minutes ago"
   }
 ]

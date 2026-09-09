@@ -1270,5 +1270,89 @@
     "is_watch": true,
     "pub": "2026-09-08 19:19 UTC",
     "reported_ago": "1\u00a0hour, 42\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-55250",
+    "title": "CVE-2026-55250 - Maravel-Framework Token Replay Vulnerability via Premature JWT Blacklist Eviction in Tagged Caches",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-55250",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-08 23:17 UTC",
+    "reported_ago": "18\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-53581",
+    "title": "CVE-2026-53581 - ntp: write path traversal",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-53581",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.0,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-08 23:17 UTC",
+    "reported_ago": "18\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-86076",
+    "title": "CVE-2026-86076 - n8n: Expression Sandbox Escape in Editor-UI Enables Stored Cross-User JavaScript Execution",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86076",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-08 22:19 UTC",
+    "reported_ago": "1\u00a0hour, 16\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-86075",
+    "title": "CVE-2026-86075 - n8n: Unauthenticated Persistent Storage Exhaustion via OAuth Dynamic Client Registration Endpoint",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86075",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-08 22:19 UTC",
+    "reported_ago": "1\u00a0hour, 16\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-86819",
+    "title": "CVE-2026-86819 - Waves Central local privilege escalation via Improper XPC Client Authentication in macOS",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86819",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.4,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-08 21:18 UTC",
+    "reported_ago": "2\u00a0hours, 17\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-85982",
+    "title": "CVE-2026-85982 - Stored Cross-Site Scripting (XSS) in Auth0 AD/LDAP Connector",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-85982",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.0,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-08 21:18 UTC",
+    "reported_ago": "2\u00a0hours, 17\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-77827",
+    "title": "CVE-2026-77827 - Maono Link local privilege escalation",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-77827",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.4,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-08 21:18 UTC",
+    "reported_ago": "2\u00a0hours, 17\u00a0minutes ago"
   }
 ]

@@ -886,5 +886,53 @@
     "is_watch": true,
     "pub": "2026-09-09 22:18 UTC",
     "reported_ago": "1\u00a0hour, 32\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-59185",
+    "title": "CVE-2026-59185 - Identrail GitHub App Installation ID Authorization Bypass",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-59185",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.5,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-09 23:52 UTC",
+    "reported_ago": "5\u00a0hours ago"
+  },
+  {
+    "cve_id": "CVE-2026-59179",
+    "title": "CVE-2026-59179 - OpenHop Path Traversal Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-59179",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-09 23:51 UTC",
+    "reported_ago": "5\u00a0hours ago"
+  },
+  {
+    "cve_id": "CVE-2026-59177",
+    "title": "CVE-2026-59177 - ESPHome Authentication Bypass via Insecure Network Binding",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-59177",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-09 23:51 UTC",
+    "reported_ago": "5\u00a0hours ago"
+  },
+  {
+    "cve_id": "CVE-2026-59160",
+    "title": "CVE-2026-59160 - @yeger/turbo-graph Unauthenticated Remote Task Execution Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-59160",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-09 23:47 UTC",
+    "reported_ago": "5\u00a0hours, 4\u00a0minutes ago"
   }
 ]

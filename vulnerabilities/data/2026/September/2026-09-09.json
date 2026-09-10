@@ -850,5 +850,41 @@
     "is_watch": true,
     "pub": "2026-09-09 15:17 UTC",
     "reported_ago": "6\u00a0hours, 14\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-88069",
+    "title": "CVE-2026-88069 - Path traversal in Pandora archive extractor allows arbitrary file writes outside the extraction directory in pandora analysis",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-88069",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-09 22:18 UTC",
+    "reported_ago": "1\u00a0hour, 32\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-87995",
+    "title": "CVE-2026-87995 - Open WebUI: Same-origin XSS to account takeover via terminal port-preview iframe hardcoding allow-same-origin",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-87995",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-09 22:18 UTC",
+    "reported_ago": "1\u00a0hour, 32\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-87016",
+    "title": "CVE-2026-87016 - Open WebUI: Sign-in as another user via wildcard characters in the OAuth subject claim on SQLite",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-87016",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-09 22:18 UTC",
+    "reported_ago": "1\u00a0hour, 32\u00a0minutes ago"
   }
 ]

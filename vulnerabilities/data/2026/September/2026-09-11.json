@@ -34,5 +34,101 @@
     "is_watch": true,
     "pub": "2026-09-11 03:16 UTC",
     "reported_ago": "1\u00a0hour, 26\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-47839",
+    "title": "CVE-2026-47839 - Federated OIDC Users Can Bypass externalGroupsWhitelist to Gain uaa.admin",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-47839",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.2,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-11 10:16 UTC",
+    "reported_ago": "26\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-80469",
+    "title": "CVE-2026-80469 - CVE-2026-80469",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-80469",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.3,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-11 09:17 UTC",
+    "reported_ago": "1\u00a0hour, 25\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-19486",
+    "title": "CVE-2026-19486 - SSRF in Gemini Enterprise Agent Platform App Builder",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19486",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-11 09:17 UTC",
+    "reported_ago": "1\u00a0hour, 25\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-89178",
+    "title": "CVE-2026-89178 - Howyar\uff5cWeenyGenius - Origin Validation Error",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-89178",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-11 08:16 UTC",
+    "reported_ago": "2\u00a0hours, 26\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-89177",
+    "title": "CVE-2026-89177 - Howyar\uff5cWeenyGenius - Use of Insecure Protocol",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-89177",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-11 08:16 UTC",
+    "reported_ago": "2\u00a0hours, 26\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-89176",
+    "title": "CVE-2026-89176 - Howyar\uff5cWeenyGenius - Missing Authentication",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-89176",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-11 08:16 UTC",
+    "reported_ago": "2\u00a0hours, 26\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-89174",
+    "title": "CVE-2026-89174 - Kingdom Communication Associated\uff5cSmart Video Intercom System - Missing Burte-force Protection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-89174",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-11 08:16 UTC",
+    "reported_ago": "2\u00a0hours, 26\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-73784",
+    "title": "CVE-2026-73784 - HPE IceWall products, Remote Bypass of Security Restrictions",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-73784",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-11 07:16 UTC",
+    "reported_ago": "3\u00a0hours, 26\u00a0minutes ago"
   }
 ]

@@ -1402,5 +1402,17 @@
     "is_watch": false,
     "pub": "2026-09-10 22:17 UTC",
     "reported_ago": "25\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-16174",
+    "title": "CVE-2026-16174 - Netskope Endpoint DLP Driver Integer Overflow Leading to Kernel Pool Overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-16174",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-10 23:16 UTC",
+    "reported_ago": "1\u00a0hour, 26\u00a0minutes ago"
   }
 ]

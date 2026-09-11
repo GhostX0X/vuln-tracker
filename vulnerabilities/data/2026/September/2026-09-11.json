@@ -1,0 +1,38 @@
+[
+  {
+    "cve_id": "CVE-2026-8778",
+    "title": "CVE-2026-8778 - MIPL Grouped Checkout Fields for WooCommerce <= 1.2.2 - Unauthenticated Arbitrary File Upload",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-8778",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-11 04:18 UTC",
+    "reported_ago": "24\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-19991",
+    "title": "CVE-2026-19991 - UsersWP <= 1.2.70 - Authenticated (Subscriber+) Arbitrary File Deletion",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19991",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-11 04:17 UTC",
+    "reported_ago": "25\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-88260",
+    "title": "CVE-2026-88260 - Brainzcompany Zenius EMS Authentication Bypass and Remote Code Inclusion",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-88260",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-11 03:16 UTC",
+    "reported_ago": "1\u00a0hour, 26\u00a0minutes ago"
+  }
+]

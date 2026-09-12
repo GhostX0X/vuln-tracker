@@ -1,0 +1,26 @@
+[
+  {
+    "cve_id": "CVE-2026-87719",
+    "title": "CVE-2026-87719 - Deserialization of Untrusted Data in GitLab",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-87719",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-12 03:16 UTC",
+    "reported_ago": "1\u00a0hour, 28\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-85706",
+    "title": "CVE-2026-85706 - GitLab Community Edition and Enterprise Edition Path Traversal Vulnerability - [Actively Exploited]",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-85706",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 10.0,
+    "is_kev": true,
+    "is_watch": true,
+    "pub": "2026-09-12 03:16 UTC",
+    "reported_ago": "1\u00a0hour, 28\u00a0minutes ago"
+  }
+]

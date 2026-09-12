@@ -82,5 +82,17 @@
     "is_watch": false,
     "pub": "2026-09-12 12:08 UTC",
     "reported_ago": "37\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-15451",
+    "title": "CVE-2026-15451 - MemberPress Corporate Accounts <= 1.5.39 - Authenticated (Subscriber+) Privilege Escalation via Mass Assignment in Sub-Account Creation",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-15451",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-12 13:16 UTC",
+    "reported_ago": "1\u00a0hour, 36\u00a0minutes ago"
   }
 ]

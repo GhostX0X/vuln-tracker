@@ -22,5 +22,41 @@
     "is_watch": true,
     "pub": "2026-09-12 03:16 UTC",
     "reported_ago": "1\u00a0hour, 28\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-78175",
+    "title": "CVE-2026-78175 - Tutor LMS <= 4.0.7 - Authenticated (Subscriber+) PHP Object Injection to Remote Code Execution",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78175",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-12 08:16 UTC",
+    "reported_ago": "2\u00a0hours, 27\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-78159",
+    "title": "CVE-2026-78159 - The Events Calendar <= 6.17.3 - Unauthenticated Code Injection to Remote Code Execution via Widget 'classes' Map Callable Invocation",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78159",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-12 08:16 UTC",
+    "reported_ago": "2\u00a0hours, 27\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-78006",
+    "title": "CVE-2026-78006 - The Events Calendar <= 6.17.4 - Unauthenticated PHP Object Injection to Remote Code Execution",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78006",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-12 08:16 UTC",
+    "reported_ago": "2\u00a0hours, 27\u00a0minutes ago"
   }
 ]

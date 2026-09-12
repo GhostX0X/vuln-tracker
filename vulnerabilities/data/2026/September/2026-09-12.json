@@ -58,5 +58,29 @@
     "is_watch": true,
     "pub": "2026-09-12 08:16 UTC",
     "reported_ago": "2\u00a0hours, 27\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-90553",
+    "title": "CVE-2026-90553 - vLLM before 0.28.0 Remote Code Execution via LlavaOnevision2 processor",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-90553",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.5,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-12 12:08 UTC",
+    "reported_ago": "36\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-90537",
+    "title": "CVE-2026-90537 - WWBN AVideo Scheduler sendEmail Missing Authorization via Token",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-90537",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-12 12:08 UTC",
+    "reported_ago": "37\u00a0minutes ago"
   }
 ]

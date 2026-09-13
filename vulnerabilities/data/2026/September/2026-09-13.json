@@ -1,0 +1,14 @@
+[
+  {
+    "cve_id": "CVE-2026-90651",
+    "title": "CVE-2026-90651 - Socket Firewall TLS Certificate Verification Bypass",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-90651",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-13 00:17 UTC",
+    "reported_ago": "26\u00a0minutes ago"
+  }
+]

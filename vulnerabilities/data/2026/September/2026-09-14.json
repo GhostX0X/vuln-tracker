@@ -1,0 +1,62 @@
+[
+  {
+    "cve_id": "CVE-2026-90680",
+    "title": "CVE-2026-90680 - D-Link DIR-823G HNAP1 SetStaticRouteSettings strcpy stack-based overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-90680",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-14 04:16 UTC",
+    "reported_ago": "58\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-90608",
+    "title": "CVE-2026-90608 - Totolink A3002MU boa formPortFw buffer overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-90608",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-14 01:16 UTC",
+    "reported_ago": "3\u00a0hours, 58\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-90607",
+    "title": "CVE-2026-90607 - Totolink A3002MU boa formNewSchedule buffer overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-90607",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-14 01:16 UTC",
+    "reported_ago": "3\u00a0hours, 58\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-90606",
+    "title": "CVE-2026-90606 - Totolink A3002MU boa formIpv6Setup buffer overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-90606",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-14 00:16 UTC",
+    "reported_ago": "4\u00a0hours, 58\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-90605",
+    "title": "CVE-2026-90605 - Totolink A3002MU boa formFilter buffer overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-90605",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-14 00:16 UTC",
+    "reported_ago": "4\u00a0hours, 58\u00a0minutes ago"
+  }
+]

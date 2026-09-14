@@ -214,5 +214,53 @@
     "is_watch": false,
     "pub": "2026-09-13 00:00 UTC",
     "reported_ago": "20\u00a0hours, 54\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-88793",
+    "title": "CVE-2026-88793 - YouTube Embed 10.0 - 10.3 - Unauthenticated Stored XSS via youram_server",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-88793",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-13 21:17 UTC",
+    "reported_ago": "2\u00a0hours, 59\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-85129",
+    "title": "CVE-2026-85129 - Hoo Companion 1.0.2 - Unauthenticated Stored XSS via Theme Settings Import",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-85129",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-13 21:17 UTC",
+    "reported_ago": "2\u00a0hours, 59\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-81648",
+    "title": "CVE-2026-81648 - CryptoPayment Gateway 1.2.1 - 1.2.2 - Unauthenticated Arbitrary File Deletion and Settings Update via Unguarded AJAX Router",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-81648",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 10.0,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-13 21:17 UTC",
+    "reported_ago": "2\u00a0hours, 59\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-74933",
+    "title": "CVE-2026-74933 - GenieWords 1.5.27 - 1.5.34 - Unauthenticated Stored XSS and Configuration Overwrite",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-74933",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-13 21:17 UTC",
+    "reported_ago": "2\u00a0hours, 59\u00a0minutes ago"
   }
 ]

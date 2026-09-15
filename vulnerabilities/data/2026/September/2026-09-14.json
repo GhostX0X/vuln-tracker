@@ -1198,5 +1198,29 @@
     "is_watch": false,
     "pub": "2026-09-14 19:17 UTC",
     "reported_ago": "3\u00a0hours, 42\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-65414",
+    "title": "CVE-2026-65414 - Apple Software Out-of-Bounds Write Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-65414",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-14 21:17 UTC",
+    "reported_ago": "3\u00a0hours, 34\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-43692",
+    "title": "CVE-2026-43692 - Apple macOS Input Validation Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-43692",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-14 21:17 UTC",
+    "reported_ago": "3\u00a0hours, 34\u00a0minutes ago"
   }
 ]

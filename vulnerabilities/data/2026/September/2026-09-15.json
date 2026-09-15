@@ -1,0 +1,26 @@
+[
+  {
+    "cve_id": "CVE-2026-91752",
+    "title": "CVE-2026-91752 - GNU libextractor before 1.15 Stack Overflow via OLE2",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-91752",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-15 00:35 UTC",
+    "reported_ago": "15\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-91751",
+    "title": "CVE-2026-91751 - Flextype CMS through 1.0.0-alpha.3 Path Traversal via Entries REST API",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-91751",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-15 00:35 UTC",
+    "reported_ago": "15\u00a0minutes ago"
+  }
+]

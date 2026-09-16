@@ -2,5 +2,5 @@
 
 | Month | Critical | High | Medium | Total |
 |-------|---------:|-----:|-------:|------:|
-| [September](September/) | 384 | 772 | 0 | 1156 |
+| [September](September/) | 398 | 782 | 0 | 1180 |
 | [August](August/) | 788 | 1176 | 0 | 1964 |

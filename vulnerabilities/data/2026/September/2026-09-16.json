@@ -1,0 +1,38 @@
+[
+  {
+    "cve_id": "CVE-2026-15640",
+    "title": "CVE-2026-15640 - Authentication Bypass via SAML Response Manipulation",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-15640",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.5,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-16 00:17 UTC",
+    "reported_ago": "38\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-15639",
+    "title": "CVE-2026-15639 - Reflected Cross-Site Scripting",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-15639",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-16 00:17 UTC",
+    "reported_ago": "38\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-15638",
+    "title": "CVE-2026-15638 - Cryptographic Padding Oracle",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-15638",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-16 00:17 UTC",
+    "reported_ago": "38\u00a0minutes ago"
+  }
+]

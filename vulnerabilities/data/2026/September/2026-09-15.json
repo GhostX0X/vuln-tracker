@@ -1258,5 +1258,41 @@
     "is_watch": false,
     "pub": "2026-09-15 21:16 UTC",
     "reported_ago": "1\u00a0hour, 45\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-91749",
+    "title": "CVE-2026-91749 - Google Chrome Workers Use-After-Free Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-91749",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.6,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-15 21:16 UTC",
+    "reported_ago": "3\u00a0hours, 38\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-91748",
+    "title": "CVE-2026-91748 - Google Chrome Extensions Race Condition Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-91748",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.3,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-15 21:16 UTC",
+    "reported_ago": "3\u00a0hours, 38\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-91743",
+    "title": "CVE-2026-91743 - Google Chrome Core Race Condition Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-91743",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.3,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-15 21:16 UTC",
+    "reported_ago": "3\u00a0hours, 38\u00a0minutes ago"
   }
 ]

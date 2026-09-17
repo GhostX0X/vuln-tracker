@@ -1,0 +1,14 @@
+[
+  {
+    "cve_id": "CVE-2026-25283",
+    "title": "CVE-2026-25283 - Stack-based Buffer Overflow in OOBM",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-25283",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-17 04:11 UTC",
+    "reported_ago": "44\u00a0minutes ago"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "cve_id": "CVE-2026-17086",
+    "title": "CVE-2026-17086 - ShortPixel Image Optimizer <= 6.5.5 - Authenticated (Author+) PHP Object Injection via Nested JSON Post Content",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-17086",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-18 04:17 UTC",
+    "reported_ago": "27\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-93468",
+    "title": "CVE-2026-93468 - HGiga\uff5cOAKlouds - Arbitrary File Read",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-93468",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-18 03:16 UTC",
+    "reported_ago": "1\u00a0hour, 28\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-93467",
+    "title": "CVE-2026-93467 - HGiga\uff5cOAKlouds - Insecure Deserialization",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-93467",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-18 03:16 UTC",
+    "reported_ago": "1\u00a0hour, 28\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-93371",
+    "title": "CVE-2026-93371 - marcopiovanello yt-dlp-web-ui generic.go NewGenericDownload command injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-93371",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-18 03:16 UTC",
+    "reported_ago": "1\u00a0hour, 28\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-93456",
+    "title": "CVE-2026-93456 - django-page-cms through 2.0.13 CSRF via admin mutation views",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-93456",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.4,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-18 02:17 UTC",
+    "reported_ago": "2\u00a0hours, 28\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-79954",
+    "title": "CVE-2026-79954 - NASA CryptoLib 1.5.0 - TC receive path accepts Security Associations from the wrong GVCID",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-79954",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-18 01:16 UTC",
+    "reported_ago": "3\u00a0hours, 28\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-93453",
+    "title": "CVE-2026-93453 - SOGo before 5.12.11 Password Reset Token Interception via Origin Header",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-93453",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-18 00:17 UTC",
+    "reported_ago": "4\u00a0hours, 27\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-93452",
+    "title": "CVE-2026-93452 - snappy-java through 1.1.10.8 Buffer Overflow in Snappy.compress",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-93452",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-18 00:17 UTC",
+    "reported_ago": "4\u00a0hours, 27\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-93450",
+    "title": "CVE-2026-93450 - go-openapi/swag jsonutils before 0.27.1 Uncontrolled Recursion in Ordered JSON Marshal and Unmarshal",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-93450",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-18 00:17 UTC",
+    "reported_ago": "4\u00a0hours, 27\u00a0minutes ago"
+  }
+]

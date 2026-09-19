@@ -22,5 +22,89 @@
     "is_watch": true,
     "pub": "2026-09-19 00:16 UTC",
     "reported_ago": "2\u00a0hours, 40\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-85658",
+    "title": "CVE-2026-85658 - Paid Membership Plugin, Ecommerce, User Registration Form, Login Form, User Profile & Restrict Content <= 4.17.2 - Authenticated (Subscriber+) Arbitrary Shortcode Execution via 'eup_bio' Biography Field (Entity-Encoded Shortcode Bracket)",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-85658",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-19 08:16 UTC",
+    "reported_ago": "55\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-4327",
+    "title": "CVE-2026-4327 - The Welcomizer <= 2.8.1 - Missing Authorization to Authenticated (Subscriber+) Remote Code Execution via 'twiz_custom_logic' Parameter",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-4327",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-19 08:16 UTC",
+    "reported_ago": "55\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-93741",
+    "title": "CVE-2026-93741 - Totolink A3002MU formWlWds buffer overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-93741",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 10.0,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-19 06:16 UTC",
+    "reported_ago": "2\u00a0hours, 55\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-92807",
+    "title": "CVE-2026-92807 - Save as PDF Plugin by PDFCrowd <= 4.6.1 - Authenticated (Contributor+) Arbitrary Function Invocation / Code Injection via 'pdf_created_callback' Shortcode Attribute",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-92807",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-19 03:17 UTC",
+    "reported_ago": "5\u00a0hours, 55\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-92229",
+    "title": "CVE-2026-92229 - Forminator Forms <= 1.57.2 - Unauthenticated Arbitrary Shortcode Execution via 'current_url' Parameter",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-92229",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-19 03:17 UTC",
+    "reported_ago": "5\u00a0hours, 55\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-89274",
+    "title": "CVE-2026-89274 - WP Recipe Maker <= 10.8.1 - Unauthenticated Arbitrary Shortcode Execution via Recipe Comment Content",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-89274",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-19 03:17 UTC",
+    "reported_ago": "5\u00a0hours, 55\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-84434",
+    "title": "CVE-2026-84434 - Gravity Forms <= 3.1.0.4 - Unauthenticated Arbitrary File Upload via Hidden File Upload Field",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-84434",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-19 03:17 UTC",
+    "reported_ago": "5\u00a0hours, 55\u00a0minutes ago"
   }
 ]

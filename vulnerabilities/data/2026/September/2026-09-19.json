@@ -106,5 +106,29 @@
     "is_watch": true,
     "pub": "2026-09-19 03:17 UTC",
     "reported_ago": "5\u00a0hours, 55\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-93985",
+    "title": "CVE-2026-93985 - OpenPanel js-runtime JavaScript Template Sandbox Escape RCE",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-93985",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-19 12:16 UTC",
+    "reported_ago": "29\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-93742",
+    "title": "CVE-2026-93742 - Totolink A3002MU formWsc command injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-93742",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-19 09:16 UTC",
+    "reported_ago": "3\u00a0hours, 29\u00a0minutes ago"
   }
 ]

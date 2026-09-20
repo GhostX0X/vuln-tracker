@@ -250,5 +250,17 @@
     "is_watch": false,
     "pub": "2026-09-19 23:17 UTC",
     "reported_ago": "2\u00a0hours, 5\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-78030",
+    "title": "CVE-2026-78030 - DBI versions before 1.653 for Perl load arbitrary modules via unvalidated dbm_type and dbm_mldbm attributes in DBD::DBM",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78030",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-19 11:16 UTC",
+    "reported_ago": "19\u00a0hours, 4\u00a0minutes ago"
   }
 ]

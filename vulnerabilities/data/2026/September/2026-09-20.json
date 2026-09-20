@@ -226,5 +226,17 @@
     "is_watch": true,
     "pub": "2026-09-20 18:16 UTC",
     "reported_ago": "1\u00a0hour, 16\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-94089",
+    "title": "CVE-2026-94089 - D-Link DIR-868L Authentication webfa_authentication.cgi strcpy stack-based overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-94089",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 10.0,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-20 21:16 UTC",
+    "reported_ago": "1\u00a0hour, 33\u00a0minutes ago"
   }
 ]

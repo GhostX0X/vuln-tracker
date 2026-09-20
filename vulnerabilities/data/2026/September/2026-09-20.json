@@ -142,5 +142,41 @@
     "is_watch": true,
     "pub": "2026-09-20 12:05 UTC",
     "reported_ago": "1\u00a0hour, 24\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-94036",
+    "title": "CVE-2026-94036 - D-Link DIR-X1860/DIR-X1860Z routerd ubus access control",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-94036",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-20 16:16 UTC",
+    "reported_ago": "41\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-87067",
+    "title": "CVE-2026-87067 - Forminator Forms < 1.57.2.1 - Authenticated RCE via XML-RPC PHP Object Injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-87067",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.5,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-20 07:16 UTC",
+    "reported_ago": "9\u00a0hours, 41\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-82842",
+    "title": "CVE-2026-82842 - SAML Single Sign On < 6.0.0 - Unauthenticated Privilege Escalation via Account Matching",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82842",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-20 07:16 UTC",
+    "reported_ago": "9\u00a0hours, 41\u00a0minutes ago"
   }
 ]

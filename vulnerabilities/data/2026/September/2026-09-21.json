@@ -1,0 +1,38 @@
+[
+  {
+    "cve_id": "CVE-2026-94097",
+    "title": "CVE-2026-94097 - Netcore NBR200V2 CGI Diagnostic Endpoint network_tools command injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-94097",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 10.0,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-21 00:16 UTC",
+    "reported_ago": "41\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-94096",
+    "title": "CVE-2026-94096 - Netcore NBR200V2 LAN IP Configuration network_tools command injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-94096",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-21 00:16 UTC",
+    "reported_ago": "41\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-94095",
+    "title": "CVE-2026-94095 - Netcore NBR200V2 Traceroute Diagnostic Feature network_tools command injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-94095",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-21 00:16 UTC",
+    "reported_ago": "41\u00a0minutes ago"
+  }
+]

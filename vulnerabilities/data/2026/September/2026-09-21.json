@@ -814,5 +814,89 @@
     "is_watch": true,
     "pub": "2026-09-21 18:17 UTC",
     "reported_ago": "3\u00a0hours, 40\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-94425",
+    "title": "CVE-2026-94425 - Moore Threads MTT S80 Driver Package IOCTL mtdispkm64.sys sub_140006F0C privileges management",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-94425",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.3,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-21 23:16 UTC",
+    "reported_ago": "43\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-94627",
+    "title": "CVE-2026-94627 - vLLM through 0.29.0 GPU KV Cache Leak via Mooncake Transfer ID Collision",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-94627",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-21 22:17 UTC",
+    "reported_ago": "1\u00a0hour, 43\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-94626",
+    "title": "CVE-2026-94626 - vLLM through 0.29.0 Memory Exhaustion via Unvalidated NIXL tp_size",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-94626",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-21 22:17 UTC",
+    "reported_ago": "1\u00a0hour, 43\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-94624",
+    "title": "CVE-2026-94624 - vLLM through 0.29.0 Denial of Service via Unbounded P2P KV Offloading Sessions",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-94624",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-21 22:17 UTC",
+    "reported_ago": "1\u00a0hour, 43\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-94623",
+    "title": "CVE-2026-94623 - vLLM through 0.29.0 Denial of Service via NIXL Multi-Prompt Assertion Failure",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-94623",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-21 22:17 UTC",
+    "reported_ago": "1\u00a0hour, 43\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-94622",
+    "title": "CVE-2026-94622 - vLLM through 0.29.0 Denial of Service via Incomplete NIXL KV Transfer Metadata",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-94622",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-21 22:17 UTC",
+    "reported_ago": "1\u00a0hour, 43\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-61652",
+    "title": "CVE-2026-61652 - Zapros: Streaming decoders ignored the requested chunk size, allowing a single compressed response chunk to allocate unbounded memory (decompression bomb)",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-61652",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-21 22:16 UTC",
+    "reported_ago": "1\u00a0hour, 43\u00a0minutes ago"
   }
 ]

@@ -1,0 +1,38 @@
+[
+  {
+    "cve_id": "CVE-2026-19658",
+    "title": "CVE-2026-19658 - Give Tributes <= 2.3.1 - Unauthenticated PHP Object Injection via 'give_tributes_ecard_notify[recipient][personalized][]' Parameter",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19658",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-22 05:16 UTC",
+    "reported_ago": "25\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-13355",
+    "title": "CVE-2026-13355 - Meta Box AIO <= 3.11.0 And Standalone Plugin Extensions - Unauthenticated Privilege Escalation to Administrator to 'rwmb_frontend_field_object_id' Parameter",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-13355",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-22 05:16 UTC",
+    "reported_ago": "25\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-94493",
+    "title": "CVE-2026-94493 - Gigatech PDV5701 WebSocket Service index.html missing authentication",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-94493",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 10.0,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-22 01:16 UTC",
+    "reported_ago": "4\u00a0hours, 25\u00a0minutes ago"
+  }
+]

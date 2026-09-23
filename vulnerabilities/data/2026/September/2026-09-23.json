@@ -22,5 +22,77 @@
     "is_watch": true,
     "pub": "2026-09-23 01:16 UTC",
     "reported_ago": "2\u00a0hours, 26\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-15027",
+    "title": "CVE-2026-15027 - Changing\uff5cCGServiSign - OS Command Injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-15027",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-23 09:17 UTC",
+    "reported_ago": "25\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-91813",
+    "title": "CVE-2026-91813 - Foxit PDF Editor/Reader FoxitUpdater Race Condition Local Privilege Escalation Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-91813",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-23 08:17 UTC",
+    "reported_ago": "1\u00a0hour, 25\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-91803",
+    "title": "CVE-2026-91803 - Security Vulnerability Report \u2013 Foxit PDF Editor/Reader Updater DLL Search Path Hijacking",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-91803",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-23 08:17 UTC",
+    "reported_ago": "1\u00a0hour, 25\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-91800",
+    "title": "CVE-2026-91800 - Foxit PDF Editor installer local privilege escalation",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-91800",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-23 08:17 UTC",
+    "reported_ago": "1\u00a0hour, 25\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-91798",
+    "title": "CVE-2026-91798 - Foxit PDF Editor/Reader Updater Privilege Escalation",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-91798",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-23 08:17 UTC",
+    "reported_ago": "1\u00a0hour, 25\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-19438",
+    "title": "CVE-2026-19438 - Mint Workbench I Path traversal Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19438",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.2,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-23 06:17 UTC",
+    "reported_ago": "3\u00a0hours, 25\u00a0minutes ago"
   }
 ]

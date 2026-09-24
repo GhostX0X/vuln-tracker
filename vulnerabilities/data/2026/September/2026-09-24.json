@@ -94,5 +94,65 @@
     "is_watch": true,
     "pub": "2026-09-24 00:17 UTC",
     "reported_ago": "3\u00a0hours, 58\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-85682",
+    "title": "CVE-2026-85682 - YOP Poll <= 7.0.10 - Unauthenticated Origin Validation Error to Administrator Account Takeover via '/auth/wp-login-redirect' REST Route",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-85682",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-24 09:17 UTC",
+    "reported_ago": "26\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-78312",
+    "title": "CVE-2026-78312 - Path Traversal in DIAEnergie",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78312",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-24 09:17 UTC",
+    "reported_ago": "26\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-78311",
+    "title": "CVE-2026-78311 - SQL Injection in DIAEnergie",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78311",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-24 09:17 UTC",
+    "reported_ago": "26\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-78309",
+    "title": "CVE-2026-78309 - SQL Injection in DIAEnergie",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78309",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-24 09:17 UTC",
+    "reported_ago": "26\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-78308",
+    "title": "CVE-2026-78308 - Authentication Bypass in DIAEnergie",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78308",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-24 09:17 UTC",
+    "reported_ago": "26\u00a0minutes ago"
   }
 ]

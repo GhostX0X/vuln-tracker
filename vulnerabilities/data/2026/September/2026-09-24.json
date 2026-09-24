@@ -154,5 +154,113 @@
     "is_watch": true,
     "pub": "2026-09-24 09:17 UTC",
     "reported_ago": "26\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-97059",
+    "title": "CVE-2026-97059 - DCMTK through 3.7.0 Heap Over-read via NumberOfFrames",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-97059",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-24 13:52 UTC",
+    "reported_ago": "30\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-97057",
+    "title": "CVE-2026-97057 - redis-parser through 3.0.0 Denial of Service via Invalid Array Length",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-97057",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-24 13:51 UTC",
+    "reported_ago": "30\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-97360",
+    "title": "CVE-2026-97360 - HFS2 2.4.0 Unauthenticated Arbitrary File Read/Write via Template Engine",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-97360",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 10.0,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-24 13:32 UTC",
+    "reported_ago": "49\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-97359",
+    "title": "CVE-2026-97359 - HFS2 2.4.0 RCE via Multipart Upload Filename Template Injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-97359",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 10.0,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-24 13:28 UTC",
+    "reported_ago": "53\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-91187",
+    "title": "CVE-2026-91187 - Improper Verification of Cryptographic Signature in dashbit nimble_zta Cloudflare strategy",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-91187",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-24 13:20 UTC",
+    "reported_ago": "1\u00a0hour, 1\u00a0minute ago"
+  },
+  {
+    "cve_id": "CVE-2026-96515",
+    "title": "CVE-2026-96515 - Command Injection Vulnerability in Netlink ICT HG323RW Router",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-96515",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-24 13:17 UTC",
+    "reported_ago": "1\u00a0hour, 5\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-19072",
+    "title": "CVE-2026-19072 - Velociraptor Investigator reaches SuperUser via hunt EffectivePrincipal",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19072",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-24 13:17 UTC",
+    "reported_ago": "1\u00a0hour, 5\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-57590",
+    "title": "CVE-2026-57590 - Apache DolphinScheduler: Missing Authorization in Task Group APIs Allows Unauthorized Cross-Project Operations",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-57590",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-24 10:17 UTC",
+    "reported_ago": "4\u00a0hours, 4\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-12227",
+    "title": "CVE-2026-12227 - Visual Composer Website Builder <= 45.16.0 - Unauthenticated Local File Inclusion via 'vcv-template' Parameter",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-12227",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-24 10:17 UTC",
+    "reported_ago": "4\u00a0hours, 4\u00a0minutes ago"
   }
 ]

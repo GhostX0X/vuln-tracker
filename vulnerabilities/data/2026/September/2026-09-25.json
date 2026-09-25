@@ -46,5 +46,101 @@
     "is_watch": true,
     "pub": "2026-09-25 00:16 UTC",
     "reported_ago": "5\u00a0hours, 26\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-97898",
+    "title": "CVE-2026-97898 - Broken authorization in Akia keyless entry lets an authenticated guest unlock other rooms",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-97898",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.4,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-25 10:17 UTC",
+    "reported_ago": "43\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-92713",
+    "title": "CVE-2026-92713 - Modula Image Gallery <= 3.0.2 - Missing Authorization to Authenticated (Author+) Arbitrary File Deletion (Non-PHP) via 'file' Parameter",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-92713",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-25 08:16 UTC",
+    "reported_ago": "2\u00a0hours, 44\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-89426",
+    "title": "CVE-2026-89426 - Knit Pay <= 9.6.1.0 - Authenticated (Subscriber+) Privilege Escalation via Gravity Forms Role Field",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-89426",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-25 08:16 UTC",
+    "reported_ago": "2\u00a0hours, 44\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-19804",
+    "title": "CVE-2026-19804 - s2Member <= 260814 - Unauthenticated Remote Code Execution via 'first_name' Parameter in PayPal Proxy Return",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19804",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-25 08:16 UTC",
+    "reported_ago": "2\u00a0hours, 44\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-93399",
+    "title": "CVE-2026-93399 - Online Scheduling and Appointment Booking System <= 28.2 - Insecure Direct Object Reference to Unauthenticated Arbitrary Booking Token Disclosure and Deletion via 'order_id' Parameter",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-93399",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-25 07:16 UTC",
+    "reported_ago": "3\u00a0hours, 44\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-89055",
+    "title": "CVE-2026-89055 - Customer Reviews for WooCommerce <= 5.120.0 - Missing Authorization to Unauthenticated Arbitrary Attachment Deletion via 'items[][media]' Parameter",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-89055",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-25 07:16 UTC",
+    "reported_ago": "3\u00a0hours, 44\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-62062",
+    "title": "CVE-2026-62062 - WordPress Elementor Website Builder plugin <= 4.3.1 - Cross Site Request Forgery (CSRF) vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-62062",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-25 07:16 UTC",
+    "reported_ago": "3\u00a0hours, 44\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-14281",
+    "title": "CVE-2026-14281 - Automation Web Platform <= 4.8.6 - Unauthenticated Privilege Escalation via 'wawp_custom_fields' Parameter",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-14281",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-25 07:16 UTC",
+    "reported_ago": "3\u00a0hours, 44\u00a0minutes ago"
   }
 ]

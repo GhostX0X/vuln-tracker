@@ -1,0 +1,50 @@
+[
+  {
+    "cve_id": "CVE-2026-97818",
+    "title": "CVE-2026-97818 - phpIPAM User API Authorization Bypass",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-97818",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-25 05:17 UTC",
+    "reported_ago": "26\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-97735",
+    "title": "CVE-2026-97735 - ITFlow SVG File Upload Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-97735",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.0,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-25 04:17 UTC",
+    "reported_ago": "1\u00a0hour, 25\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-97730",
+    "title": "CVE-2026-97730 - Netgate pfSense Dashboard Local File Inclusion Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-97730",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.5,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-25 03:16 UTC",
+    "reported_ago": "2\u00a0hours, 26\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-85082",
+    "title": "CVE-2026-85082 - Maple Media Root Browser Classic 3.3.0 - OS command injection through crafted SQLite filenames",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-85082",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.5,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-25 00:16 UTC",
+    "reported_ago": "5\u00a0hours, 26\u00a0minutes ago"
+  }
+]

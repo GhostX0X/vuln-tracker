@@ -622,5 +622,41 @@
     "is_watch": false,
     "pub": "2026-09-26 15:16 UTC",
     "reported_ago": "1\u00a0hour, 43\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-82901",
+    "title": "CVE-2026-82901 - Ultra Addons for Contact Form 7 <= 3.5.50 - Unauthenticated Arbitrary File Upload via Signature Form Field",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82901",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-26 19:16 UTC",
+    "reported_ago": "1\u00a0hour, 45\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-85984",
+    "title": "CVE-2026-85984 - miniOrange OTP Login, Verification and SMS Notifications <= 5.5.5 - Unauthenticated Authentication Bypass via 'mo_wp_login_intent' Parameter",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-85984",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-26 18:16 UTC",
+    "reported_ago": "2\u00a0hours, 45\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-77203",
+    "title": "CVE-2026-77203 - Groups <= 4.6.0 - Authenticated (Subscriber+) Privilege Escalation via 'groups_join' Shortcode",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-77203",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-26 18:16 UTC",
+    "reported_ago": "2\u00a0hours, 45\u00a0minutes ago"
   }
 ]

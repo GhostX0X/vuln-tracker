@@ -1,0 +1,98 @@
+[
+  {
+    "cve_id": "CVE-2026-102422",
+    "title": "CVE-2026-102422 - shell-quote `quote()` command injection via a line terminator in a token after a `{ comment }` token",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-102422",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.2,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-29 04:17 UTC",
+    "reported_ago": "14\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-102247",
+    "title": "CVE-2026-102247 - FastAdmin Database Management database.php unnecessary privileges",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-102247",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.3,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-29 04:17 UTC",
+    "reported_ago": "14\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-102240",
+    "title": "CVE-2026-102240 - Netcore NAP930 Network Tools CGI network_tools eval os command injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-102240",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 10.0,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-29 02:16 UTC",
+    "reported_ago": "2\u00a0hours, 15\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-101860",
+    "title": "CVE-2026-101860 - RaspAP raspap-webgui sudo Configuration PluginInstaller.php addSudoers privileges management",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-101860",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 9.0,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-29 02:16 UTC",
+    "reported_ago": "2\u00a0hours, 15\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-101354",
+    "title": "CVE-2026-101354 - FAST FAC1203R MmtAtePrase _tWlanTask stack-based overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-101354",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.6,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-29 02:16 UTC",
+    "reported_ago": "2\u00a0hours, 15\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-102361",
+    "title": "CVE-2026-102361 - mall4j through 4.0 Missing Authentication in Password Update Endpoint",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-102361",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.3,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-09-29 00:17 UTC",
+    "reported_ago": "4\u00a0hours, 15\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-101264",
+    "title": "CVE-2026-101264 - Ziroom ZHOME A0101 set_passwd command injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-101264",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-29 00:17 UTC",
+    "reported_ago": "4\u00a0hours, 15\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-101263",
+    "title": "CVE-2026-101263 - Ziroom ZHOME A0101 set_online_client command injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-101263",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-29 00:17 UTC",
+    "reported_ago": "4\u00a0hours, 15\u00a0minutes ago"
+  }
+]

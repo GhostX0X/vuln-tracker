@@ -754,5 +754,41 @@
     "is_watch": false,
     "pub": "2026-09-28 20:17 UTC",
     "reported_ago": "2\u00a0hours, 38\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-101262",
+    "title": "CVE-2026-101262 - Ziroom ZHOME A0101 set_online_client command injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-101262",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-28 23:17 UTC",
+    "reported_ago": "5\u00a0hours, 15\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-101261",
+    "title": "CVE-2026-101261 - Ziroom ZHOME A0101 firstSetup_wifi command injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-101261",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-28 23:17 UTC",
+    "reported_ago": "5\u00a0hours, 15\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-101260",
+    "title": "CVE-2026-101260 - Ziroom ZHOME A0101 firstLogin command injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-101260",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-28 23:17 UTC",
+    "reported_ago": "5\u00a0hours, 15\u00a0minutes ago"
   }
 ]

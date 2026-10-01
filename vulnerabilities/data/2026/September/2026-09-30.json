@@ -1114,5 +1114,17 @@
     "is_watch": true,
     "pub": "2026-09-30 21:16 UTC",
     "reported_ago": "1\u00a0hour, 33\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-103591",
+    "title": "CVE-2026-103591 - DeepWiki-Open through commit d92819a Unauthenticated Arbitrary File Read via /codemap/file",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-103591",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-09-30 23:16 UTC",
+    "reported_ago": "2\u00a0hours, 8\u00a0minutes ago"
   }
 ]

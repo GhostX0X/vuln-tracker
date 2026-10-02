@@ -1,0 +1,50 @@
+[
+  {
+    "cve_id": "CVE-2026-86345",
+    "title": "CVE-2026-86345 - 389-ds-base: 389-ds-base: starttls plaintext-buffer retention allows on-path attacker to forge an ldap client's authentication result",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-86345",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.0,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-10-02 00:17 UTC",
+    "reported_ago": "14\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-103766",
+    "title": "CVE-2026-103766 - ClipBucket v5 through 5.5.3-#197 SQL Injection via ads_manager.php delete Parameter",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-103766",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-02 00:16 UTC",
+    "reported_ago": "14\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-103765",
+    "title": "CVE-2026-103765 - Mooncake through 0.3.13.post1 Missing Authentication in HTTP Metadata Server",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-103765",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.4,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-10-02 00:16 UTC",
+    "reported_ago": "14\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-103764",
+    "title": "CVE-2026-103764 - Mooncake transfer engine before 0.3.13 Unauthenticated Arbitrary Memory Read/Write via TCP Transport",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-103764",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-10-02 00:16 UTC",
+    "reported_ago": "14\u00a0minutes ago"
+  }
+]

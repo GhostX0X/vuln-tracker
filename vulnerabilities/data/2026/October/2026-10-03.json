@@ -238,5 +238,65 @@
     "is_watch": true,
     "pub": "2026-10-03 12:16 UTC",
     "reported_ago": "2\u00a0hours, 18\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-96451",
+    "title": "CVE-2026-96451 - WordPress Ultimate Member plugin <= 2.13.1 - Privilege Escalation vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-96451",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-03 16:16 UTC",
+    "reported_ago": "2\u00a0hours, 54\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-103065",
+    "title": "CVE-2026-103065 - WordPress Kirki plugin <= 6.3.1 - Arbitrary Code Execution vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-103065",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.2,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-10-03 15:16 UTC",
+    "reported_ago": "3\u00a0hours, 54\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-91078",
+    "title": "CVE-2026-91078 - TillKit < 1.0.5 - Unauthenticated POS Takeover via Hard-Coded Default Manager PIN",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-91078",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.2,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-10-03 06:16 UTC",
+    "reported_ago": "12\u00a0hours, 54\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-89236",
+    "title": "CVE-2026-89236 - SaveTo Wishlist Lite < 1.1.5 - Unauthenticated SQLi via 'sort_column' and 'sort_order' Parameters",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-89236",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-03 06:16 UTC",
+    "reported_ago": "12\u00a0hours, 54\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-88783",
+    "title": "CVE-2026-88783 - Kubio AI Page Builder < 2.9.3 - Unauthenticated Stored XSS via Comment Content",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-88783",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-03 06:16 UTC",
+    "reported_ago": "12\u00a0hours, 54\u00a0minutes ago"
   }
 ]

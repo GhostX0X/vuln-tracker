@@ -34,5 +34,41 @@
     "is_watch": false,
     "pub": "2026-10-04 04:16 UTC",
     "reported_ago": "2\u00a0hours, 55\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-103355",
+    "title": "CVE-2026-103355 - WordPress Unlimited Elements For Elementor (Free Widgets, Addons, Templates) plugin <= 2.0.20 - SQL Injection vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-103355",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-04 09:16 UTC",
+    "reported_ago": "3\u00a0hours, 14\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-105135",
+    "title": "CVE-2026-105135 - InternLM MindSearch Planner Agent graph.py ExecutionAction.run code injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-105135",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 10.0,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-10-04 07:16 UTC",
+    "reported_ago": "5\u00a0hours, 14\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-105134",
+    "title": "CVE-2026-105134 - Ahsay AhsayCBS Replication Receiver UpdateReceivers.do os command injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-105134",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 10.0,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-04 07:16 UTC",
+    "reported_ago": "5\u00a0hours, 14\u00a0minutes ago"
   }
 ]

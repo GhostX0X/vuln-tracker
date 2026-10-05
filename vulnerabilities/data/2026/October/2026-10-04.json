@@ -226,5 +226,41 @@
     "is_watch": true,
     "pub": "2026-10-04 18:16 UTC",
     "reported_ago": "2\u00a0hours, 19\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-105222",
+    "title": "CVE-2026-105222 - alexpechkarev/google-maps through 12.16 Disabled TLS Certificate Verification via ssl_verify_peer",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-105222",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-04 23:16 UTC",
+    "reported_ago": "3\u00a0hours, 19\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-105221",
+    "title": "CVE-2026-105221 - Gist RubyGem before 6.1.0 Disabled TLS Certificate Verification",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-105221",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-04 23:16 UTC",
+    "reported_ago": "3\u00a0hours, 19\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-105220",
+    "title": "CVE-2026-105220 - Twine 2 Desktop through 2.12.0 Arbitrary Code Execution via Imported Story Files",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-105220",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.5,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-04 23:16 UTC",
+    "reported_ago": "3\u00a0hours, 19\u00a0minutes ago"
   }
 ]

@@ -1,0 +1,86 @@
+[
+  {
+    "cve_id": "CVE-2026-105701",
+    "title": "CVE-2026-105701 - ACPT (Premium) <= 2.0.66 - Authenticated (Subscriber+) Remote Code Execution via REST API Email Template",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-105701",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-06 06:42 UTC",
+    "reported_ago": "40\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-94293",
+    "title": "CVE-2026-94293 - Missing authentication for critical function in the aas-edge-client REST API",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-94293",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-06 06:38 UTC",
+    "reported_ago": "44\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-105484",
+    "title": "CVE-2026-105484 - TOTOLINK X6000R UploadFirmwareFile cstecgi.cgi firmware_check os command injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-105484",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 10.0,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-06 02:17 UTC",
+    "reported_ago": "5\u00a0hours, 5\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-105786",
+    "title": "CVE-2026-105786 - Joplin: Unauthenticated account takeover via an attacker-chosen application-authorisation identifier",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-105786",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.5,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-06 00:16 UTC",
+    "reported_ago": "7\u00a0hours, 5\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-105783",
+    "title": "CVE-2026-105783 - Joplin Web Clipper pairing allows cross-origin theft of a permanent API token",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-105783",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.0,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-06 00:16 UTC",
+    "reported_ago": "7\u00a0hours, 5\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-105763",
+    "title": "CVE-2026-105763 - Twenty: Plaintext IMAP/SMTP/CalDAV password disclosure to any workspace member via /metadata GraphQL",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-105763",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-06 00:16 UTC",
+    "reported_ago": "7\u00a0hours, 5\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-105762",
+    "title": "CVE-2026-105762 - Dify: Unauthenticated Server-Side Request Forgery in /console/api/remote-files/upload endpoint",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-105762",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-06 00:16 UTC",
+    "reported_ago": "7\u00a0hours, 5\u00a0minutes ago"
+  }
+]

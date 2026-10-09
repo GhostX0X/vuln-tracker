@@ -1090,5 +1090,65 @@
     "is_watch": false,
     "pub": "2026-10-08 22:15 UTC",
     "reported_ago": "1\u00a0hour, 5\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-88131",
+    "title": "CVE-2026-88131 - Microsoft Dataverse Remote Code Execution Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-88131",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-08 23:17 UTC",
+    "reported_ago": "6\u00a0hours, 59\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-83943",
+    "title": "CVE-2026-83943 - Azure API Center Information Disclosure Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-83943",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-08 23:17 UTC",
+    "reported_ago": "6\u00a0hours, 59\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-77900",
+    "title": "CVE-2026-77900 - Azure App Service Remote Code Execution Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-77900",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-08 23:17 UTC",
+    "reported_ago": "6\u00a0hours, 59\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-69435",
+    "title": "CVE-2026-69435 - Azure SRE Agent Elevation of Privilege Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-69435",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.6,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-10-08 23:17 UTC",
+    "reported_ago": "6\u00a0hours, 59\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-107732",
+    "title": "CVE-2026-107732 - SumatraPDF: Markup/command-link injection into UI notification text",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-107732",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.4,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-10-08 23:16 UTC",
+    "reported_ago": "6\u00a0hours, 59\u00a0minutes ago"
   }
 ]

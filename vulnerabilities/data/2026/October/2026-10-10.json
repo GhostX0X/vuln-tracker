@@ -310,5 +310,29 @@
     "is_watch": true,
     "pub": "2026-10-10 06:16 UTC",
     "reported_ago": "3\u00a0hours, 6\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-94257",
+    "title": "CVE-2026-94257 - SMS Alert 3.9.6 - 4.0.0 - Unauthenticated Privilege Escalation via Arbitrary Password Reset",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-94257",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-10 06:16 UTC",
+    "reported_ago": "7\u00a0hours, 14\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-94256",
+    "title": "CVE-2026-94256 - SMS Alert 4.0.0 - Unauthenticated Authentication Bypass via Login with OTP",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-94256",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-10 06:16 UTC",
+    "reported_ago": "7\u00a0hours, 14\u00a0minutes ago"
   }
 ]

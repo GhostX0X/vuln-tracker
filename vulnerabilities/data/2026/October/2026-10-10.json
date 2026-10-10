@@ -1,0 +1,14 @@
+[
+  {
+    "cve_id": "CVE-2026-108474",
+    "title": "CVE-2026-108474 - JetBrains Exposed SQL Injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-108474",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-10 00:17 UTC",
+    "reported_ago": "1\u00a0hour, 33\u00a0minutes ago"
+  }
+]

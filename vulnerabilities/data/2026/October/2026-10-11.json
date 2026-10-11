@@ -346,5 +346,29 @@
     "is_watch": true,
     "pub": "2026-10-11 07:17 UTC",
     "reported_ago": "6\u00a0hours, 33\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-108905",
+    "title": "CVE-2026-108905 - pH7Builder before 18.6.0 Hard-Coded API Key Bypass via Host Header",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-108905",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-11 15:16 UTC",
+    "reported_ago": "2\u00a0hours, 9\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-108902",
+    "title": "CVE-2026-108902 - pH7Builder before 18.5.0 Path Traversal Arbitrary File Deletion via picture_link",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-108902",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-11 15:16 UTC",
+    "reported_ago": "2\u00a0hours, 9\u00a0minutes ago"
   }
 ]

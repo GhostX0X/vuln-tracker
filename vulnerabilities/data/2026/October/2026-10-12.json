@@ -1,0 +1,122 @@
+[
+  {
+    "cve_id": "CVE-2026-93582",
+    "title": "CVE-2026-93582 - Authentication Bypass via Spoofed Remote-User Header in HTTP Basic Authentication",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-93582",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.4,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-12 06:49 UTC",
+    "reported_ago": "37\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-78357",
+    "title": "CVE-2026-78357 - Insufficient Session Revocation for JWT Authentication",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78357",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-12 06:49 UTC",
+    "reported_ago": "38\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-78355",
+    "title": "CVE-2026-78355 - Path Traversal in SendSupportBundle allows File Deletion Outside the Intended Directory",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-78355",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-12 06:48 UTC",
+    "reported_ago": "38\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-108804",
+    "title": "CVE-2026-108804 - TRENDnet TEW-751DR/TEW-752DRU/TEW733GR Web Management Backend pigwidgeon.cgi fwrite os command injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-108804",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 10.0,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-12 06:16 UTC",
+    "reported_ago": "1\u00a0hour, 10\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-87690",
+    "title": "CVE-2026-87690 - Metasploit Framework ios_image_gather Path Traversal Leading to Arbitrary File Write and Code Execution",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-87690",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-12 05:17 UTC",
+    "reported_ago": "2\u00a0hours, 10\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-21125",
+    "title": "CVE-2026-21125 - Samsung libsimba.heifdec.media.so Improper Input Validation Arbitrary Code Execution",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-21125",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.6,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-10-12 05:17 UTC",
+    "reported_ago": "2\u00a0hours, 10\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-21124",
+    "title": "CVE-2026-21124 - Samsung libsimba.heifdec.media.so Improper Input Validation Arbitrary Code Execution",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-21124",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.6,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-10-12 05:17 UTC",
+    "reported_ago": "2\u00a0hours, 10\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-21120",
+    "title": "CVE-2026-21120 - WSM Service Use-After-Free Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-21120",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.9,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-10-12 05:17 UTC",
+    "reported_ago": "2\u00a0hours, 10\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-66086",
+    "title": "CVE-2026-66086 - Stack-based Buffer Overflow in Modem",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-66086",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-12 02:16 UTC",
+    "reported_ago": "5\u00a0hours, 10\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-108980",
+    "title": "CVE-2026-108980 - Blinko Directory Traversal Remote Code Execution",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-108980",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-12 02:16 UTC",
+    "reported_ago": "5\u00a0hours, 10\u00a0minutes ago"
+  }
+]

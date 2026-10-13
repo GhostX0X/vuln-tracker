@@ -1,0 +1,26 @@
+[
+  {
+    "cve_id": "CVE-2026-96119",
+    "title": "CVE-2026-96119 - IBM i is Affected By An Improper Control of Code Generation Vulnerability in HTTP Server Administration GUI",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-96119",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-10-13 00:17 UTC",
+    "reported_ago": "15\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-93886",
+    "title": "CVE-2026-93886 - IBM i is Affected By An Improper Neutralization of Input Vulnerability in HTTP Server Administration GUI",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-93886",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.3,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-10-13 00:17 UTC",
+    "reported_ago": "15\u00a0minutes ago"
+  }
+]

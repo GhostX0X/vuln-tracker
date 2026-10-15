@@ -1,0 +1,86 @@
+[
+  {
+    "cve_id": "CVE-2026-110908",
+    "title": "CVE-2026-110908 - Netgate pfSense FRR Package OS Command Injection Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-110908",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-15 03:17 UTC",
+    "reported_ago": "29\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-110911",
+    "title": "CVE-2026-110911 - Wheels SQL Injection Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-110911",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-15 03:03 UTC",
+    "reported_ago": "42\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-77931",
+    "title": "CVE-2026-77931 - MoviePilot 3.1.5 Command Injection via ExecuteCommandTool",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-77931",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-15 02:20 UTC",
+    "reported_ago": "1\u00a0hour, 26\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-76660",
+    "title": "CVE-2026-76660 - HPE NonStop CIPSAM - Memory corruption vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-76660",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-10-15 02:20 UTC",
+    "reported_ago": "1\u00a0hour, 26\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-76066",
+    "title": "CVE-2026-76066 - IntentKit 2.6.3 Executor Tool Authorization Bypass via ToolNode",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-76066",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-15 02:20 UTC",
+    "reported_ago": "1\u00a0hour, 26\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-109430",
+    "title": "CVE-2026-109430 - Ellucian WebAdvisor 3.2 Unauthenticated XXE Injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-109430",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-15 02:18 UTC",
+    "reported_ago": "1\u00a0hour, 27\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-0993",
+    "title": "CVE-2026-0993 - SODOLA SL902-SWTGW124AS Buffer Overflow DoS via Multipart Boundary Parser",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-0993",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-10-15 01:19 UTC",
+    "reported_ago": "2\u00a0hours, 26\u00a0minutes ago"
+  }
+]

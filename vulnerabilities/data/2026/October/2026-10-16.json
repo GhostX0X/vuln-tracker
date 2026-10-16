@@ -358,5 +358,101 @@
     "is_watch": true,
     "pub": "2026-10-16 04:18 UTC",
     "reported_ago": "4\u00a0hours, 31\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-18516",
+    "title": "CVE-2026-18516 - Improper Encoding or Escaping of Output in Crafty Controller",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-18516",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-16 13:37 UTC",
+    "reported_ago": "24\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-111399",
+    "title": "CVE-2026-111399 - WordPress MapSVG plugin <= 8.16.1 - SQL Injection vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-111399",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.5,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-16 13:16 UTC",
+    "reported_ago": "45\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-107564",
+    "title": "CVE-2026-107564 - gocsaf/csaf: csaf_provider prone to uncontrolled resource consumption",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-107564",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-16 13:16 UTC",
+    "reported_ago": "46\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-111413",
+    "title": "CVE-2026-111413 - WordPress aThemeArt theme Helper plugin <= 1.0.8 - Cross Site Request Forgery (CSRF) vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-111413",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-16 13:02 UTC",
+    "reported_ago": "1\u00a0hour ago"
+  },
+  {
+    "cve_id": "CVE-2026-111391",
+    "title": "CVE-2026-111391 - SGLang 0.5.10 through 0.5.22 Code Injection via Debug Dumper Filter",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-111391",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.2,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-16 12:16 UTC",
+    "reported_ago": "1\u00a0hour, 46\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-109119",
+    "title": "CVE-2026-109119 - Missing Authorization in rdiffweb",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-109119",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-16 11:17 UTC",
+    "reported_ago": "2\u00a0hours, 45\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-14452",
+    "title": "CVE-2026-14452 - Open redirect and XSS via reset_url parameter",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-14452",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-16 10:18 UTC",
+    "reported_ago": "3\u00a0hours, 44\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-111472",
+    "title": "CVE-2026-111472 - SQL injection in TSG Profleet",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-111472",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-16 09:17 UTC",
+    "reported_ago": "4\u00a0hours, 45\u00a0minutes ago"
   }
 ]

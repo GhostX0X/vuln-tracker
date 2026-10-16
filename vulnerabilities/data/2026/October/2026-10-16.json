@@ -910,5 +910,41 @@
     "is_watch": true,
     "pub": "2026-10-16 18:17 UTC",
     "reported_ago": "3\u00a0hours, 11\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-49410",
+    "title": "CVE-2026-49410 - OpenHuman /auth/telegram CSRF allows attacker-controlled session implantation",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-49410",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-16 21:25 UTC",
+    "reported_ago": "28\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-96627",
+    "title": "CVE-2026-96627 - Arcane: Delegated users:update permission allows admin account takeover via password reset (no privilege-hierarchy check)",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-96627",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-16 21:13 UTC",
+    "reported_ago": "40\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-96626",
+    "title": "CVE-2026-96626 - Arcane: Container-registry credential exfiltration via URL repoint + test to attacker host",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-96626",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.5,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-16 21:07 UTC",
+    "reported_ago": "46\u00a0minutes ago"
   }
 ]

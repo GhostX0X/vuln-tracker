@@ -1414,5 +1414,53 @@
     "is_watch": false,
     "pub": "2026-10-15 22:19 UTC",
     "reported_ago": "58\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-110922",
+    "title": "CVE-2026-110922 - Google Chrome Prerender Use-After-Free Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-110922",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-10-15 22:19 UTC",
+    "reported_ago": "5\u00a0hours, 33\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-110921",
+    "title": "CVE-2026-110921 - Google Chrome V8 Use-After-Free Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-110921",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-10-15 22:19 UTC",
+    "reported_ago": "5\u00a0hours, 33\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-110920",
+    "title": "CVE-2026-110920 - Google Chrome V8 Memory Corruption",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-110920",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-10-15 22:19 UTC",
+    "reported_ago": "5\u00a0hours, 33\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-110919",
+    "title": "CVE-2026-110919 - Google Chrome V8 Use-After-Free Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-110919",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-10-15 22:19 UTC",
+    "reported_ago": "5\u00a0hours, 33\u00a0minutes ago"
   }
 ]

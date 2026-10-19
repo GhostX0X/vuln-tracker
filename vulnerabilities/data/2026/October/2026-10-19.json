@@ -1,0 +1,62 @@
+[
+  {
+    "cve_id": "CVE-2026-16487",
+    "title": "CVE-2026-16487 - Bootc: containers-common: bootc: automatic updates can apply unsigned mutable-tag content under default containers policy",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-16487",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-10-19 05:27 UTC",
+    "reported_ago": "29\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-111441",
+    "title": "CVE-2026-111441 - HLL \u53cd\u5e8f\u5217\u5316 lenTotal/lenUsed \u6821\u9a8c\u7f3a\u5931\u5bfc\u81f4\u5806\u8d8a\u754c\u5199",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-111441",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-10-19 03:16 UTC",
+    "reported_ago": "2\u00a0hours, 40\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-103091",
+    "title": "CVE-2026-103091 - Insecure Default Policy and Unrestricted OIDC Enrollment in Google OSS Agent Mesh (SAM)",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-103091",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-19 03:16 UTC",
+    "reported_ago": "2\u00a0hours, 40\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-102503",
+    "title": "CVE-2026-102503 - Missing Authentication on /libp2p-http Ingress in Google OSS Agent Mesh (SAM)",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-102503",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-19 03:16 UTC",
+    "reported_ago": "2\u00a0hours, 40\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-108983",
+    "title": "CVE-2026-108983 - GV-ASManager Web Server Command Injection Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-108983",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-19 02:17 UTC",
+    "reported_ago": "3\u00a0hours, 40\u00a0minutes ago"
+  }
+]

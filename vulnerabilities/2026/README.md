@@ -2,6 +2,6 @@
 
 | Month | Critical | High | Medium | Total |
 |-------|---------:|-----:|-------:|------:|
-| [October](October/) | 449 | 812 | 0 | 1261 |
+| [October](October/) | 456 | 830 | 0 | 1286 |
 | [September](September/) | 775 | 1439 | 0 | 2214 |
 | [August](August/) | 788 | 1176 | 0 | 1964 |

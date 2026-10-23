@@ -574,5 +574,65 @@
     "is_watch": true,
     "pub": "2026-10-23 13:17 UTC",
     "reported_ago": "1\u00a0hour, 56\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-115812",
+    "title": "CVE-2026-115812 - Relative path traversal during model archive extraction in Amazon Web Services Multi Model Server",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-115812",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-23 18:17 UTC",
+    "reported_ago": "16\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-87901",
+    "title": "CVE-2026-87901 - Product Registration Module Reflected Cross-Site Scripting",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-87901",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-23 17:17 UTC",
+    "reported_ago": "1\u00a0hour, 16\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-57845",
+    "title": "CVE-2026-57845 - Hugging Face Datasets 5.1.0 Pickle Deserialization RCE via Pandas Builder",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-57845",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-23 16:16 UTC",
+    "reported_ago": "2\u00a0hours, 16\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-58497",
+    "title": "CVE-2026-58497 - Uni-CLI: Legacy HTTP MCP transport accepted browser-originated localhost requests",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-58497",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-23 15:17 UTC",
+    "reported_ago": "3\u00a0hours, 15\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-54668",
+    "title": "CVE-2026-54668 - Kitodo.Production: XXE in XMLUtils EAD/XML upload parsers (parseXMLString / getNumberOfEADElements / checkIfXmlIsWellFormed lack secure JAXP config)",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-54668",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-23 15:17 UTC",
+    "reported_ago": "3\u00a0hours, 15\u00a0minutes ago"
   }
 ]

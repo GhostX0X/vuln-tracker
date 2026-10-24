@@ -670,5 +670,113 @@
     "is_watch": false,
     "pub": "2026-10-23 19:17 UTC",
     "reported_ago": "1\u00a0hour, 39\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-115931",
+    "title": "CVE-2026-115931 - Arbitrary file read and backend crash through unrestricted provider method calls",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-115931",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-10-23 23:17 UTC",
+    "reported_ago": "1\u00a0hour, 3\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-115938",
+    "title": "CVE-2026-115938 - Low privilege condition filter escapes Twig sandbox, recovers \"securityKey\" and reaches RCE",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-115938",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-23 22:16 UTC",
+    "reported_ago": "2\u00a0hours, 4\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-115937",
+    "title": "CVE-2026-115937 - Unauthenticated payment reuse allows unpaid orders to be marked as paid",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-115937",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-23 22:16 UTC",
+    "reported_ago": "2\u00a0hours, 4\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-115935",
+    "title": "CVE-2026-115935 - Control panel only API response emulation replaces \"securityKey\" and reaches server RCE",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-115935",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-23 22:16 UTC",
+    "reported_ago": "2\u00a0hours, 4\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-115895",
+    "title": "CVE-2026-115895 - Happy DOM: Incomplete fix for CVE-2026-33943: unsanitized import alias leads to host code execution",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-115895",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-23 22:16 UTC",
+    "reported_ago": "2\u00a0hours, 4\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-115893",
+    "title": "CVE-2026-115893 - Wasmtime: Cranelift backend on aarch64 can jump to incorrect target on large Wasm `br_table` instruction",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-115893",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-10-23 22:16 UTC",
+    "reported_ago": "2\u00a0hours, 4\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-115889",
+    "title": "CVE-2026-115889 - Wasmtime: Bit-packing in Cranelift compiler causes silent overflow and miscompilation",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-115889",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-10-23 22:16 UTC",
+    "reported_ago": "2\u00a0hours, 4\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-58202",
+    "title": "CVE-2026-58202 - OpenReception: Confirmation-email links built from the request Host enable pending-account takeover via `POST /api/auth/resend-confirmation`",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-58202",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-23 21:17 UTC",
+    "reported_ago": "3\u00a0hours, 3\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-115775",
+    "title": "CVE-2026-115775 - Twisted: Unauthenticated Remote Denial of Service in the Twisted words domish XML Element Stream via an Unbounded Element Tree",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-115775",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-10-23 21:17 UTC",
+    "reported_ago": "3\u00a0hours, 3\u00a0minutes ago"
   }
 ]

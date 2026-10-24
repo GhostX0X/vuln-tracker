@@ -10,5 +10,53 @@
     "is_watch": true,
     "pub": "2026-10-24 05:17 UTC",
     "reported_ago": "29\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-114196",
+    "title": "CVE-2026-114196 - WordPress Paytium plugin <= 5.0.5 - PHP Object Injection vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-114196",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-24 08:00 UTC",
+    "reported_ago": "21\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-112866",
+    "title": "CVE-2026-112866 - WordPress Product Filter by WBW plugin <= 3.4.6 - SQL Injection vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-112866",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-24 08:00 UTC",
+    "reported_ago": "21\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-94075",
+    "title": "CVE-2026-94075 - WordPress Newsletters plugin <= 4.18.1 - PHP Object Injection vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-94075",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-24 08:00 UTC",
+    "reported_ago": "21\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-111402",
+    "title": "CVE-2026-111402 - WordPress Newsletters plugin <= 4.18.1 - SQL Injection vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-111402",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-24 08:00 UTC",
+    "reported_ago": "21\u00a0minutes ago"
   }
 ]

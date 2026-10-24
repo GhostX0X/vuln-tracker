@@ -1,0 +1,14 @@
+[
+  {
+    "cve_id": "CVE-2026-115806",
+    "title": "CVE-2026-115806 - Prime Mover <= 2.2.1 - Unauthenticated PHP Object Injection via Base64-Encoded Comment during Migration Search-and-Replace",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-115806",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-24 05:17 UTC",
+    "reported_ago": "29\u00a0minutes ago"
+  }
+]

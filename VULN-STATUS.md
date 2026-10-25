@@ -1,6 +1,6 @@
 # 🚨 Vulnerability Feed Status
 
-Last checked: 2026-10-25T19:51:15.324753+00:00 UTC
+Last checked: 2026-10-25T22:17:09.483621+00:00 UTC
 
 ## 📡 Configured sources
 

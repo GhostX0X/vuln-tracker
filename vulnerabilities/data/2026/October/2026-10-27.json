@@ -1,0 +1,86 @@
+[
+  {
+    "cve_id": "CVE-2026-116827",
+    "title": "CVE-2026-116827 - YesWiki before 4.7.0 SSRF via copyUrlToLocalFile in Bazar CSV Import",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-116827",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.2,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-27 00:17 UTC",
+    "reported_ago": "44\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-116826",
+    "title": "CVE-2026-116826 - YesWiki before 4.7.0 Authenticated SSRF via Page Duplication API downloadFile",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-116826",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.2,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-27 00:17 UTC",
+    "reported_ago": "44\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-116825",
+    "title": "CVE-2026-116825 - YesWiki from 4.6.2 before 4.7.0 HTTP Signature Replay via ActivityPub Inbox",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-116825",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-27 00:17 UTC",
+    "reported_ago": "44\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-116819",
+    "title": "CVE-2026-116819 - OpenPanel before 3.0.0 Credential Disclosure via notification.rules Query",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-116819",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.5,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-10-27 00:17 UTC",
+    "reported_ago": "44\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-116818",
+    "title": "CVE-2026-116818 - OpenPanel before 3.0.0 Unauthenticated ClickHouse SQL Injection via /live/visitors WebSocket",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-116818",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-27 00:17 UTC",
+    "reported_ago": "44\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-116811",
+    "title": "CVE-2026-116811 - OpenPanel before 3.0.0 Sandbox Escape RCE via Webhook JavaScript Template",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-116811",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-27 00:17 UTC",
+    "reported_ago": "44\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-116808",
+    "title": "CVE-2026-116808 - OpenPanel before 3.0.0 ClickHouse SQL Injection via profile.values",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-116808",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-27 00:17 UTC",
+    "reported_ago": "44\u00a0minutes ago"
+  }
+]

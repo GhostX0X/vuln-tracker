@@ -82,5 +82,77 @@
     "is_watch": true,
     "pub": "2026-10-27 00:17 UTC",
     "reported_ago": "44\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-116843",
+    "title": "CVE-2026-116843 - Mistral Vibe before 3.0.3 RCE via Git Filter Drivers in Worktree Mode",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-116843",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-27 01:19 UTC",
+    "reported_ago": "4\u00a0hours, 28\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-116838",
+    "title": "CVE-2026-116838 - Ubiquiti airMAX M Cross-Site Request Forgery to Command Injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-116838",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-27 01:19 UTC",
+    "reported_ago": "4\u00a0hours, 28\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-116837",
+    "title": "CVE-2026-116837 - Ubiquiti airMAX M, LTU, SolarPoint, and SolarSwitch Heap-based Buffer Overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-116837",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-10-27 01:19 UTC",
+    "reported_ago": "4\u00a0hours, 28\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-116836",
+    "title": "CVE-2026-116836 - Ubiquiti airMAX M Stored Cross-Site Scripting Privilege Escalation",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-116836",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-27 01:19 UTC",
+    "reported_ago": "4\u00a0hours, 28\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-116816",
+    "title": "CVE-2026-116816 - llama.cpp b5899 before b10261 Heap Out-of-Bounds Write via plamo2 Tokenizer",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-116816",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.5,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-10-27 01:19 UTC",
+    "reported_ago": "4\u00a0hours, 28\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2024-58400",
+    "title": "CVE-2024-58400 - llama.cpp before b3701 Out-of-Bounds Read in llama_decode via Token IDs",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2024-58400",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-10-27 01:19 UTC",
+    "reported_ago": "4\u00a0hours, 28\u00a0minutes ago"
   }
 ]

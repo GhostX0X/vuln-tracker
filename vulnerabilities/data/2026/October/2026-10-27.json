@@ -934,5 +934,53 @@
     "is_watch": false,
     "pub": "2026-10-27 18:17 UTC",
     "reported_ago": "3\u00a0hours, 21\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-58256",
+    "title": "CVE-2026-58256 - GRR vulnerable to Remote Code Execution Via PHP Code Injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-58256",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-27 23:17 UTC",
+    "reported_ago": "1\u00a0hour, 45\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-58255",
+    "title": "CVE-2026-58255 - Cronicle: Non-admin uid/gid injection in create_event/update_event \u2192 run-as-arbitrary-user (incl. root) \u2014 sibling of CVE-2026-39401",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-58255",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-27 23:17 UTC",
+    "reported_ago": "1\u00a0hour, 45\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-58205",
+    "title": "CVE-2026-58205 - GRR has a Reflected XSS issue",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-58205",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-27 23:17 UTC",
+    "reported_ago": "1\u00a0hour, 45\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-57191",
+    "title": "CVE-2026-57191 - Asterisk: Stack buffer overflow in MWI NOTIFY Message-Account parsing",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-57191",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.2,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-27 22:17 UTC",
+    "reported_ago": "2\u00a0hours, 45\u00a0minutes ago"
   }
 ]

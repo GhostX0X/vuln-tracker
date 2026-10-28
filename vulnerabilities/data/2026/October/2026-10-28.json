@@ -1,0 +1,14 @@
+[
+  {
+    "cve_id": "CVE-2026-110879",
+    "title": "CVE-2026-110879 - jackson-databind: PolymorphicTypeValidator bypass via generic type arguments and array element types allows arbitrary class instantiation (incomplete fix for CVE-2026-54512)",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-110879",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-10-28 00:07 UTC",
+    "reported_ago": "55\u00a0minutes ago"
+  }
+]

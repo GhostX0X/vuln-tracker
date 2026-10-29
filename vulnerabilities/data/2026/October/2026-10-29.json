@@ -1,0 +1,38 @@
+[
+  {
+    "cve_id": "CVE-2026-113387",
+    "title": "CVE-2026-113387 - Ortto WordPress Plugin Unauthenticated Configuration Injection Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-113387",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.6,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-10-29 01:40 UTC",
+    "reported_ago": "5\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-66088",
+    "title": "CVE-2026-66088 - Unrestricted Command Execution via system.execute",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-66088",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.4,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-10-29 01:35 UTC",
+    "reported_ago": "9\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-21157",
+    "title": "CVE-2026-21157 - Bixby Improper Input Validation Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-21157",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.3,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-10-29 01:17 UTC",
+    "reported_ago": "28\u00a0minutes ago"
+  }
+]

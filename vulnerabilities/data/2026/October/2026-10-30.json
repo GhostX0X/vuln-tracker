@@ -1,0 +1,14 @@
+[
+  {
+    "cve_id": "CVE-2026-104368",
+    "title": "CVE-2026-104368 - Export and Import Users and Customers <= 2.7.5 - Authenticated (Subscriber+) Privilege Escalation via CSV Escape-Character Mismatch in Export/Import Round Trip via Biographical Info Field",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-104368",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-30 05:16 UTC",
+    "reported_ago": "1\u00a0hour, 52\u00a0minutes ago"
+  }
+]

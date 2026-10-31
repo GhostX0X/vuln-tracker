@@ -1,0 +1,26 @@
+[
+  {
+    "cve_id": "CVE-2026-110176",
+    "title": "CVE-2026-110176 - File Force Download for Drupal 7 Access Bypass via Unconditional Download Headers",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-110176",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-31 01:17 UTC",
+    "reported_ago": "31\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-117656",
+    "title": "CVE-2026-117656 - Unverified Sign in with Apple callback parameter can override verified ID token claims",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-117656",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.3,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-10-31 00:16 UTC",
+    "reported_ago": "1\u00a0hour, 31\u00a0minutes ago"
+  }
+]

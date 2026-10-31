@@ -214,5 +214,65 @@
     "is_watch": true,
     "pub": "2026-10-31 07:16 UTC",
     "reported_ago": "7\u00a0hours, 2\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-120209",
+    "title": "CVE-2026-120209 - AJ-Report through 1.7.1 Authentication Bypass leading to RCE via Share-Token",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120209",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-31 17:25 UTC",
+    "reported_ago": "53\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-120205",
+    "title": "CVE-2026-120205 - Thelia before 3.1.0 Stored XSS via Coupon Condition Customer Name",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120205",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.0,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-31 17:25 UTC",
+    "reported_ago": "53\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-120203",
+    "title": "CVE-2026-120203 - ShowDoc 2.8.14 before 3.9.6 Code Injection via Mock Templates",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120203",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-31 17:25 UTC",
+    "reported_ago": "53\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-120201",
+    "title": "CVE-2026-120201 - Jpom 2.10.0 through 2.11.12 Authentication Bypass via JPOM-USER-TOKEN Header",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120201",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-10-31 17:25 UTC",
+    "reported_ago": "53\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-102212",
+    "title": "CVE-2026-102212 - Pre-Auth Heap Buffer Overflow in the Multipart Request",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-102212",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.4,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-10-31 16:16 UTC",
+    "reported_ago": "2\u00a0hours, 2\u00a0minutes ago"
   }
 ]

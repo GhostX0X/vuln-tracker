@@ -130,5 +130,113 @@
     "is_watch": true,
     "pub": "2026-11-01 11:18 UTC",
     "reported_ago": "3\u00a0hours, 1\u00a0minute ago"
+  },
+  {
+    "cve_id": "CVE-2026-120239",
+    "title": "CVE-2026-120239 - WAVLINK WN553X1-B WireGuard CLI ioos sub_419DA8 os command injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120239",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-01 18:17 UTC",
+    "reported_ago": "45\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-120238",
+    "title": "CVE-2026-120238 - WAVLINK WN553X1-B ovpn_file ioos sub_4162A8 os command injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120238",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-01 18:17 UTC",
+    "reported_ago": "45\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-62048",
+    "title": "CVE-2026-62048 - WordPress BookIt plugin <= 2.6.0.6 - SQL Injection vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-62048",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-01 16:18 UTC",
+    "reported_ago": "2\u00a0hours, 44\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-120338",
+    "title": "CVE-2026-120338 - Prefab UI Pyodide sandbox escape to host RCE",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120338",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 10.0,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-01 16:18 UTC",
+    "reported_ago": "2\u00a0hours, 44\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-120232",
+    "title": "CVE-2026-120232 - Horizon DataSys Reboot Restore Standard Kernel Driver shield.sys sub_23908 memory corruption",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120232",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-11-01 15:17 UTC",
+    "reported_ago": "3\u00a0hours, 45\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-120231",
+    "title": "CVE-2026-120231 - WAVLINK WN553X1-B OpenVPN CLI ioos sub_416568 os command injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120231",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-01 15:17 UTC",
+    "reported_ago": "3\u00a0hours, 45\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-120230",
+    "title": "CVE-2026-120230 - WAVLINK WN701AE ioos Web Backend del_vlan_group os command injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120230",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-01 15:17 UTC",
+    "reported_ago": "3\u00a0hours, 45\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-120229",
+    "title": "CVE-2026-120229 - WAVLINK WN553X1-B ioos sub_416B50 os command injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120229",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-01 14:18 UTC",
+    "reported_ago": "4\u00a0hours, 43\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-120228",
+    "title": "CVE-2026-120228 - WAVLINK WN553X1-B ioos Service sub_416D88 os command injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120228",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-01 14:18 UTC",
+    "reported_ago": "4\u00a0hours, 43\u00a0minutes ago"
   }
 ]

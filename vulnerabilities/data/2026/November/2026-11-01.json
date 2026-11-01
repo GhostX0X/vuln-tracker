@@ -58,5 +58,77 @@
     "is_watch": false,
     "pub": "2026-11-01 01:17 UTC",
     "reported_ago": "5\u00a0hours, 53\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-120308",
+    "title": "CVE-2026-120308 - Beta9 host filesystem exposure via volume path traversal",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120308",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-01 13:18 UTC",
+    "reported_ago": "1\u00a0hour, 2\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-120307",
+    "title": "CVE-2026-120307 - Beta9 container escape via unvalidated sandbox file paths",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120307",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-01 13:18 UTC",
+    "reported_ago": "1\u00a0hour, 2\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-120306",
+    "title": "CVE-2026-120306 - Beta9 build sandbox escape via chroot-only isolation",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120306",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-01 13:18 UTC",
+    "reported_ago": "1\u00a0hour, 2\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-120227",
+    "title": "CVE-2026-120227 - WAVLINK WN701AE ioos Web Backend static_route_setting.sh del_staticrule os command injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120227",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-01 13:18 UTC",
+    "reported_ago": "1\u00a0hour, 2\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-120225",
+    "title": "CVE-2026-120225 - Oray Pugongying X5 Pro openwrt_release config_restore_ex path traversal",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120225",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-01 11:18 UTC",
+    "reported_ago": "3\u00a0hours, 1\u00a0minute ago"
+  },
+  {
+    "cve_id": "CVE-2026-120224",
+    "title": "CVE-2026-120224 - Oray Pugongying X5 Pro API Authorization run_async_task improper authorization",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120224",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-01 11:18 UTC",
+    "reported_ago": "3\u00a0hours, 1\u00a0minute ago"
   }
 ]

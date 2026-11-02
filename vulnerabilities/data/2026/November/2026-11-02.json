@@ -1,0 +1,26 @@
+[
+  {
+    "cve_id": "CVE-2026-120277",
+    "title": "CVE-2026-120277 - WAVLINK WN536AX6-A WireGuard CLI Group ioos sub_41a1d8 os command injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120277",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 10.0,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-02 00:18 UTC",
+    "reported_ago": "48\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-120276",
+    "title": "CVE-2026-120276 - WAVLINK WN536AX6-A Web Management ioos sub_416760 os command injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120276",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 10.0,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-02 00:18 UTC",
+    "reported_ago": "48\u00a0minutes ago"
+  }
+]

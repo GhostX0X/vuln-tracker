@@ -694,5 +694,89 @@
     "is_watch": true,
     "pub": "2026-11-03 20:18 UTC",
     "reported_ago": "1\u00a0hour, 34\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-121731",
+    "title": "CVE-2026-121731 - RosarioSIS before 12.9 SQL Injection via period_id in Attendance Absence Report",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-121731",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-03 23:17 UTC",
+    "reported_ago": "1\u00a0hour, 55\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-121729",
+    "title": "CVE-2026-121729 - emailflare before commit cf31f33 Missing Authorization via /api/keys Routes",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-121729",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-03 23:17 UTC",
+    "reported_ago": "1\u00a0hour, 55\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-121727",
+    "title": "CVE-2026-121727 - Kore before 4.3.0 Integer Underflow Memory Exhaustion via http_header_recv()",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-121727",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-11-03 23:17 UTC",
+    "reported_ago": "1\u00a0hour, 55\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-109836",
+    "title": "CVE-2026-109836 - ALCPU Core Temp Kernel Driver Arbitrary Memory Access Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-109836",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.4,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-03 23:17 UTC",
+    "reported_ago": "1\u00a0hour, 55\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2022-30267",
+    "title": "CVE-2022-30267 - Emerson Ovation Insufficient Verification of Data Authenticity",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2022-30267",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-03 23:17 UTC",
+    "reported_ago": "1\u00a0hour, 55\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2022-29966",
+    "title": "CVE-2022-29966 - Emerson Ovation Missing Authentication for Critical Functionality",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2022-29966",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-11-03 23:17 UTC",
+    "reported_ago": "1\u00a0hour, 55\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-120931",
+    "title": "CVE-2026-120931 - Google Chrome WebGL Out-of-Bounds Write Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120931",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.6,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-03 22:19 UTC",
+    "reported_ago": "2\u00a0hours, 53\u00a0minutes ago"
   }
 ]

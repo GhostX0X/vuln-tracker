@@ -1,0 +1,14 @@
+[
+  {
+    "cve_id": "CVE-2026-122051",
+    "title": "CVE-2026-122051 - Edimax BR-6208AC mp command injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-122051",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 10.0,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-05 00:17 UTC",
+    "reported_ago": "1\u00a0hour, 40\u00a0minutes ago"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "cve_id": "CVE-2026-63774",
+    "title": "CVE-2026-63774 - Subnet Solutions PowerSYSTEM Center SQL Injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-63774",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.4,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-06 01:17 UTC",
+    "reported_ago": "2\u00a0hours, 49\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-63017",
+    "title": "CVE-2026-63017 - Subnet Solutions PowerSYSTEM Center Incorrect Authorization",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-63017",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.4,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-06 01:17 UTC",
+    "reported_ago": "2\u00a0hours, 49\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-107492",
+    "title": "CVE-2026-107492 - Envoy Proxy Improper Authentication Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-107492",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 10.0,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-11-06 01:17 UTC",
+    "reported_ago": "2\u00a0hours, 49\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2025-71458",
+    "title": "CVE-2025-71458 - FTS3 Web Monitoring 3.12.0 through 3.13.2 and 3.14.0 SQL Injection via /linkinfo",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2025-71458",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-06 01:17 UTC",
+    "reported_ago": "2\u00a0hours, 49\u00a0minutes ago"
+  }
+]

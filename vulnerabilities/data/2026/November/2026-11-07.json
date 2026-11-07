@@ -1,0 +1,26 @@
+[
+  {
+    "cve_id": "CVE-2026-104913",
+    "title": "CVE-2026-104913 - Interactive Real Estate <= 2.6.0- Authenticated (Subscriber+) Arbitrary File Upload via Project Import ZIP with Crafted image_map.json",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-104913",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-07 02:29 UTC",
+    "reported_ago": "43\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-93754",
+    "title": "CVE-2026-93754 - payever \u2013 WooCommerce Gateway <= 4.8.0 - Unauthenticated Arbitrary File Upload Leading to Remote Code Execution",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-93754",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-07 02:29 UTC",
+    "reported_ago": "44\u00a0minutes ago"
+  }
+]

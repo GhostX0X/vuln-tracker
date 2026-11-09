@@ -10,5 +10,89 @@
     "is_watch": true,
     "pub": "2026-11-09 00:37 UTC",
     "reported_ago": "35\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-94249",
+    "title": "CVE-2026-94249 - Missing Authorization in T\u00dcB\u0130TAK B\u0130LGEM's Liderahenk",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-94249",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-11-09 08:20 UTC",
+    "reported_ago": "27\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-124580",
+    "title": "CVE-2026-124580 - Chengdu Feiyuxing Technology VW2100/VEC10GP Weixin Auth Endpoint webserver handle_wechat_cn_wifi os command injection",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-124580",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 10.0,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-09 08:17 UTC",
+    "reported_ago": "31\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-124577",
+    "title": "CVE-2026-124577 - Intelbras SG 2404 PoE L2+ Web Management EXCU_SHELL improper authentication",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-124577",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 10.0,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-11-09 08:17 UTC",
+    "reported_ago": "31\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-113364",
+    "title": "CVE-2026-113364 - NEC WebSAM WinShare Buffer Overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-113364",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.3,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-11-09 05:18 UTC",
+    "reported_ago": "3\u00a0hours, 29\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-113363",
+    "title": "CVE-2026-113363 - NEC WebSAM WinShare Remote Code Execution Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-113363",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-09 05:18 UTC",
+    "reported_ago": "3\u00a0hours, 30\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-113362",
+    "title": "CVE-2026-113362 - NEC WebSAM Winshare Improper Access Control Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-113362",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.5,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-09 04:17 UTC",
+    "reported_ago": "4\u00a0hours, 31\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-124560",
+    "title": "CVE-2026-124560 - D-Link DIR-878 HNAP prog.cgi GetCAPTCHAsetting heap-based overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-124560",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 10.0,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-11-09 03:16 UTC",
+    "reported_ago": "5\u00a0hours, 31\u00a0minutes ago"
   }
 ]

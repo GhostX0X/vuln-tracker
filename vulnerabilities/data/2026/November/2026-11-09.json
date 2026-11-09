@@ -1,0 +1,14 @@
+[
+  {
+    "cve_id": "CVE-2026-119506",
+    "title": "CVE-2026-119506 - WordPress Frontend Admin by DynamiApps plugin <= 3.30.1 - Privilege Escalation vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-119506",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-09 00:37 UTC",
+    "reported_ago": "35\u00a0minutes ago"
+  }
+]

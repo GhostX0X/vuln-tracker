@@ -1198,5 +1198,29 @@
     "is_watch": true,
     "pub": "2026-11-10 22:18 UTC",
     "reported_ago": "50\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-126187",
+    "title": "CVE-2026-126187 - React: Unauthenticated Remote Code Execution in React Server Components",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-126187",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.5,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-10 23:17 UTC",
+    "reported_ago": "1\u00a0hour, 57\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2025-0008",
+    "title": "CVE-2025-0008 - Secure Debug Unlock Authentication Bypass",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2025-0008",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.4,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-10 23:17 UTC",
+    "reported_ago": "1\u00a0hour, 57\u00a0minutes ago"
   }
 ]

@@ -1,0 +1,98 @@
+[
+  {
+    "cve_id": "CVE-2026-107410",
+    "title": "CVE-2026-107410 - Memory overflow in NetScaler Push can lead to unpredictable or erroneous behavior or Denial of Service in NetScaler ADC and NetScaler Gateway",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-107410",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.3,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-11-13 02:10 UTC",
+    "reported_ago": "11\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-107409",
+    "title": "CVE-2026-107409 - Memory corruption in DNS-over-HTTPS (DoH) can lead to unpredictable or erroneous behavior or a Denial of Service in NetScaler ADC and NetScaler Gateway",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-107409",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.3,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-11-13 02:05 UTC",
+    "reported_ago": "16\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-107408",
+    "title": "CVE-2026-107408 - Memory corruption in DNS / DNS-over-HTTPS (DoH) can lead to unpredictable or erroneous behavior or Denial of Service in NetScaler ADC and NetScaler Gateway",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-107408",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.3,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-11-13 02:04 UTC",
+    "reported_ago": "18\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-107407",
+    "title": "CVE-2026-107407 - Memory overflow in SMPP traffic can lead to unpredictable or erroneous behavior or Denial of Service in NetScaler ADC and NetScaler Gateway",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-107407",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.3,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-11-13 02:01 UTC",
+    "reported_ago": "20\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-128067",
+    "title": "CVE-2026-128067 - Pillow: Heap buffer overflow saving TIFF with libtiff when tags override image size",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-128067",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.4,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-13 00:20 UTC",
+    "reported_ago": "2\u00a0hours, 1\u00a0minute ago"
+  },
+  {
+    "cve_id": "CVE-2026-128066",
+    "title": "CVE-2026-128066 - Pillow: Memory DoS in TIFF and EXIF IFD parsing via overlapping tag data",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-128066",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-11-13 00:20 UTC",
+    "reported_ago": "2\u00a0hours, 1\u00a0minute ago"
+  },
+  {
+    "cve_id": "CVE-2026-127275",
+    "title": "CVE-2026-127275 - Linksys EA8100 JNAP API ui_server.lua SetUnsecuredWiFiWarning missing authentication",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-127275",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 10.0,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-13 00:20 UTC",
+    "reported_ago": "2\u00a0hours, 1\u00a0minute ago"
+  },
+  {
+    "cve_id": "CVE-2026-120868",
+    "title": "CVE-2026-120868 - Memory overflow in Packet Processing can lead to unpredictable or erroneous behavior or Denial of Service in NetScaler ADC and NetScaler Gateway",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120868",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.3,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-11-13 00:20 UTC",
+    "reported_ago": "2\u00a0hours, 1\u00a0minute ago"
+  }
+]

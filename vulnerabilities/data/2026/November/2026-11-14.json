@@ -22,5 +22,101 @@
     "is_watch": false,
     "pub": "2026-11-14 05:18 UTC",
     "reported_ago": "5\u00a0hours, 26\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-129258",
+    "title": "CVE-2026-129258 - Tenda AC18 Firmware Upgrade upgrade data authenticity",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-129258",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-11-14 15:16 UTC",
+    "reported_ago": "59\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-19907",
+    "title": "CVE-2026-19907 - Shipo 1.6 - 1.8.0 - Authentication Bypass to Administrator",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-19907",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-14 13:17 UTC",
+    "reported_ago": "2\u00a0hours, 59\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-18053",
+    "title": "CVE-2026-18053 - MemberDash <= 1.8.7 - Authenticated (Subscriber+) Privilege Escalation to Administrator via Edit Profile 'id' Parameter",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-18053",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-14 13:17 UTC",
+    "reported_ago": "2\u00a0hours, 59\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-129433",
+    "title": "CVE-2026-129433 - Dokploy before 0.31.1 OS Command Injection via Compose Backup serviceName",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-129433",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-14 13:17 UTC",
+    "reported_ago": "2\u00a0hours, 59\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-129255",
+    "title": "CVE-2026-129255 - CoolerMaster MASTERPLUS+ Device Driver WinRing0x64.sys sub_11504 default permission",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-129255",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.3,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-11-14 13:17 UTC",
+    "reported_ago": "2\u00a0hours, 59\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-120522",
+    "title": "CVE-2026-120522 - Cloud Storage Manager for Fluent Forms <= 1.2.0 - Unauthenticated Arbitrary File Write via Google Drive Filename Path Traversal",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-120522",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-14 13:17 UTC",
+    "reported_ago": "2\u00a0hours, 59\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-129427",
+    "title": "CVE-2026-129427 - Stored XSS via avatar upload chained with an authentication bypass in /Attachments leads to ATO",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-129427",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-14 12:17 UTC",
+    "reported_ago": "3\u00a0hours, 58\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-129250",
+    "title": "CVE-2026-129250 - Edimax BR6478ACV2 webs formPPTPSetup buffer overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-129250",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-11-14 12:17 UTC",
+    "reported_ago": "3\u00a0hours, 58\u00a0minutes ago"
   }
 ]

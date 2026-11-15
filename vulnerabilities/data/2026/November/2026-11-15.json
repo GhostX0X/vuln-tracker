@@ -10,5 +10,41 @@
     "is_watch": false,
     "pub": "2026-11-15 00:16 UTC",
     "reported_ago": "29\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-129465",
+    "title": "CVE-2026-129465 - Zr.Admin.NET commit af07ffc through eb9228a IDOR via /system/user/profile",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-129465",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-15 02:17 UTC",
+    "reported_ago": "4\u00a0hours, 28\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-129464",
+    "title": "CVE-2026-129464 - Zr.Admin.NET commit 0ee1ab8 through eb9228a Path Traversal via DownloadFile",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-129464",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-15 02:17 UTC",
+    "reported_ago": "4\u00a0hours, 28\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-129354",
+    "title": "CVE-2026-129354 - D-Link DIR-600L HNAP cgibin hnap_main stack-based overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-129354",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 10.0,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-11-15 01:18 UTC",
+    "reported_ago": "5\u00a0hours, 28\u00a0minutes ago"
   }
 ]

@@ -130,5 +130,29 @@
     "is_watch": true,
     "pub": "2026-11-14 16:17 UTC",
     "reported_ago": "4\u00a0hours, 28\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-129352",
+    "title": "CVE-2026-129352 - TRENDnet TEW-657BRM upgrade_flash.cgi stack-based overflow",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-129352",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-11-14 23:16 UTC",
+    "reported_ago": "1\u00a0hour, 29\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-129351",
+    "title": "CVE-2026-129351 - TRENDnet TEW-657BRM mini_httpd setup.cgi sprintf out-of-bounds write",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-129351",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 10.0,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-11-14 23:16 UTC",
+    "reported_ago": "1\u00a0hour, 29\u00a0minutes ago"
   }
 ]

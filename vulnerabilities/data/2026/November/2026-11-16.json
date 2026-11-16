@@ -1,0 +1,50 @@
+[
+  {
+    "cve_id": "CVE-2026-82156",
+    "title": "CVE-2026-82156 - Dell PowerStore Authorization Bypass Vulnerability",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-82156",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-11-16 04:16 UTC",
+    "reported_ago": "1\u00a0hour, 31\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-129540",
+    "title": "CVE-2026-129540 - VoAPI 1.0.0 through 1.2.0 SQL Injection via search Filter Key",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-129540",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-16 02:17 UTC",
+    "reported_ago": "3\u00a0hours, 31\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-129494",
+    "title": "CVE-2026-129494 - CloudPaste 1.1.0 through 1.9.1 WebDAV Credential Disclosure via /api/proxy/link",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-129494",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-16 01:17 UTC",
+    "reported_ago": "4\u00a0hours, 31\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-129493",
+    "title": "CVE-2026-129493 - Bolo (bolo-solo) 1.7 through 2.6.4 Article Password Disclosure via /articles",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-129493",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-11-16 01:17 UTC",
+    "reported_ago": "4\u00a0hours, 31\u00a0minutes ago"
+  }
+]

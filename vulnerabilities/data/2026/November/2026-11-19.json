@@ -1,0 +1,50 @@
+[
+  {
+    "cve_id": "CVE-2026-131914",
+    "title": "CVE-2026-131914 - Deserialization of untrusted data in CodePlex AntiCSRF",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-131914",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-19 02:17 UTC",
+    "reported_ago": "1\u00a0hour, 12\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-132756",
+    "title": "CVE-2026-132756 - Geany through 2.1.0 OS Command Injection via Filename in Build Commands",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-132756",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.5,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-19 00:17 UTC",
+    "reported_ago": "3\u00a0hours, 12\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-132751",
+    "title": "CVE-2026-132751 - yt through 4.4.4 Code Injection via con_args eval() in ytdata HDF5",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-132751",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.5,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-11-19 00:17 UTC",
+    "reported_ago": "3\u00a0hours, 12\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-132748",
+    "title": "CVE-2026-132748 - Vtiger CRM through 8.4.0 PHP Code Injection via Configuration Editor",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-132748",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.6,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-11-19 00:17 UTC",
+    "reported_ago": "3\u00a0hours, 12\u00a0minutes ago"
+  }
+]

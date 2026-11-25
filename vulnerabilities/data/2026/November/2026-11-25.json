@@ -1,0 +1,26 @@
+[
+  {
+    "cve_id": "CVE-2026-136136",
+    "title": "CVE-2026-136136 - Netis WF2409E CGI skk_set.cgi improper authentication",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-136136",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 10.0,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-11-25 00:17 UTC",
+    "reported_ago": "1\u00a0hour, 33\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-133462",
+    "title": "CVE-2026-133462 - AutoGPT Platform Backend: MCPToolBlock Auto-Lookup Lets a Shared Agent's Author Use the Runner's MCP Credentials",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-133462",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-11-25 00:17 UTC",
+    "reported_ago": "1\u00a0hour, 33\u00a0minutes ago"
+  }
+]

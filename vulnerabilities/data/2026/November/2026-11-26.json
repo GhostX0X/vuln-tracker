@@ -1,0 +1,50 @@
+[
+  {
+    "cve_id": "CVE-2026-137308",
+    "title": "CVE-2026-137308 - markdownify-mcp before 1.2.0 SSRF Protection Bypass via validateUrl and validateRepoUrl",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-137308",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.3,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-26 02:17 UTC",
+    "reported_ago": "21\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-137305",
+    "title": "CVE-2026-137305 - Grav Form Plugin before 9.2.4 Code Injection via File Field Upload Destination",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-137305",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-11-26 02:17 UTC",
+    "reported_ago": "21\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-115576",
+    "title": "CVE-2026-115576 - NetBird: Local Privilege Escalation via Unauthenticated IPC Socket",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-115576",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-26 02:16 UTC",
+    "reported_ago": "22\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-66784",
+    "title": "CVE-2026-66784 - Submariner: submariner: shared cluster-set ipsec psk with self-asserted ike identities enables cross-cluster traffic interception",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-66784",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-26 01:17 UTC",
+    "reported_ago": "1\u00a0hour, 21\u00a0minutes ago"
+  }
+]

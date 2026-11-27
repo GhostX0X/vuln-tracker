@@ -2,7 +2,7 @@
 
 | Month | Critical | High | Medium | Total |
 |-------|---------:|-----:|-------:|------:|
-| [November](November/) | 523 | 1062 | 0 | 1585 |
+| [November](November/) | 528 | 1067 | 0 | 1595 |
 | [October](October/) | 731 | 1333 | 0 | 2064 |
 | [September](September/) | 775 | 1439 | 0 | 2214 |
 | [August](August/) | 788 | 1176 | 0 | 1964 |

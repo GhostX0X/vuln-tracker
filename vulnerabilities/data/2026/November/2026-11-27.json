@@ -1,0 +1,122 @@
+[
+  {
+    "cve_id": "CVE-2026-137706",
+    "title": "CVE-2026-137706 - Direk Tech\uff5cSmart Portal - Missing Authorization",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-137706",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.9,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-11-27 03:17 UTC",
+    "reported_ago": "37\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-137705",
+    "title": "CVE-2026-137705 - Direk Tech\uff5cSmart Portal - Arbitrary File Read",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-137705",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.7,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-27 03:17 UTC",
+    "reported_ago": "37\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-137704",
+    "title": "CVE-2026-137704 - D-Link\uff5cD-Link DWM-222W - Use of Hard-coded Credentials",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-137704",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-11-27 03:17 UTC",
+    "reported_ago": "37\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-137702",
+    "title": "CVE-2026-137702 - Exim Heap Out-of-Bounds Write",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-137702",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.1,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-11-27 02:16 UTC",
+    "reported_ago": "1\u00a0hour, 37\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-115867",
+    "title": "CVE-2026-115867 - Database for Contact Form 7, WPforms, Elementor forms <= 1.5.5 - Unauthenticated Arbitrary File Upload via Ninja Forms Submission",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-115867",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-27 02:16 UTC",
+    "reported_ago": "1\u00a0hour, 37\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-113774",
+    "title": "CVE-2026-113774 - Schema & Structured Data for WP & AMP <= 1.68 - Unauthenticated Deserialization of Untrusted Data to Arbitrary File Deletion via 'saswp_reviewer_name' Parameter via Public Review Form",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-113774",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-27 02:16 UTC",
+    "reported_ago": "1\u00a0hour, 37\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-106125",
+    "title": "CVE-2026-106125 - Sneeit Framework <= 8.7 - Unauthenticated Remote Code Execution via sneeit_compact_menu_mega_content_callback",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-106125",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.8,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-27 02:16 UTC",
+    "reported_ago": "1\u00a0hour, 37\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-136976",
+    "title": "CVE-2026-136976 - lxd: Improper link resolution in recursive file pull client handling",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-136976",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "high",
+    "score": 8.5,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-11-27 00:16 UTC",
+    "reported_ago": "3\u00a0hours, 37\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-135384",
+    "title": "CVE-2026-135384 - lxd: Improper authentication in OIDC bearer token verification",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-135384",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.2,
+    "is_kev": false,
+    "is_watch": true,
+    "pub": "2026-11-27 00:16 UTC",
+    "reported_ago": "3\u00a0hours, 37\u00a0minutes ago"
+  },
+  {
+    "cve_id": "CVE-2026-127163",
+    "title": "CVE-2026-127163 - pylxd: Improper certificate validation in websocket connections",
+    "link": "https://cvefeed.io/vuln/detail/CVE-2026-127163",
+    "source": "cvefeed.io (High/Critical)",
+    "severity": "critical",
+    "score": 9.1,
+    "is_kev": false,
+    "is_watch": false,
+    "pub": "2026-11-27 00:16 UTC",
+    "reported_ago": "3\u00a0hours, 37\u00a0minutes ago"
+  }
+]
